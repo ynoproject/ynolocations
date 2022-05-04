@@ -58,6 +58,7 @@
 		"0263": { "title": "Magnet Room: Zalgo's Room?", "urlTitle": "Magnet_Room" },
 		"0266": { "title": "Magnet Room: Zalgo's Room", "urlTitle": "Magnet_Room" },
 		"0274": "Underwater Amusement Park",
+		"0285": "Sky Kingdom",
 		"0317": [
 			{ "title": "Closet Pinwheel Path", "coords": { "x1": -1, "y1": 75, "x2": -1, "y2": 151 } },
 			"Japan Town"
@@ -157,6 +158,7 @@
 			{ "title": "Extraterrestrial Cliffside: Strange Poison Fields", "urlTitle": "Extraterrestrial_Cliffside#Strange_Poison_Fields", "coords": { "x1": 0, "y1": 155, "x2": 34, "y2": 169 } },
 			{ "title": "Haunted Forest Town: Spirit Mansion", "urlTitle": "Haunted_Forest_Town" }
 		],
+		"0933": "Static Labyrinth",
 		"0936": "Neon Caves",
 		"0943": [
 			{ "title": "Fossil Lake", "coords": { "x1": 50, "y1": -1, "x2": 99, "y2": -1 } },
@@ -195,6 +197,7 @@
 			{ "title": "Whipped Cream World", "coords": { "x1": -1, "y1": 112, "x2": -1, "y2": 258 } },
 			"Whipped Cream World"
 		],
+		"1195": "Fluorescent City",
 		"1205": { "title": "Tomb of Velleities: Lunar Sanctuary", "urlTitle": "Tomb_of_Velleities#Lunar_Sanctuary" },
 		"1266": [
 			{ "title": "Finger Candle World: Lonely Crying Path", "urlTitle": "Finger_Candle_World#Finger_Maze", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 89 } },
@@ -340,6 +343,7 @@
 			{ "title": "Grand Beach", "coords": { "x1": 0, "y1": -1, "x2": 313, "y2": -1 } },
 			{ "title": "Checkered Postal Path", "coords": { "x1": 314, "y1": -1, "x2": 399, "y2": -1 } }
 		],
+		"1663": "Azure Garden",
 		"1673": "Magical Passage",
 		"1697": [
 			{ "title": "Spike Alley", "coords": { "x1": 0, "y1": -1, "x2": 53, "y2": -1 } },
