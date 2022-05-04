@@ -117,6 +117,7 @@
 			{ "title": "Sandy Plains", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 73 } },
 			{ "title": "Aquamarine Cave", "coords": { "x1": -1, "y1": 74, "x2": -1, "y2": 184 } }
 		],
+		"0780": "Underground Lake",
 		"0785": [
 			{ "title": "Gray Relic World", "coords": { "x1": -1, "y1": 60, "x2": -1, "y2": 99 } },
 			"Escalator"
@@ -158,7 +159,7 @@
 			{ "title": "Extraterrestrial Cliffside: Strange Poison Fields", "urlTitle": "Extraterrestrial_Cliffside#Strange_Poison_Fields", "coords": { "x1": 0, "y1": 155, "x2": 34, "y2": 169 } },
 			{ "title": "Haunted Forest Town: Spirit Mansion", "urlTitle": "Haunted_Forest_Town" }
 		],
-		"0933": "Static Labyrinth",
+		"0935": "Static Labyrinth",
 		"0936": "Neon Caves",
 		"0943": [
 			{ "title": "Fossil Lake", "coords": { "x1": 50, "y1": -1, "x2": 99, "y2": -1 } },
@@ -169,6 +170,8 @@
 			"Ruined Garden"
 		],
 		"1033": "Streetlight Garden",
+		"1035": "Cliffside Woods",
+		"1038": "Radiant Stones Pathway",
 		"1061": [
 			{ "title": "Apartments", "coords": { "x1": 0, "y1": 3, "x2": 71, "y2": 21 } },
 			{ "title": "Apartments", "coords": { "x1": 0, "y1": 160, "x2": 35, "y2": 174 } },
