@@ -33,6 +33,7 @@
 			{ "title": "Highway", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 32 } },
 			"Black Building"
 		],
+		"0102": { "title": "Red Blue Yellow (Mini Game B)", "explorer": false },
 		"0121": { "title": "↑v↑ (Wavy Up)", "explorer": false },
 		"0122": { "title": "↑v↑ (Wavy Up)", "explorer": false },
 		"0123": { "title": "↑v↑ (Wavy Up)", "explorer": false },
@@ -276,6 +277,7 @@
 			{ "title": "Submerged Communications Area", "coords": { "x1": -1, "y1": 150, "x2": -1, "y2": 179 } },
 			"City of Liars"
 		],
+		"1318": "Chocolate Tower",
 		"1341": [
 			{ "title": "Winter Valley", "coords": { "x1": -1, "y1": 115, "x2": -1, "y2": 209 } },
 			{ "title": "Bright Forest", "coords": { "x1": 40, "y1": 235, "x2": 79, "y2": 259 } },
@@ -401,6 +403,7 @@
 		]
 	},
 	"locationUrlTitles": {
+		"Red Blue Yellow (Mini Game B)": "Console#Red_Blue_Yellow_(Mini_Game_B)",
 		"↑v↑ (Wavy Up)": "Console#.E2.86.91V.E2.86.91_.28Wavy_Up.29",
 		"Puzzle Game (Kura Puzzle)": "Console#PUZZLE_GAME_.28Kura_Puzzle.29",
 		"Plated Snow Country": "Console#Plated_Snow_Country",
