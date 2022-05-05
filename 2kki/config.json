@@ -9,6 +9,7 @@
 		"0010": "The Nexus",
 		"0024": "Hospital",
 		"0051": "Marijuana Goddess World",
+		"0052": "Dark Room",
 		"0054": [
 			{ "title": "Sewers", "coords": { "x1": 0, "y1": -1, "x2": 125, "y2": -1 } },
 			"Red City"
@@ -33,6 +34,7 @@
 			{ "title": "Highway", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 32 } },
 			"Black Building"
 		],
+		"0070": "Flesh Paths World",
 		"0102": { "title": "Red Blue Yellow (Mini Game B)", "explorer": false },
 		"0121": { "title": "↑v↑ (Wavy Up)", "explorer": false },
 		"0122": { "title": "↑v↑ (Wavy Up)", "explorer": false },
@@ -93,6 +95,7 @@
 			{ "title": "Downfall Garden B", "coords": { "x1": 175, "y1": -1, "x2": 239, "y2": -1 } },
 			"Downfall Garden A"
 		],
+		"0595": { "title": "Sea of Clouds: Moai Bro Prison", "urlTitle": "Sea_of_Clouds" },
 		"0620": "Sound Room",
 		"0668": "Lotus Waters",
 		"0672": "Pencil World",
@@ -129,6 +132,7 @@
 			{ "title": "Haunted Forest Town", "coords": { "x1": 125, "y1": 110, "x2": 159, "y2": 149 } },
 			"Underground Passage"
 		],
+		"0845": { "title": "Misty Bridges: Lotus Lamp Room", "urlTitle": "Misty_Bridges" },
 		"0849": [
 			{ "title": "Extraterrestrial Cliffside", "coords": { "x1": 0, "y1": 92, "x2": 179, "y2": 119 } },
 			{ "title": "Extraterrestrial Cliffside", "coords": { "x1": 180, "y1": 72, "x2": 309, "y2": 119 } },
