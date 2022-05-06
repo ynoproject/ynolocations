@@ -181,17 +181,5 @@
 		"0177": "商场",
 		"0178": { "title": "商场楼顶", "urlTitle": "The_Mall#Mall_Rooftop" },
 		"0179": { "title": "魔女飞行", "urlTitle": "The_Mall#Mall_Rooftop" }
-	},
-	"locationUrlTitles": {
-		"Dense Woods A": "Dense_Woods#Dense_Woods_A",
-		"Dense Woods B": "Dense_Woods#Dense_Woods_B",
-		"The Infinite Road": "Dense_Woods#The_Infinite_Road",
-		"White Desert A": "White_Desert#White_Desert_A",
-		"White Desert B": "White_Desert#White_Desert_B",
-		"White Desert Underground Lagoon": "White_Desert#White_Desert_B",
-		"The Docks A": "The_Docks#The_Docks_A",
-		"The Docks B": "The_Docks#The_Docks_B",
-		"Crossover Garden": "Sky_Garden",
-		"Mars Underground": "Mars"
 	}
 }
