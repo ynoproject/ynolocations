@@ -35,6 +35,7 @@
 			"Black Building"
 		],
 		"0070": "Flesh Paths World",
+		"0086": "Blue Forest",
 		"0102": { "title": "Red Blue Yellow (Mini Game B)", "explorer": false },
 		"0121": { "title": "↑v↑ (Wavy Up)", "explorer": false },
 		"0122": { "title": "↑v↑ (Wavy Up)", "explorer": false },
@@ -132,6 +133,7 @@
 			{ "title": "Haunted Forest Town", "coords": { "x1": 125, "y1": 110, "x2": 159, "y2": 149 } },
 			"Underground Passage"
 		],
+		"0809": "Sea Lily World",
 		"0845": { "title": "Misty Bridges: Lotus Lamp Room", "urlTitle": "Misty_Bridges" },
 		"0849": [
 			{ "title": "Extraterrestrial Cliffside", "coords": { "x1": 0, "y1": 92, "x2": 179, "y2": 119 } },
@@ -166,6 +168,7 @@
 		],
 		"0935": "Static Labyrinth",
 		"0936": "Neon Caves",
+		"0939": "Aquatic Cube City",
 		"0943": [
 			{ "title": "Fossil Lake", "coords": { "x1": 50, "y1": -1, "x2": 99, "y2": -1 } },
 			"Aquatic Cube City"
@@ -281,6 +284,7 @@
 			{ "title": "Submerged Communications Area", "coords": { "x1": -1, "y1": 150, "x2": -1, "y2": 179 } },
 			"City of Liars"
 		],
+		"1312": "Cosmic Cube World",
 		"1318": "Chocolate Tower",
 		"1341": [
 			{ "title": "Winter Valley", "coords": { "x1": -1, "y1": 115, "x2": -1, "y2": 209 } },
@@ -315,6 +319,7 @@
 			{ "title": "Evil Cube Zone", "coords": { "x1": -1, "y1": 99, "x2": -1, "y2": 179 } }
 		],
 		"1422": { "title": "Obentou World", "explorer": "true" },
+		"1476": "Rusted Factory",
 		"1500": "Unknown Child's Room",
 		"1521": [
 			{ "title": "Deluxe Mask Shop", "coords": { "x1": -1, "y1": 30, "x2": -1, "y2": 44 } },
@@ -404,7 +409,8 @@
 		"1730": [
 			{ "title": "Elemental Caves", "coords": { "x1": 0, "y1": 81, "x2": 84, "y2": 159 } },
 			"Nazca Valley"
-		]
+		],
+		"1733": { "title": "Twisted Thickets: The Peak", "urlTitle": "Twisted_Thickets" }
 	},
 	"locationUrlTitles": {
 		"Red Blue Yellow (Mini Game B)": "Console#Red_Blue_Yellow_(Mini_Game_B)",
