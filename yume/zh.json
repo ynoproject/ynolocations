@@ -1,6 +1,4 @@
 {
-	"ignoredMapIds": [ "0002", "0085", "0119", "0155", "0156" ],
-	"urlRoot": "https://yumenikki.fandom.com/wiki/",
 	"mapLocations": {
 		"0003": "附窗子的房间",
 		"0004": { "title": "附窗子的阳台", "urlTitle": "Madotsuki%27s_Room" },
