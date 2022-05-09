@@ -111,7 +111,6 @@
 			{ "title": "Ancient Hydrangea City", "coords": { "x1": 0, "y1": 25, "x2": 29, "y2": 58 } },
 			"Florist"
 		],
-		"0729": "Scrambled Egg Zone",
 		"0762": [
 			{ "title": "Scorched Wasteland: The Ark", "urlTitle": "Scorched_Wasteland#The_Ark", "coords": { "x1": 0, "y1": 0, "x2": 24, "y2": 14 } },
 			{ "title": "Paradise", "coords": { "x1": 25, "y1": 0, "x2": 49, "y2": 14 } },
@@ -327,7 +326,7 @@
 			"Blob Desert"
 		],
 		"1547": [
-			{ "title": "Execution Grounds", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
+			{ "title": "Execution Ground", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			"Cactus Desert"
 		],
 		"1588": [
