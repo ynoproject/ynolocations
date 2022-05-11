@@ -79,6 +79,10 @@
 		"0455": { "title": "Lorn Tower: Portrait", "urlTitle": "Lorn_Tower" },
 		"0458": { "title": "Gallery Of Me", "urlTitle": "Gallery_Of_Me" },
 		"0483": "Neon Highway",
+		"0485": [
+			{ "title": "Atlantis: Bus", "urlTitle": "Atlantis#The_Trench_Overlook", "coords": { "x1": 0, "y1": 0, "x2": 14, "y2": 19 } },
+			"Spirit Capital"
+		],
 		"0489": [
 			{ "title": "Downfall Garden A", "coords": { "x1": 210, "y1": 0, "x2": 279, "y2": 76 } },
 			{ "title": "River_Complex: Buddha Face Labyrinth", "urlTitle": "River_Complex#Buddha_Face_Labyrinth", "coords": { "x1": 240, "y1": 131, "x2": 256, "y2": 139 } },
