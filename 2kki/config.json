@@ -348,6 +348,7 @@
 			{ "title": "Eyeball Cherry Fields", "coords": { "x1": 63, "y1": 0, "x2": 82, "y2": 14 } },
 			{ "title": "Wind Turbine Plateau", "coords": { "x1": 92, "y1": 32, "x2": 111, "y2": 46 } },
 			{ "title": "Garden of Treachery: Visine Corridor", "urlTitle": "Garden_of_Treachery#Visine_Corridor", "coords": { "x1": 0, "y1": 32, "x2": 82, "y2": 46 } },
+			{ "title": "Garden of Treachery", "coords": { "x1": 0, "y1": 65, "x2": 50, "y2": 101 } },
 			{ "title": "Garden of Treachery: Stairs of Wrath", "urlTitle": "Garden_of_Treachery#Stairs_of_Wrath" }
 		],
 		"1621": [
