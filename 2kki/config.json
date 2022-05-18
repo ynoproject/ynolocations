@@ -165,7 +165,8 @@
 			{ "title": "Surgical Scissors World", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 14 } },
 			{ "title": "Fossil Lake", "coords": { "x1": 0, "y1": 80, "x2": 86, "y2": 94 } },
 			{ "title": "Fossil Lake", "coords": { "x1": 130, "y1": 80, "x2": 179, "y2": 94 } },
-			{ "title": "Erratic Pillar Lands", "coords": { "x1": 87, "y1": 15, "x2": 176, "y2": 94 } },
+			{ "title": "Erratic Pillar Lands", "coords": { "x1": 0, "y1": 15, "x2": 76, "y2": 74 } },
+			{ "title": "Surgical Scissors World", "coords": { "x1": 87, "y1": 15, "x2": 176, "y2": 94 } },
 			"Ocean Subsurface"
 		],
 		"0925": [
@@ -326,7 +327,7 @@
 			{ "title": "Totem Hotel", "coords": { "x1": -1, "y1": 50, "x2": -1, "y2": 98 } },
 			{ "title": "Evil Cube Zone", "coords": { "x1": -1, "y1": 99, "x2": -1, "y2": 179 } }
 		],
-		"1422": { "title": "Obentou World", "explorer": "true" },
+		"1422": "Obentou World",
 		"1476": "Rusted Factory",
 		"1500": "Unknown Child's Room",
 		"1521": [
