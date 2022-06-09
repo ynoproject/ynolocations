@@ -134,15 +134,15 @@
 		"0190": "Winter Village",
 		"0191": "Winter Village",
 		"0192": [
-			{ "title": "Ice Chapel", "coords": { "x1": "0", "y1": "0", "x2": "87", "y2" :"17" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "0", "y1": "18", "x2": "199", "y2" :"71" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "0", "y1": "72", "x2": "62", "y2" :"103" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "11", "y1": "104", "x2": "56", "y2" :"117" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "88", "y1": "10", "x2": "104", "y2" :"17" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "105", "y1": "0", "x2": "141", "y2" :"17" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "106", "y1": "72", "x2": "199", "y2" :"102" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "156", "y1": "0", "x2": "199", "y2" :"17" } },
-			{ "title": "Ice Chapel", "coords": { "x1": "179", "y1": "103", "x2": "199", "y2" :"127" } },
+			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 0, "x2": 87, "y2" :17 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 18, "x2": 199, "y2" :71 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 72, "x2": 62, "y2" :103 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 11, "y1": 104, "x2": 56, "y2" :117 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 88, "y1": 10, "x2": 104, "y2" :17 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 105, "y1": 0, "x2": 141, "y2" :17 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 106, "y1": 72, "x2": 199, "y2" :102 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 156, "y1": 0, "x2": 199, "y2" :17 } },
+			{ "title": "Ice Chapel", "coords": { "x1": 179, "y1": 103, "x2": 199, "y2" :127 } },
 			"Winter Village"
 		],
 		"0193": "White Spike World",
@@ -165,8 +165,15 @@
 		"0211": "Floating Lamp World",
 		"0212": "Forsaken Cliff",
 		"0213": "Picnic Table",
+		"0220": [
+			{ "title": "Playing Card Maze: Bloodshot Hall", "urlTitle": "Playing_Card_Maze", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 53 } },
+			{ "title": "Hat Park: Duck Corridor", "urlTitle": "Hat_Park", "coords": { "x1": -1, "y1": 54, "x2": -1, "y2": 78 } },
+			{ "title": "Abandoned Pools: Locker Room", "urlTitle": "Abandoned_Pools", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 121 } },
+			{ "title": "Pink Desert: Rainy Street", "urlTitle": "Pink_Desert", "coords": { "x1": -1, "y1": 145, "x2": -1, "y2": 159 } },
+			"Playing Card Maze"
+		],
 		"0221": [
-			{ "title": "Playing Card Maze", "coords": { "x1": "-1", "y1": "0", "x2": "-1", "y2": "82" } },
+			{ "title": "Playing Card Maze", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 82 } },
 			"Pastel Labyrinth"
 		],
 		"0223": "Kaomoji Mall",
@@ -174,7 +181,7 @@
 		"0225": "Pink Desert",
 		"0226": "Bumblebee Lounge",
 		"0228": [
-			{ "title": "Pink Desert: Duck Room", "urlTitle": "Pink_Desert", "coords": { "x1": "3", "y1": "126", "x2": "18", "y2": "137" } },
+			{ "title": "Pink Desert: Duck Room", "urlTitle": "Pink_Desert", "coords": { "x1": 3, "y1": 126, "x2": 18, "y2": 137 } },
 			"Smile Town"
 		],
 		"0229": "Polygon Place",
@@ -197,10 +204,12 @@
 		"0273": "Sky Islands",
 		"0274": "Heaven's Docks",
 		"0275": "Heaven's Docks",
-		"0276": "Cabin",
+		"0276": { "title": "Cabin: Exterior", "urlTitle": "Cabin" },
 		"0278": "All-Seeing Forest",
 		"0279": [
-			{ "title": "Cabin", "coords": { "x1": "-1", "y1": "0", "x2": "-1", "y2": "14"} },
+			{ "title": "Ice Chapel: Stained Glass Corridor", "urlTitle": "Ice_Chapel", "coords": { "x1": 0, "y1": 0, "x2": 87, "y2": 21 } },
+			{ "title": "Cabin", "coords": { "x1": 0, "y1": 75, "x2": 46, "y2": 95 } },
+			{ "title": "Cabin: Mouse Hole", "urlTitle": "Cabin", "coords": { "x1": 4, "y1": 61, "x2": 87, "y2": 95 } },
 			"Void Murals"
 		],
 		"0280": "DUDE Complex",
@@ -211,7 +220,7 @@
 		"0294": "Concrete Treehouse",
 		"0295": "Neon Village",
 		"0296": [
-			{ "title": "Concrete Treehouse", "coords": { "x1": "30", "y1": "0", "x2": "49", "y2": "15"} },
+			{ "title": "Concrete Treehouse", "coords": { "x1": 30, "y1": 0, "x2": 49, "y2": 15 } },
 			"Neon Village"
 		],
 		"0297": "Concrete Treehouse",
@@ -234,7 +243,7 @@
 		"0350": "Deranged Faces Zone",
 		"0351": "Abandoned Pools",
 		"0352": [
-			{ "title": "Abandoned Pools", "coords": { "x1": "0", "y1": "0", "x2": "20", "y2": "15"} },
+			{ "title": "Abandoned Pools", "coords": { "x1": 0, "y1": 0, "x2": 20, "y2": 15 } },
 			"Cliffside Temple"
 		],
 		"0353": "Barcode World",
