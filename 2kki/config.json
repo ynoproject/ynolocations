@@ -170,6 +170,7 @@
 			{ "title": "Surgical Scissors World", "coords": { "x1": 87, "y1": 15, "x2": 176, "y2": 94 } },
 			"Ocean Subsurface"
 		],
+		"0909": { "title": "Extraterrestrial Cliffside: Strange Poison Fields", "urlTitle": "Extraterrestrial_Cliffside#Strange_Poison_Fields" },
 		"0925": [
 			{ "title": "Riverside Waste Facility", "coords": { "x1": 0, "y1": 0, "x2": 30, "y2": 14 } },
 			{ "title": "Extraterrestrial Cliffside: Strange Poison Fields", "urlTitle": "Extraterrestrial_Cliffside#Strange_Poison_Fields", "coords": { "x1": 0, "y1": 155, "x2": 34, "y2": 169 } },
