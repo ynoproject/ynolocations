@@ -346,6 +346,7 @@
 			"Rusty Urban Complex"
 		],
 		"1590": [
+			{ "title": "Dream Pool", "coords": { "x1": 0, "y1": 16, "x2": 0, "y2": 16 } },
 			{ "title": "Dark Nexus", "coords": { "x1": 92, "y1": 0, "x2": 141, "y2": 30 } },
 			{ "title": "Eyeball Cherry Fields", "coords": { "x1": 63, "y1": 0, "x2": 82, "y2": 14 } },
 			{ "title": "Wind Turbine Plateau", "coords": { "x1": 92, "y1": 32, "x2": 111, "y2": 46 } },
