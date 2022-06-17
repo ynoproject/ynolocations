@@ -423,7 +423,24 @@
 			{ "title": "Elemental Caves", "coords": { "x1": 0, "y1": 81, "x2": 84, "y2": 159 } },
 			"Nazca Valley"
 		],
-		"1733": { "title": "Twisted Thickets: The Peak", "urlTitle": "Twisted_Thickets" }
+		"1733": { "title": "Twisted Thickets: The Peak", "urlTitle": "Twisted_Thickets" },
+		"1806": [
+			{ "title": "Digital Alley: Disco Floor", "urlTitle": "Digital_Alley#Disco_Floor", "coords": { "x1": 307, "y1": -1, "x2": 449, "y2": -1 } },
+			"Industrial Hotel"
+		],
+		"1807": [
+			{ "title": "Nazca Valley: Fried Egg Zone", "urlTitle": "Nazca_Valley#Pink_and_Cyan_Stone", "coords": { "x1": 124, "y1": -1, "x2": 249, "y2": -1 } },
+			"Serum Laboratory"
+		],
+		"1809": [
+			{ "title": "Love Lodge", "coords": { "x1": 110, "y1": 0, "x2": 119, "y2": 61 } },
+			{ "title": "Snowy Suburbs", "coords": { "x1": 110, "y1": 62, "x2": 119, "y2": 99 } },
+			"Cyber Prison"
+		],
+		"1810": [
+			{ "title": "Nightmare Cathedral", "coords": { "x1": 0, "y1": -1, "x2": 201, "y2": -1 } },
+			"Fossil Mines"
+		]
 	},
 	"locationUrlTitles": {
 		"Red Blue Yellow (Mini Game B)": "Console#Red_Blue_Yellow_(Mini_Game_B)",
