@@ -112,7 +112,7 @@
 			"0047": { "title": "삼도천 B", "urlTitle": "s-21.1" },
 			"0074": { "title": "삼도천 A", "urlTitle": "s-21.1" },
 			"0083": { "title": "삼도천 A", "urlTitle": "s-21.1" },
-			"else": { "title": "삼도천", "urlTitle": "s-21.1" },
+			"else": { "title": "삼도천", "urlTitle": "s-21.1" }
 		},
 		"0112": { "title": "공중정원", "urlTitle": "s-15.1" },
 		"0113": { "title": "공중정원", "urlTitle": "s-15.1" },
@@ -162,7 +162,7 @@
 			"0147": { "title": "FC 유적 A", "urlTitle": "s-18" },
 			"0151": { "title": "FC 유적 B", "urlTitle": "s-18" },
 			"0154": { "title": "FC 유적 B", "urlTitle": "s-18" },
-			"else": { "title": "FC 유적", "urlTitle": "s-18" },
+			"else": { "title": "FC 유적", "urlTitle": "s-18" }
 		},
 		"0159": { "title": "꿈 속의 꿈", "urlTitle": "s-23" },
 		"0160": { "title": "지하실", "urlTitle": "s-23.1" },
@@ -182,6 +182,6 @@
 		"0174": { "title": "화성 지하", "urlTitle": "s-23.1.1.1" },
 		"0177": { "title": "백화점", "urlTitle": "s-11" },
 		"0178": { "title": "백화점 : 옥상", "urlTitle": "s-11" },
-		"0179": { "title": "백화점 : 마녀의 비행", "urlTitle": "s-11" },
+		"0179": { "title": "백화점 : 마녀의 비행", "urlTitle": "s-11" }
 	}
 }
