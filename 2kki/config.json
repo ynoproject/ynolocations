@@ -80,7 +80,7 @@
 		"0458": { "title": "Gallery Of Me", "urlTitle": "Gallery_Of_Me" },
 		"0483": "Neon Highway",
 		"0485": [
-			{ "title": "Atlantis: Bus", "urlTitle": "Atlantis#The_Trench_Overlook", "coords": { "x1": 0, "y1": 0, "x2": 14, "y2": 19 } },
+			{ "title": "Atlantis: Bus", "urlTitle": "Atlantis#The_Trench_Overlook", "coords": { "x1": 1, "y1": 1, "x2": 14, "y2": 19 } },
 			"Spirit Capital"
 		],
 		"0489": [
