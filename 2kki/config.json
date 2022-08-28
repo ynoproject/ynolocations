@@ -432,7 +432,9 @@
 			{ "title": "Love Lodge", "coords": { "x1": 113, "y1": -1, "x2": 294, "y2": -1 } }
 		],
 		"1730": [
+			{ "title": "Rainbow Pottery Zone", "coords": { "x1": 0, "y1": 0, "x2": 84, "y2": 80 } },
 			{ "title": "Elemental Caves", "coords": { "x1": 0, "y1": 81, "x2": 84, "y2": 159 } },
+			{ "title": "Digital Alley", "coords": { "x1": 185, "y1": 81, "x2": 277, "y2": 159 } },
 			"Nazca Valley"
 		],
 		"1733": { "title": "Twisted Thickets: The Peak", "urlTitle": "Twisted_Thickets" },
