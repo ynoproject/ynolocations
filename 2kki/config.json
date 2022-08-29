@@ -30,6 +30,10 @@
 			{ "title": "Highway", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 179 } },
 			{ "title": "Neon Highway", "coords": { "x1": -1, "y1": 180, "x2": -1, "y2": 219 } }
 		],
+		"0067": [
+			{ "title": "Sugar World", "coords": { "x1": 0, "y1": 45, "x2": 21, "y2": 59 } },
+			"Highway"
+		],
 		"0068": [
 			{ "title": "Highway", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 32 } },
 			"Black Building"
