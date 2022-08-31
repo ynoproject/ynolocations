@@ -451,8 +451,8 @@
 			"Serum Laboratory"
 		],
 		"1809": [
-			{ "title": "Love Lodge", "coords": { "x1": 110, "y1": 0, "x2": 119, "y2": 61 } },
-			{ "title": "Snowy Suburbs", "coords": { "x1": 110, "y1": 62, "x2": 119, "y2": 99 } },
+			{ "title": "Love Lodge", "coords": { "x1": 140, "y1": 0, "x2": 199, "y2": 61 } },
+			{ "title": "Snowy Suburbs", "coords": { "x1": 140, "y1": 62, "x2": 199, "y2": 99 } },
 			"Cyber Prison"
 		],
 		"1810": [
