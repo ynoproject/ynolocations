@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0801", "0899", "0900", "1581" ],
+	"ignoredMapIds": [ "0784", "0801", "0899", "0900", "1581" ],
 	"urlRoot": "https://yume2kki.fandom.com/wiki/",
 	"mapLocations": {
 		"0002": "Urotsuki's Room",
@@ -167,11 +167,10 @@
 		"0911": [
 			{ "title": "Monochrome Feudal Japan", "coords": { "x1": 109, "y1": 15, "x2": 132, "y2": 25 } },
 			{ "title": "Viridescent Temple", "coords": { "x1": 77, "y1": 15, "x2": 98, "y2": 27 } },
-			{ "title": "Surgical Scissors World", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 14 } },
+			{ "title": "Surgical Scissors World", "coords": { "x1": 0, "y1": 0, "x2": 179, "y2": 14 } },
 			{ "title": "Fossil Lake", "coords": { "x1": 0, "y1": 80, "x2": 86, "y2": 94 } },
 			{ "title": "Fossil Lake", "coords": { "x1": 130, "y1": 80, "x2": 179, "y2": 94 } },
 			{ "title": "Erratic Pillar Lands", "coords": { "x1": 0, "y1": 15, "x2": 76, "y2": 74 } },
-			{ "title": "Surgical Scissors World", "coords": { "x1": 87, "y1": 15, "x2": 176, "y2": 94 } },
 			"Ocean Subsurface"
 		],
 		"0909": { "title": "Extraterrestrial Cliffside: Strange Poison Fields", "urlTitle": "Extraterrestrial_Cliffside#Strange_Poison_Fields" },
@@ -451,8 +450,8 @@
 			"Serum Laboratory"
 		],
 		"1809": [
-			{ "title": "Love Lodge", "coords": { "x1": 110, "y1": 0, "x2": 119, "y2": 61 } },
-			{ "title": "Snowy Suburbs", "coords": { "x1": 110, "y1": 62, "x2": 119, "y2": 99 } },
+			{ "title": "Love Lodge", "coords": { "x1": 140, "y1": 0, "x2": 199, "y2": 61 } },
+			{ "title": "Snowy Suburbs", "coords": { "x1": 140, "y1": 62, "x2": 199, "y2": 99 } },
 			"Cyber Prison"
 		],
 		"1810": [
