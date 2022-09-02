@@ -92,7 +92,7 @@
 		"0093": "Apartment",
 		"0094": {
 			"0093": "Apartment",
-			"0099": "The City"
+			"0099": "Spirit Town"
 		},
 		"0095": "Broken Clock Park",
 		"0096": "Broken Clock Park",
@@ -109,12 +109,12 @@
 		"0107": "Apartment",
 		"0108": "Spirit Town",
 		"0109": { "title": "Underwater Ship: Cat Eyes event", "urlTitle": "Underwater_Ship" },
-		"0110": { "title": "Snowy Streets: Snow Girl Army", "urlTitle": "Snowy_Streets#Snow_Girl_Army"
+		"0110": { "title": "Snowy Streets: Snow Girl Army", "urlTitle": "Snowy_Streets#Snow_Girl_Army" }
 	},
 	"locationUrlTitles": {
 		"GB Town": "Game_Boy_World",
 		"GB Forest": "Game_Boy_World",
 		"GB Tower": "Game_Boy_World",
-		"GB Mansion": "Game_Boy_World",
+		"GB Mansion": "Game_Boy_World"
 	}
 }
