@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0044", "0077", "0138", "0167", "0178", "0226", "0228", "0229" ],
+	"ignoredMapIds": [ "0044", "0077", "0138", "0167", "0178", "0226", "0228", "0229", "0290" ],
 	"mapLocations": {
 		"0001": "Room",
 		"0002": "Nexus",
@@ -280,6 +280,8 @@
 		"0285": "Dance Flood",
 		"0286": "Cliff",
 		"0287": "Cliff",
-		"0288": "Relaxing Room"
+		"0288": "Relaxing Room",
+		"0289": "ZApNeF Advanced Level 1",
+		"0291": "ZApNeF Advanced Level 2"
 	}
 }
