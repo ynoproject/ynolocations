@@ -315,11 +315,7 @@
 			"Solstice Forest"
 		],
 		"1344": [
-			{ "title": "3D Structures Path", "coords": { "x1": 195, "y1": 0, "x2": 299, "y2": 94 } },
-			{ "title": "3D Structures Path", "coords": { "x1": 180, "y1": 45, "x2": 194, "y2": 94 } },
-			{ "title": "3D Structures Path", "coords": { "x1": 110, "y1": 70, "x2": 179, "y2": 94 } },
-			{ "title": "3D Structures Path", "coords": { "x1": 80, "y1": 80, "x2": 109, "y2": 99 } },
-			{ "title": "3D Structures Path", "coords": { "x1": 10, "y1": 110, "x2": 39, "y2": 129 } },
+			{ "title": "3D Structures Path", "coords": { "x1": 0, "y1": 253, "x2": 76, "y2": 299 } },
 			"The Gutter"
 		],
 		"1381": [
