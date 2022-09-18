@@ -80,6 +80,10 @@
 			"Grass World"
 		],
 		"0381": { "title": "Forest Carnival: High Priestess' Show", "urlTitle": "Forest_Carnival" },
+		"0451": {
+			"1521": "Deluxe Mask Shop",
+			"else": "Mask Shop"
+		},
 		"0455": { "title": "Lorn Tower: Portrait", "urlTitle": "Lorn_Tower" },
 		"0458": { "title": "Gallery Of Me", "urlTitle": "Gallery_Of_Me" },
 		"0483": "Neon Highway",
