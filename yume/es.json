@@ -109,9 +109,9 @@
 		"0109": { "title": "Casa de Poniko", "urlTitle": "Poniko#Poniko." },
 		"0110": "Laberinto de Telepuertos",
 		"0111": {
-			"0047": "Los Muelles B",
-			"0074": "Los Muelles A",
-			"0083": "Los Muelles A",
+			"0047": { "title": "Los Muelles B", "urlTitle": "Los_Muelles" },
+			"0074": { "title": "Los Muelles A", "urlTitle": "Los_Muelles" },
+			"0083": { "title": "Los Muelles A", "urlTitle": "Los_Muelles" },
 			"else": "Los Muelles"
 		},
 		"0112": "Jardín del Cielo",
@@ -157,12 +157,12 @@
 		"0154": "Mundo FC B",
 		"0157": "FC Dungeon",
 		"0158": {
-			"0145": "Mundo FC A",
-			"0146": "Mundo FC B",
-			"0147": "Mundo FC A",
-			"0151": "Mundo FC B",
-			"0154": "Mundo FC B",
-			"else": "Mundo FC C"
+			"0145": { "title": "Mundo FC A", "urlTitle": "Mundo_Famicom" },
+			"0146": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
+			"0147": { "title": "Mundo FC A", "urlTitle": "Mundo_Famicom" },
+			"0151": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
+			"0154": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
+			"else": "Mundo FC"
 		},
 		"0159": "La Escalera de Manos",
 		"0160": "Mundo Subterráneo",
@@ -191,8 +191,6 @@
 		"Desierto Blanco A": "Desierto_Blanco",
 		"Desierto Blanco B": "Desierto_Blanco",
 		"Desierto Blanco Underground Lagoon": "Desierto_Blanco",
-		"Los Muelles A": "Los_Muelles",
-		"Los Muelles B": "Los_Muelles",
 		"Crossover Garden": "Jardín_del_Cielo",
 		"Casa FC": "Mundo_Famicom",
 		"Mundo FC A": "Mundo_Famicom",
