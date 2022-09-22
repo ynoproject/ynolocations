@@ -176,10 +176,20 @@
 			{ "title": "Playing Card Maze", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 82 } },
 			"Pastel Labyrinth"
 		],
+		"0222": [
+			{ "title": "Hat Park", "coords": { "x1": 0, "y1": 66, "x2": 139, "y2": 141 } },
+			{ "title": "Playing Card Maze", "coords": { "x1": 34, "y1": 209, "x2": 52, "y2": 219 } },
+			"Duck World"
+		],
 		"0223": "Kaomoji Mall",
 		"0224": "Kaomoji Mall",
 		"0225": "Pink Desert",
 		"0226": "Bumblebee Lounge",
+		"0227": [
+			{ "title": "Puppet Theater", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
+			{ "title": "Polygon Place", "coords": { "x1": 20, "y1": 0, "x2": 79, "y2": 14 } },
+			"Hotel"
+		],
 		"0228": [
 			{ "title": "Pink Desert: Duck Room", "urlTitle": "Pink_Desert", "coords": { "x1": 3, "y1": 126, "x2": 18, "y2": 137 } },
 			"Smile Town"
