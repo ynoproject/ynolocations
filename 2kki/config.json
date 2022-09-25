@@ -466,6 +466,11 @@
 		"1810": [
 			{ "title": "Nightmare Inn", "coords": { "x1": 0, "y1": -1, "x2": 201, "y2": -1 } },
 			"Fossil Mines"
+		],
+		"1879": [
+			{ "title": "Adabana Gardens", "coords": { "x1": 2, "y1": 3, "x2": 20, "y2": 9 } },
+			{ "title": "Adabana Gardens", "coords": { "x1": 26, "y1": 20, "x2": 45, "y2": 24 } },
+			"Field of Cosmos"
 		]
 	},
 	"locationUrlTitles": {
