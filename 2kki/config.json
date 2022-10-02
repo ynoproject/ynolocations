@@ -40,18 +40,18 @@
 		],
 		"0070": "Flesh Paths World",
 		"0086": "Blue Forest",
-		"0102": { "title": "Red Blue Yellow (Mini Game B)", "explorer": false },
-		"0121": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0122": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0123": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0124": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0125": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0126": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0127": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0128": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0129": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0130": { "title": "↑v↑ (Wavy Up)", "explorer": false },
-		"0150": { "title": "Puzzle Game (Kura Puzzle)", "explorer": false },
+		"0102": { "title": "Red Blue Yellow (Mini Game B)", "urlTitle": "Console#Red_Blue_Yellow_(Mini_Game_B)", "explorer": false },
+		"0121": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0122": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0123": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0124": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0125": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0126": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0127": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0128": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0129": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0130": { "title": "↑v↑ (Wavy Up)", "urlTitle": "↑V↑_(Wavy_Up)", "explorer": false },
+		"0150": { "title": "Puzzle Game (Kura Puzzle)", "urlTitle": "Console#PUZZLE_GAME_.28Kura_Puzzle.29", "explorer": false },
 		"0176": [
 			{ "title": "Dressing Room", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 105 } },
 			"Fabric World"
@@ -61,8 +61,8 @@
 			"Atlantis"
 		],
 		"0243": { "title": "Visine World: Eye Shop", "urlTitle": "Visine_World" },
-		"0249": { "title": "Plated Snow Country", "explorer": false },
-		"0250": { "title": "Plated Snow Country", "explorer": false },
+		"0249": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
+		"0250": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
 		"0263": { "title": "Magnet Room: Zalgo's Room?", "urlTitle": "Magnet_Room" },
 		"0266": { "title": "Magnet Room: Zalgo's Room", "urlTitle": "Magnet_Room" },
 		"0274": "Underwater Amusement Park",
@@ -113,7 +113,7 @@
 			"Highway"
 		],
 		"0595": { "title": "Sea of Clouds: Moai Bro Prison", "urlTitle": "Sea_of_Clouds" },
-		"0618": { "title": "Red Blue Yellow (Mini Game B) - EX Version", "explorer": false },
+		"0618": { "title": "Red Blue Yellow (Mini Game B) - EX Version", "urlTitle": "Console#Red_Blue_Yellow_(Mini_Game_B)", "explorer": false },
 		"0620": "Sound Room",
 		"0668": "Lotus Waters",
 		"0672": "Pencil World",
@@ -466,14 +466,14 @@
 		"1810": [
 			{ "title": "Nightmare Inn", "coords": { "x1": 0, "y1": -1, "x2": 201, "y2": -1 } },
 			"Fossil Mines"
+		],
+		"1879": [
+			{ "title": "Adabana Gardens", "coords": { "x1": 2, "y1": 3, "x2": 20, "y2": 9 } },
+			{ "title": "Adabana Gardens", "coords": { "x1": 26, "y1": 20, "x2": 45, "y2": 24 } },
+			"Field of Cosmos"
 		]
 	},
 	"locationUrlTitles": {
-		"Red Blue Yellow (Mini Game B)": "Console#Red_Blue_Yellow_(Mini_Game_B)",
-		"↑v↑ (Wavy Up)": "Console#.E2.86.91V.E2.86.91_.28Wavy_Up.29",
-		"Puzzle Game (Kura Puzzle)": "Console#PUZZLE_GAME_.28Kura_Puzzle.29",
-		"Plated Snow Country": "Console#Plated_Snow_Country",
-		"Red Blue Yellow (Mini Game B) - EX Version": "Console#Red_Blue_Yellow_(Mini_Game_B)",
 		"Sound Room": "Soundtrack"
 	}
 }
