@@ -61,6 +61,8 @@
 		"0333": [ "光建", "顔と腕の通路" ],
 		"0354": [ "細道", "若葉" ],
 		"0381": { "title": "裏サーカス：ショー", "urlTitle": "裏サーカス" },
+		"0402": { "title": "GIMMICK RUNNER", "urlTitle": "ミニゲーム/GIMMICK%20RUNNER" },
+		"0403": { "title": "GIMMICK RUNNER：ビギナーズコース", "urlTitle": "ミニゲーム/GIMMICK%20RUNNER" },
 		"0451": {
 			"1521": "高級お面屋",
 			"else": "お面屋"
