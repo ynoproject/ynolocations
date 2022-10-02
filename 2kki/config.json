@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0379", "0380", "0448", "0449", "0477", "0600", "0784", "0801", "0899", "0900", "1581" ],
+	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0379", "0380", "0448", "0449", "0477", "0600", "0784", "0801", "0899", "0900", "1300", "1581" ],
 	"urlRoot": "https://yume2kki.fandom.com/wiki/",
 	"mapLocations": {
 		"0002": "Urotsuki's Room",
@@ -95,7 +95,10 @@
 		"0458": { "title": "Gallery Of Me", "urlTitle": "Gallery_Of_Me" },
 		"0471": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0472": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
-		"0473": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0473": {
+			"0474": { "title": "Bleak Future: Gray Hoodie Boy's Balcony", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+			"else": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false }
+		},
 		"0474": { "title": "Bleak Future: Gray Hoodie Boy's Room", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0475": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0476": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
