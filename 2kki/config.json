@@ -80,6 +80,8 @@
 			"Grass World"
 		],
 		"0381": { "title": "Forest Carnival: High Priestess' Show", "urlTitle": "Forest_Carnival" },
+		"0402": { "title": "Gimmick Runner", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
+		"0403": { "title": "Gimmick Runner: Beginner's Course", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0451": {
 			"1521": "Deluxe Mask Shop",
 			"else": "Mask Shop"
