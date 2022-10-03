@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0784", "0801", "0899", "0900", "1581" ],
+	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0379", "0380", "0448", "0449", "0477", "0600", "0784", "0801", "0899", "0900", "1300", "1581" ],
 	"urlRoot": "https://yume2kki.fandom.com/wiki/",
 	"mapLocations": {
 		"0002": "Urotsuki's Room",
@@ -8,6 +8,7 @@
 		"0005": { "title": "Urotsuki's Dream Balcony", "urlTitle": "Urotsuki's_Room#Urotsuki's_Balcony", "explorer": false },
 		"0010": "The Nexus",
 		"0024": "Hospital",
+		"0042": { "title": "Mini Game A", "urlTitle": "Console#Mini_Game_A", "explorer": false },
 		"0051": "Marijuana Goddess World",
 		"0052": "Dark Room",
 		"0054": [
@@ -60,6 +61,8 @@
 			{ "title": "Star Ocean", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Atlantis"
 		],
+		"0223": { "title": "Urotsuki's Balcony", "urlTitle": "Urotsuki's_Room#Urotsuki's_Balcony", "explorer": false },
+		"0225": { "title": "Urotsuki's Balcony", "urlTitle": "Urotsuki's_Room#Urotsuki's_Balcony", "explorer": false },
 		"0243": { "title": "Visine World: Eye Shop", "urlTitle": "Visine_World" },
 		"0249": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
 		"0250": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
@@ -75,17 +78,30 @@
 			{ "title": "Pastel Blue House", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 79 } },
 			"Broken Faces Area"
 		],
+		"0344": { "title": "FUJI", "urlTitle": "Console#FUJI", "explorer": false },
 		"0354": [
 			{ "title": "Dark Alleys", "coords": { "x1": 20, "y1": 15, "x2": 39, "y2": 29 } },
 			"Grass World"
 		],
 		"0381": { "title": "Forest Carnival: High Priestess' Show", "urlTitle": "Forest_Carnival" },
+		"0402": { "title": "Gimmick Runner", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
+		"0403": { "title": "Gimmick Runner: Beginner's Course", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0451": {
 			"1521": "Deluxe Mask Shop",
 			"else": "Mask Shop"
 		},
 		"0455": { "title": "Lorn Tower: Portrait", "urlTitle": "Lorn_Tower" },
+		"0457": "Sound Room",
 		"0458": { "title": "Gallery Of Me", "urlTitle": "Gallery_Of_Me" },
+		"0471": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0472": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0473": {
+			"0474": { "title": "Bleak Future: Gray Hoodie Boy's Balcony", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+			"else": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false }
+		},
+		"0474": { "title": "Bleak Future: Gray Hoodie Boy's Room", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0475": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0476": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0483": "Neon Highway",
 		"0485": [
 			{ "title": "Atlantis: Bus", "urlTitle": "Atlantis#The_Trench_Overlook", "coords": { "x1": 1, "y1": 1, "x2": 14, "y2": 19 } },
