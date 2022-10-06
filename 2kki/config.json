@@ -306,6 +306,10 @@
 			{ "title": "Opal Ruins A", "coords": { "x1": 0, "y1": 70, "x2": 16, "y2": 77 } },
 			"Opal Ruins B"
 		],
+		"1295": [
+			{ "title": "Forest of Sleepiness", "coords": { "x1": 0, "y1": 275, "x2": 39, "y2": 289 } },
+			"Statue Forest"
+		],
 		"1302": [
 			{ "title": "Statue Forest", "coords": { "x1": 130, "y1": 135, "x2": 149, "y2": 149 } },
 			{ "title": "Pastel Chalk World", "coords": { "x1": 110, "y1": 90, "x2": 149, "y2": 149 } },
