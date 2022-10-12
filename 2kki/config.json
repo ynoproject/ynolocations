@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0319", "0379", "0380", "0448", "0449", "0477", "0600", "0784", "0801", "0899", "0900", "1300", "1581" ],
+	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0379", "0380", "0448", "0449", "0477", "0600", "0784", "0801", "0899", "0900", "1300", "1581" ],
 	"urlRoot": "https://yume2kki.fandom.com/wiki/",
 	"mapLocations": {
 		"0002": "Urotsuki's Room",
@@ -69,6 +69,7 @@
 		"0263": { "title": "Magnet Room: Zalgo's Room?", "urlTitle": "Magnet_Room" },
 		"0266": { "title": "Magnet Room: Zalgo's Room", "urlTitle": "Magnet_Room" },
 		"0274": "Underwater Amusement Park",
+		"0279": { "title": "The Docks: The Commando and Provost-san's Submarine", "urlTitle": "The_Docks" },
 		"0285": "Sky Kingdom",
 		"0317": [
 			{ "title": "Closet Pinwheel Path", "coords": { "x1": -1, "y1": 75, "x2": -1, "y2": 151 } },
@@ -305,10 +306,6 @@
 			{ "title": "Opal Ruins A", "coords": { "x1": 8, "y1": 66, "x2": 19, "y2": 69 } },
 			{ "title": "Opal Ruins A", "coords": { "x1": 0, "y1": 70, "x2": 16, "y2": 77 } },
 			"Opal Ruins B"
-		],
-		"1295": [
-			{ "title": "Drowsy Forest", "coords": { "x1": 0, "y1": 275, "x2": 39, "y2": 289 } },
-			"Statue Forest"
 		],
 		"1302": [
 			{ "title": "Statue Forest", "coords": { "x1": 130, "y1": 135, "x2": 149, "y2": 149 } },
