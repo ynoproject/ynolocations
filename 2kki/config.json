@@ -129,6 +129,8 @@
 			{ "title": "Dream Beach", "coords": { "x1": -1, "y1": 121, "x2": -1, "y2": 149 } },
 			"Highway"
 		],
+		"0515": "Radiant Ruins",
+		"0520": "Radiant Ruins",
 		"0564": [
 			{ "title": "Abandoned Apartments", "coords": { "x1": 81, "y1": 50, "x2": 99, "y2": 76 } },
 			{ "title": "Abandoned Apartments", "coords": { "x1": 61, "y1": 77, "x2": 99, "y2": 93 } },
