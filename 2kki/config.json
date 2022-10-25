@@ -151,7 +151,7 @@
 		"0681": "Dream Bank",
 		"0694": {
 			"0693": "Fantasy Library",
-			"1398": "Butterfly Forest"
+			"else": "Butterfly Forest"
 		},
 		"0701": [
 			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": -1, "x2": 40, "y2": -1 } },
@@ -163,9 +163,8 @@
 			"Florist"
 		],
 		"0713": {
-			"0692": "Tricolor Room",
 			"0693": "Fantasy Library",
-			"1398": "Tricolor Room"
+			"else": "Tricolor Room"
 			},
 		"0762": [
 			{ "title": "Scorched Wasteland: The Ark", "urlTitle": "Scorched_Wasteland#The_Ark", "coords": { "x1": 0, "y1": 0, "x2": 24, "y2": 14 } },
