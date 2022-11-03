@@ -150,6 +150,14 @@
 		"0195": "All-Seeing Forest",
 		"0196": "Purple Town",
 		"0197": "Eye Dust",
+		"0198": [
+			{ "title": "Sky Islands", "coords": { "x1": 0, "y1": 0, "x2": 41, "y2" :61 } },
+			{ "title": "Star Field", "coords": { "x1": 0, "y1": 70, "x2": 41, "y2" :101 } },
+			{ "title": "Sky Islands", "coords": { "x1": 42, "y1": 0, "x2": 96, "y2" :88 } },
+			{ "title": "Sky Islands", "coords": { "x1": 97, "y1": 0, "x2": 137, "y2" :39 } },
+			{ "title": "Sky Islands", "coords": { "x1": 164, "y1": 0, "x2": 255, "y2" :127 } },
+			"Purple Town"
+		],
 		"0199": "Doodle World",
 		"0200": "Nail Board",
 		"0201": "Red & Blue Passage",
@@ -214,12 +222,15 @@
 		"0273": "Sky Islands",
 		"0274": "Heaven's Docks",
 		"0275": "Heaven's Docks",
-		"0276": { "title": "Cabin: Exterior", "urlTitle": "Cabin" },
+		"0276": [
+			{ "title": "Void Murals", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 28 } },
+			{ "title": "Cabin: Exterior", "urlTitle": "Cabin" }
+		],
 		"0278": "All-Seeing Forest",
 		"0279": [
 			{ "title": "Ice Chapel: Stained Glass Corridor", "urlTitle": "Ice_Chapel", "coords": { "x1": 0, "y1": 0, "x2": 87, "y2": 21 } },
 			{ "title": "Cabin", "coords": { "x1": 0, "y1": 75, "x2": 46, "y2": 95 } },
-			{ "title": "Cabin: Mouse Hole", "urlTitle": "Cabin", "coords": { "x1": 4, "y1": 61, "x2": 87, "y2": 95 } },
+			{ "title": "Cabin: Mouse Hole", "urlTitle": "Cabin", "coords": { "x1": 47, "y1": 61, "x2": 87, "y2": 95 } },
 			"Void Murals"
 		],
 		"0280": "DUDE Complex",
