@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0002", "0085", "0119", "0155", "0156" ],
+	"ignoredMapIds": [ "0002", "0085", "0119", "0156" ],
 	"urlRoot": "https://yumenikki.fandom.com/wiki/",
 	"mapLocations": {
 		"0003": "Madotsuki's Room",
@@ -155,6 +155,7 @@
 		"0151": "FC World B",
 		"0152": "FC World B",
 		"0154": "FC World B",
+		"0155": "NASU",
 		"0157": "FC Dungeon",
 		"0158": {
 			"0145": "FC World A",
