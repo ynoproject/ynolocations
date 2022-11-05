@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0002", "0085", "0119", "0155", "0156" ],
+	"ignoredMapIds": [ "0002", "0085", "0119", "0156" ],
 	"urlRoot": "https://yumenikki.fandom.com/wiki/",
 	"mapLocations": {
 		"0003": "Madotsuki's Room",
@@ -120,6 +120,7 @@
 		"0115": "Crossover Garden",
 		"0116": "Crossover Garden",
 		"0117": "Crossover Garden",
+		"0118": "Static Maze",
 		"0120": "FC House",
 		"0121": "FC House",
 		"0122": "FC House",
@@ -144,7 +145,7 @@
 		"0141": "FC House",
 		"0142": "FC House",
 		"0143": "FC House",
-		"0144": { "title": "Static Tunnel", "urlTitle": "FC_World_A" },
+		"0144": { "title": "Static Tunnel", "urlTitle": "Static_Maze#Static_Tunnel" },
 		"0145": "FC World A",
 		"0146": "FC World B",
 		"0147": "FC World A",
@@ -154,6 +155,7 @@
 		"0151": "FC World B",
 		"0152": "FC World B",
 		"0154": "FC World B",
+		"0155": "NASU",
 		"0157": "FC Dungeon",
 		"0158": {
 			"0145": "FC World A",
