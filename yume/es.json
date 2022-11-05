@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0002", "0085", "0119", "0155", "0156" ],
+	"ignoredMapIds": [ "0002", "0085", "0119", "0156" ],
 	"urlRoot": "https://yumenikki.fandom.com/es/wiki/",
 	"mapLocations": {
 		"0003": "Habitación de Madotsuki",
@@ -155,6 +155,7 @@
 		"0151": "Mundo FC B",
 		"0152": "Mundo FC B",
 		"0154": "Mundo FC B",
+		"0155": { "title": "NASU", "urlTitle": "Videojuego_NASU" },
 		"0157": "FC Dungeon",
 		"0158": {
 			"0145": { "title": "Mundo FC A", "urlTitle": "Mundo_Famicom" },
