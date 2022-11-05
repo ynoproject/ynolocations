@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0002", "0085", "0119", "0155", "0156" ],
+	"ignoredMapIds": [ "0002", "0085", "0119", "0156" ],
 	"urlRoot": "https://namu.wiki/w/%EC%9C%A0%EB%A9%94%EB%8B%9B%ED%82%A4/%ED%95%84%EB%93%9C%20%EB%B0%8F%20%EB%A7%B5#",
 	"mapLocations": {
 		"0003": { "title": "현실의 방", "urlTitle": "s-2" },
@@ -155,6 +155,7 @@
 		"0151": { "title": "FC 유적 B", "urlTitle": "s-18" },
 		"0152": { "title": "FC 유적 B", "urlTitle": "s-18" },
 		"0154": { "title": "FC 유적 B", "urlTitle": "s-18" },
+		"0155": { "title": "NASU", "urlTitle": "s-2" },
 		"0157": { "title": "FC 유적 : 던전", "urlTitle": "s-18" },
 		"0158": {
 			"0145": { "title": "FC 유적 A", "urlTitle": "s-18" },
