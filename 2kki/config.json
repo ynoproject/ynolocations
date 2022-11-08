@@ -193,6 +193,10 @@
 			"Underground Passage"
 		],
 		"0809": "Sea Lily World",
+		"0835": [
+			{ "title": "Blue Cactus Islands", "coords": { "x1": 54, "y1": 0, "x2": 62, "y2": 15 } },
+			"Tesla Garden"
+		],
 		"0845": { "title": "Misty Bridges: Lotus Lamp Room", "urlTitle": "Misty_Bridges" },
 		"0849": [
 			{ "title": "Extraterrestrial Cliffside", "coords": { "x1": 0, "y1": 92, "x2": 179, "y2": 119 } },
