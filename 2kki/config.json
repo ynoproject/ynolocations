@@ -104,6 +104,10 @@
 		"0474": { "title": "Bleak Future: Gray Hoodie Boy's Room", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0475": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
 		"0476": { "title": "Bleak Future", "urlTitle": "Endings#Glitch_Ending", "explorer": false },
+		"0482": [
+			{ "title": "Heart World", "coords": { "x1": 0, "y1": 23, "x2": 20, "y2": 72 } },
+			"TV Room"
+		],
 		"0483": "Neon Highway",
 		"0485": [
 			{ "title": "Atlantis: Bus", "urlTitle": "Atlantis#The_Trench_Overlook", "coords": { "x1": 1, "y1": 1, "x2": 14, "y2": 19 } },
