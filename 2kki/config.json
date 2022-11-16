@@ -200,6 +200,10 @@
 			"Underground Passage"
 		],
 		"0809": "Sea Lily World",
+		"0817": [
+			{ "title": "Head World", "coords": { "x1": 50, "y1": 4, "x2": 74, "y2": 18 } },
+			"High-rise Building"
+		],
 		"0835": [
 			{ "title": "Blue Cactus Islands", "coords": { "x1": 54, "y1": 0, "x2": 62, "y2": 15 } },
 			"Tesla Garden"
