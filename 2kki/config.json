@@ -166,7 +166,7 @@
 			"else": "Butterfly Forest"
 		},
 		"0701": [
-			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": -1, "x2": 40, "y2": -1 } },
+			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": -1, "x2": 52, "y2": -1 } },
 			"Dream Mexico"
 		],
 		"0708": [
