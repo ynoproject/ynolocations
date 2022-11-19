@@ -1,5 +1,4 @@
 {
-	"ignoredMapIds": [ "0001", "0010", "0023", "0241", "0242", "0261" ],
 	"urlRoot": "https://w.atwiki.jp/rustflow/pages/",
 	"mapLocations": {
 		"0002": "現実自室",
