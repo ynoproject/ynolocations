@@ -31,6 +31,7 @@
 		],
 		"0030": [
 			{ "title": "Orange Mausoleum", "coords": { "x1": 18, "y1": 0, "x2": 69, "y2": 315 } },
+			{ "title": "Pink Snowscape", "coords": { "x1": 1, "y1": 301, "x2": 18, "y2": 313 } },
 			"Red Sands B: Desert Settlement"
 		],
 		"0032": "Rainbow Labyrinth",
