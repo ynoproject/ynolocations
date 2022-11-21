@@ -28,7 +28,7 @@
 		"0017": [
 			{ "title": "Red Sands B: Desert Settlement", "coords": { "x1": 77, "y1": 3, "x2": 127, "y2": 31 } },
 			"Red Sands B"
-		]
+		],
 		"0030": [
 			{ "title": "Orange Mausoleum", "coords": { "x1": 18, "y1": 0, "x2": 69, "y2": 315 } },
 			"Red Sands B: Desert Settlement"
@@ -49,9 +49,9 @@
 		"0043": "Dark Stairways",
 		"0042": "Windy Canyon",
 		"0044": "Windy Canyon",
-		"0045": "Sacrificial Grounds",
-		"0046": "Sacrificial Grounds",
-		"0047": "Sacrificial Grounds",
+		"0045": "Occult Basement",
+		"0046": "Occult Basement",
+		"0047": "Occult Basement",
 		"0048": "Dark Neon Meadow",
 		"0049": "Dark Neon Meadow",
 		"0050": "Totem Hill",
