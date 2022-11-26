@@ -1,6 +1,6 @@
 {
 	"ignoredMapIds": [ "0002", "0085", "0119", "0156" ],
-	"urlRoot": "https://yumenikki.fandom.com/wiki/",
+	"urlRoot": "https://yume.wiki/Yume_Nikki:",
 	"mapLocations": {
 		"0003": "Madotsuki's Room",
 		"0004": { "title": "Madotsuki's Balcony", "urlTitle": "Madotsuki%27s_Room" },
