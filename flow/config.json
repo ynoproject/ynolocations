@@ -109,7 +109,7 @@
 		"0109": "Sewers",
 		"0110": "Sewers",
 		"0111": "Sewers",
-		"0112": "Back Ward",
+		"0112": "Back Ward: Parade Ward",
 		"0113": "Plant Corridors",
 		"0114": "Plant Corridors",
 		"0115": "Plant Corridors",
@@ -188,20 +188,20 @@
 		"0188": "Illusionary Corridors",
 		"0189": "Illusionary Corridors",
 		"0190": "Illusionary Corridors",
-		"0191": "Back Ward",
+		"0191": "Back Ward: Parade Ward (Past)",
 		"0192": "Illusionary Corridors",
 		"0193": "Illusionary Corridors",
 		"0194": "Illusionary Corridors",
 		"0195": "Back Ward",
 		"0196": "Illusionary Corridors",
-		"0197": "Back Ward",
-		"0198": "Back Ward",
+		"0197": "Back Ward: Parade Ward (Past)",
+		"0198": "Sunset",
 		"0199": "Back Ward",
 		"0200": "Back Ward",
 		"0201": "Illusionary Corridors",
-		"0202": "Back Ward",
-		"0203": "Back Ward",
-		"0204": "Back Ward",
+		"0202": "Back Ward: Parade Ward",
+		"0203": "Back Ward: Parade Ward (Past)",
+		"0204": "Back Ward: Parade Ward",
 		"0205": "Young Passage",
 		"0206": "School",
 		"0207": "School",
@@ -293,6 +293,8 @@
 		"0296": "Deterioration"
 	},
 	"locationUrlTitles": {
-		"Visceral World": "flesh-walls"
+		"Visceral World": "flesh-walls",
+		"Back Ward: Parade Ward": "back-ward",
+		"Back Ward: Parade Ward (Past)": "sunset"
 	}
 }
