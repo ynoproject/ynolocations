@@ -386,8 +386,8 @@
 		"1387": [
 			{ "title": "Moonview Lane: Fabric Planet", "urlTitle": "Moonview_Lane#Fabric_Planet", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 32 } },
 			{ "title": "Mystery Library", "coords": { "x1": -1, "y1": 33, "x2": -1, "y2": 79 } },
-			{ "title": "Trophy Animal Land", "coords": { "x1": -1, "y1": 80, "x2": -1, "y2": 149 } },
-			"Oil Drum World"
+			{ "title": "Trophy Animal Land", "coords": { "x1": -1, "y1": 80, "x2": -1, "y2": 124 } },
+			"Golden Mechanical Tower"
 		],
 		"1389": [
 			{ "title": "Omurice Labyrinth", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 49 } },
