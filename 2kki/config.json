@@ -410,6 +410,10 @@
 			{ "title": "Execution Ground", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			"Cactus Desert"
 		],
+		"1555": [
+			{ "title": "Celestial Night", "coords": { "x1": 0, "y1": 0, "x2": 90, "y2": 165 } },
+			"Strawberry Milk Sea"
+		],
 		"1588": [
 			{ "title": "Eyeball Cherry Fields", "coords": { "x1": -1, "y1": 105, "x2": -1, "y2": 130 } },
 			"Rusty Urban Complex"
