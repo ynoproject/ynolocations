@@ -1,6 +1,6 @@
 {
 	"ignoredMapIds": [ "0006", "0013", "0023", "0072", "0082" ],
-	"urlRoot": "https://yume.wiki/Answered_Prayers:",
+	"urlRoot": "https://yume.wiki/prayers/",
 	"mapLocations": {
 		"0001": "Shrine",
 		"0002": "Green World",
