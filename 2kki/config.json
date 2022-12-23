@@ -538,15 +538,15 @@
 			"Digital Heart Space"
 		],
 		"2033": [
-			{ "title": "Soja Sauce World", "coords": { "x1": 200, "y1": 0, "x2": 299, "y2": 99 } },
-			"Playing Card Mansion"
+			{ "title": "Soy Sauce World", "coords": { "x1": 200, "y1": 0, "x2": 299, "y2": 99 } },
+			"Blackjack Manor"
 		],
 		"2037": [
 			{ "title": "Wooden Cubes Playground", "coords": { "x1": 0, "y1": 0, "x2": 115, "y2": 107 } },
 			"Scrapyard"
 		],
 		"2038": [
-			{ "title": "Bretzel Eye Corridor", "coords": { "x1": 99, "y1": 48, "x2": 158, "y2": 99 } },
+			{ "title": "Pretzel Eye Corridor", "coords": { "x1": 99, "y1": 48, "x2": 158, "y2": 99 } },
 			{ "title": "Deserted Center", "coords": { "x1": 95, "y1": 121, "x2": 164, "y2": 167 } },
 			"Sunset School"
 		],
@@ -555,6 +555,10 @@
 			{ "title": "Bread World", "coords": { "x1": 0, "y1": 109, "x2": 83, "y2": 199 } },
 			{ "title": "Oriental Dojo", "coords": { "x1": 84, "y1": 104, "x2": 230, "y2": 199 } },
 			"Honeybee Residence"
+		],
+		"2040": [
+			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
+			"Seasonal Forest"
 		]
 	}
 }
