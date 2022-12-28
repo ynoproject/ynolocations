@@ -546,7 +546,7 @@
 			"Scrapyard"
 		],
 		"2038": [
-			{ "title": "Pretzel Eye Corridor", "coords": { "x1": 99, "y1": 48, "x2": 158, "y2": 99 } },
+			{ "title": "Corridor of Eyes", "coords": { "x1": 99, "y1": 48, "x2": 158, "y2": 99 } },
 			{ "title": "Deserted Center", "coords": { "x1": 95, "y1": 121, "x2": 164, "y2": 167 } },
 			"Sunset School"
 		],
@@ -558,7 +558,7 @@
 		],
 		"2040": [
 			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
-			"Seasonal Forest"
+			"Four Seasons Forest"
 		]
 	}
 }
