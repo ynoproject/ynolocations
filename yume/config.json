@@ -55,7 +55,13 @@
 		"0054": "The Wilderness",
 		"0055": "The Wilderness",
 		"0056": "The Wilderness",
-		"0057": "The Wilderness",
+		"0057": {
+			"0053": "The Wilderness",
+			"0061": "The Wilderness",
+			"0110": "The Wilderness",
+			"0144": "The Wilderness",
+			"else": "The Wilderness"
+		},
 		"0058": "The Wilderness",
 		"0059": "The Wilderness",
 		"0060": "The Wilderness",
@@ -83,7 +89,14 @@
 		"0082": "The Mall",
 		"0083": "Windmill World",
 		"0084": "Dense Woods B",
-		"0086": "Dense Woods B",
+		"0086": {
+			"0046": "Dense Woods B",
+			"0047": "Dense Woods B",
+			"0084": "Dense Woods B",
+			"0090": "Dense Woods B",
+			"0104": "Dense Woods B",
+			"else": "Dense Woods B"
+		},
 		"0087": "Traincar",
 		"0088": "Traincar",
 		"0089": "Traincar",
@@ -102,7 +115,12 @@
 		"0102": "White Desert B",
 		"0103": "White Desert B",
 		"0104": "White Desert B",
-		"0105": "White Desert B",
+		"0105": : {
+			"0102": "White Desert B",
+			"0104": "White Desert B",
+			"0107": "White Desert B",
+			"else": "White Desert B"
+		},
 		"0106": "White Desert Underground Lagoon",
 		"0107": "White Desert Underground Lagoon",
 		"0108": "The Pink Sea",
