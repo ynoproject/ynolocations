@@ -55,7 +55,13 @@
 		"0054": "Desierto",
 		"0055": "Desierto",
 		"0056": "Desierto",
-		"0057": "Desierto",
+		"0057": {
+			"0053": "Desierto",
+			"0061": "Desierto",
+			"0110": "Desierto",
+			"0144": "Desierto",
+			"else": "Desierto"
+		},
 		"0058": "Desierto",
 		"0059": "Desierto",
 		"0060": "Desierto",
@@ -83,7 +89,14 @@
 		"0082": "Centro Comercial",
 		"0083": "Mundo de Molinos de Viento",
 		"0084": "Bosque Denso B",
-		"0086": "Bosque Denso B",
+		"0086": {
+			"0046": "Bosque Denso B",
+			"0047": "Bosque Denso B",
+			"0084": "Bosque Denso B",
+			"0090": "Bosque Denso B",
+			"0104": "Bosque Denso B",
+			"else": "Bosque Denso B"
+		},
 		"0087": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
 		"0088": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
 		"0089": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
@@ -102,7 +115,12 @@
 		"0102": "Desierto Blanco B",
 		"0103": "Desierto Blanco B",
 		"0104": "Desierto Blanco B",
-		"0105": "Desierto Blanco B",
+		"0105": {
+			"0102": "Desierto Blanco B",
+			"0104": "Desierto Blanco B",
+			"0107": "Desierto Blanco B",
+			"else": "Desierto Blanco B"
+		},
 		"0106": "Desierto Blanco Underground Lagoon",
 		"0107": "Desierto Blanco Underground Lagoon",
 		"0108": "Mundo Pastel",
