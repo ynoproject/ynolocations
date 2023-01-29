@@ -127,9 +127,9 @@
 		"0109": { "title": "Poniko's House", "urlTitle": "The_Pink_Sea#Poniko's_House" },
 		"0110": "Teleport Maze",
 		"0111": {
-			"0047": { "title": "The Docks B", "urlTitle": "The_Docks#The_Docks_B" },
-			"0074": { "title": "The Docks A", "urlTitle": "The_Docks#The_Docks_A" },
-			"0083": { "title": "The Docks A", "urlTitle": "The_Docks#The_Docks_A" },
+			"0047": "The Docks B"
+			"0074": "The Docks A"
+			"0083": "The Docks A"
 			"else": "The Docks"
 		},
 		"0112": "Sky Garden",
