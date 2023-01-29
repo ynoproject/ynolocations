@@ -112,12 +112,12 @@
 		"0099": "White Desert A",
 		"0100": "White Desert A",
 		"0101": { "title": "Uboa's Trap", "urlTitle": "Uboa#Event" },
-		"0102": "White Desert B",
-		"0103": "White Desert B",
-		"0104": "White Desert B",
+		"0102": "White Desert Mountain Ring",
+		"0103": "White Desert Mountain Ring",
+		"0104": "White Desert Mountain Ring",
 		"0105": {
-			"0102": "White Desert B",
-			"0104": "White Desert B",
+			"0102": "White Desert Mountain Ring",
+			"0104": "White Desert Mountain Ring",
 			"0107": "White Desert B",
 			"else": "White Desert B"
 		},
@@ -205,7 +205,7 @@
 	},
 	"locationUrlTitles": {
 		"The Infinite Road": "Dense_Woods_A#The_Infinite_Road",
-		"White Desert Underground Lagoon": "White_Desert_B#White_Desert_B",
+		"White Desert Underground Lagoon": "White_Desert_B",
 		"Crossover Garden": "Sky_Garden",
 		"Mars Underground": "Mars"
 	}
