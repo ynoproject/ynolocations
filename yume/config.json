@@ -111,7 +111,7 @@
 		"0098": "White Desert A",
 		"0099": "White Desert A",
 		"0100": "White Desert A",
-		"0101": { "title": "Uboa's Trap", "urlTitle": "Uboa#Event" },
+		"0101": { "title": "Uboa's Trap", "urlTitle": "Poniko%27s_House#Uboa%27s_Trap" },
 		"0102": "White Desert Mountain Ring",
 		"0103": "White Desert Mountain Ring",
 		"0104": "White Desert Mountain Ring",
@@ -124,12 +124,12 @@
 		"0106": "White Desert Underground Lagoon",
 		"0107": "White Desert Underground Lagoon",
 		"0108": "The Pink Sea",
-		"0109": { "title": "Poniko's House", "urlTitle": "The_Pink_Sea#Poniko's_House" },
+		"0109": "Poniko's House",
 		"0110": "Teleport Maze",
 		"0111": {
-			"0047": "The Docks B"
-			"0074": "The Docks A"
-			"0083": "The Docks A"
+			"0047": "The Docks B",
+			"0074": "The Docks A",
+			"0083": "The Docks A",
 			"else": "The Docks"
 		},
 		"0112": "Sky Garden",
