@@ -204,12 +204,8 @@
 		"0179": { "title": "Witch Flight", "urlTitle": "The_Mall#Mall_Rooftop" }
 	},
 	"locationUrlTitles": {
-		"Dense Woods A": "Dense_Woods#Dense_Woods_A",
-		"Dense Woods B": "Dense_Woods#Dense_Woods_B",
-		"The Infinite Road": "Dense_Woods#The_Infinite_Road",
-		"White Desert A": "White_Desert#White_Desert_A",
-		"White Desert B": "White_Desert#White_Desert_B",
-		"White Desert Underground Lagoon": "White_Desert#White_Desert_B",
+		"The Infinite Road": "Dense_Woods_A#The_Infinite_Road",
+		"White Desert Underground Lagoon": "White_Desert_B#White_Desert_B",
 		"Crossover Garden": "Sky_Garden",
 		"Mars Underground": "Mars"
 	}
