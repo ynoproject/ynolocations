@@ -145,6 +145,10 @@
 		"0518": "Wind Tunnel",
 		"0519": "Wind Tunnel",
 		"0520": "Radiant Ruins",
+		"0532": "Depths",
+		"0560": "Depths",
+		"0561": "Depths",
+		"0562": "Depths",
 		"0564": [
 			{ "title": "Abandoned Apartments", "coords": { "x1": 81, "y1": 50, "x2": 99, "y2": 76 } },
 			{ "title": "Abandoned Apartments", "coords": { "x1": 61, "y1": 77, "x2": 99, "y2": 93 } },
