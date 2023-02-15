@@ -412,6 +412,7 @@
 		],
 		"1547": [
 			{ "title": "Execution Ground", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
+			{ "title": "Spiked Fence Garden", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			"Cactus Desert"
 		],
 		"1555": [
