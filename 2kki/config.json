@@ -383,6 +383,10 @@
 			{ "title": "3D Structures Path", "coords": { "x1": 0, "y1": 253, "x2": 76, "y2": 299 } },
 			"The Gutter"
 		],
+		"1371": [
+			{ "title": "Underground Lake", "coords": { "x1": 0, "y1": 0, "x2": 139, "y2": 11 } },
+			"Onyx Tile World"
+		],
 		"1381": [
 			{ "title": "Mystery Library", "coords": { "x1": 83, "y1": 140, "x2": 199, "y2": 199 } },
 			"Totem Hotel"
@@ -403,6 +407,18 @@
 			{ "title": "Evil Cube Zone", "coords": { "x1": -1, "y1": 99, "x2": -1, "y2": 179 } }
 		],
 		"1422": "Obentou World",
+		"1445": [
+			{ "title": "Ice Cream Islands", "coords": { "x1": 1, "y1": 72, "x2": 180, "y2": 180 } },
+			{ "title": "Tribulation Complex", "coords": { "x1": 0, "y1": 0, "x2": 125, "y2": 60 } },
+			{ "title": "Tribulation Complex", "coords": { "x1": 126, "y1": 0, "x2": 499, "y2": 60 } },
+			{ "title": "Test Facility", "coords": { "x1": 252, "y1": 75, "x2": 499, "y2": 125 } },
+			{ "title": "Test Facility", "coords": { "x1": 240, "y1": 140, "x2": 400, "y2": 160 } },
+			{ "title": "Test Facility", "coords": { "x1": 235, "y1": 187, "x2": 350, "y2": 205 } },
+			{ "title": "Test Facility", "coords": { "x1": 380, "y1": 400, "x2": 430, "y2": 420 } },
+			{ "title": "Underground Lake", "coords": { "x1": 370, "y1": 164, "x2": 425, "y2": 220 } },
+			{ "title": "Horror Maze", "coords": { "x1": 447, "y1": 146, "x2": 455, "y2": 242 } },
+			"Holiday Hell"
+		],
 		"1476": "Rusted Factory",
 		"1500": "Unknown Child's Room",
 		"1521": [
