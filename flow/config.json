@@ -1,6 +1,6 @@
 {
 	"ignoredMapIds": [ "0001", "0010", "0023", "0241", "0242", "0261" ],
-	"urlRoot": "https://yume.wiki/flow/",
+	"urlRoot": "https://yume.wiki/Dotflow:",
 	"mapLocations": {
 		"0002": "Sabitsuki's Room",
 		"0004": "Sabitsuki's Room",
