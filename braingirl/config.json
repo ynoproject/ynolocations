@@ -1,6 +1,6 @@
 {
 	"ignoredMapIds": [ "0012", "0023", "0024", "0029" ],
-	"urlRoot": "https://yume.wiki/Braingirl:",
+	"urlRoot": "https://yume.wiki/braingirl/",
 	"mapLocations": {
 		"0001": { "title": "Tanuki Woods: Hot Springs", "urlTitle": "Tanuki_Woods#Hot_Springs" },
 		"0002": "Tanuki Woods",
