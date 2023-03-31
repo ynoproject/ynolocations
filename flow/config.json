@@ -1,12 +1,12 @@
 {
 	"ignoredMapIds": [ "0001", "0010", "0023", "0241", "0242", "0261" ],
-	"urlRoot": "https://yume.wiki/Dotflow:",
+	"urlRoot": "https://yume.wiki/flow/",
 	"mapLocations": {
 		"0002": "Sabitsuki's Room",
 		"0004": "Sabitsuki's Room",
 		"0005": "Entrance",
 		"0006": "Sabitsuki's Room",
-		"0007": { "title": "Dream Veranda", "urlTitle": "sabitsuki-s-room" },
+		"0007": { "title": "Dream Veranda", "urlTitle": "Sabitsuki's_Room" },
 		"0008": "Music World",
 		"0009": "Plant World",
 		"0011": "Utility Pole World",
@@ -57,8 +57,8 @@
 		"0057": "Connecting Tile Path",
 		"0058": "Submarine World",
 		"0059": "Dysmorphic World",
-		"0060": { "title": "Green Electric World", "urlTitle": "electric-world" },
-		"0061": { "title": "Blue Electric World", "urlTitle": "electric-world" },
+		"0060": "Green Electric World",
+		"0061": "Blue Electric World",
 		"0062": "Submarine Corridors",
 		"0063": "Submarine Corridors",
 		"0064": "Reverse Apartments",
@@ -102,7 +102,7 @@
 		"0102": "Visceral World",
 		"0103": "Visceral World",
 		"0104": "Flying Event",
-		"0105": { "title": "Veranda", "urlTitle": "sabitsuki-s-room" },
+		"0105": { "title": "Veranda", "urlTitle": "Sabitsuki's_Room" },
 		"0106": "Submarine World",
 		"0107": "Footprint Path",
 		"0108": "Sewers",
@@ -119,9 +119,13 @@
 		"0119": "Plant Corridors",
 		"0120": "Sewers",
 		"0121": "Blood Maze",
-		"0122": "Wastewater Lake",
+		"0122": [
+			{ "title": "Northern Wastewater Lake", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 51 } },
+			{ "title": "Northern Wastewater Lake", "coords": { "x1": 55, "y1": 52, "x2": 80, "y2": 57 } },
+			"Southern Wastewater Lake"
+		],
 		"0123": "Sewers",
-		"0124": { "title": "Green Electric World", "urlTitle": "electric-world" },
+		"0124": "Green Electric World",
 		"0125": "Microorganism World",
 		"0126": "Microorganism World",
 		"0127": "Microorganism World",
@@ -211,7 +215,7 @@
 		"0211": "School",
 		"0212": "Neighborhood",
 		"0213": "Neighborhood",
-		"0214": { "title": "Smile's House", "urlTitle": "neighborhood" },
+		"0214": { "title": "Smile's House", "urlTitle": "Neighborhood#Smile's_House" },
 		"0215": "Visceral World",
 		"0216": "Visceral World",
 		"0217": "Corrupted School",
@@ -293,8 +297,7 @@
 		"0296": "Deterioration"
 	},
 	"locationUrlTitles": {
-		"Visceral World": "flesh-walls",
-		"Back Ward: Parade Ward": "back-ward",
-		"Back Ward: Parade Ward (Past)": "sunset"
+		"Back Ward: Parade Ward": "Back Ward",
+		"Back Ward: Parade Ward (Past)": "Sunset"
 	}
 }
