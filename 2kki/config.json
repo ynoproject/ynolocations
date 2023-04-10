@@ -417,6 +417,7 @@
 			{ "title": "Test Facility", "coords": { "x1": 380, "y1": 400, "x2": 430, "y2": 420 } },
 			{ "title": "Underground Lake", "coords": { "x1": 370, "y1": 164, "x2": 425, "y2": 220 } },
 			{ "title": "Horror Maze", "coords": { "x1": 447, "y1": 146, "x2": 455, "y2": 242 } },
+			{ "title": "Crazed Faces Maze", "coords": { "x1": 410, "y1": 460, "x2": 499, "y2": 499 } },
 			"Holiday Hell"
 		],
 		"1476": "Rusted Factory",
