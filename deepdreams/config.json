@@ -1,15 +1,16 @@
 {
 	"ignoredMapIds": [],
+	"urlRoot": "https://yume.wiki/deepdreams/",
 	"mapLocations": {
-		"0001": "Bedroom",
-		"0002": "Dream Room",
-		"0003": "Nexus",
+		"0001": "Mariana's Room",
+		"0002": { "title": "Mariana's Dream Room", "urlTitle": "Mariana's_Room" },
+		"0003": "The Nexus",
 		"0004": "Ashy Desert",
 		"0005": "Mauve Shoal",
 		"0006": "Lamp Forest",
 		"0007": "Old Factory",
-		"0008": "Debug",
-		"0009": "Golden Garden",
+		"0008": "Debug Room",
+		"0009": { "title": "Golden Garden", "urlTitle": "Lamp_Forest" },
 		"0010": "Cathedral",
 		"0011": "Pastel House",
 		"0012": "Pastel House",
@@ -42,13 +43,13 @@
 		"0039": "Victorian Stairs",
 		"0040": "Victorian Stairs",
 		"0041": "Victorian Stairs",
-		"0042": "Attic",
-		"0043": "Manager's Room",
+		"0042": { "title": "Attic", "urlTitle": "Victorian_Stairs" },
+		"0043": { "title": "Manager's Room", "urlTitle": "Victorian_Stairs" },
 		"0044": "Dark Eden",
 		"0045": "Red River",
 		"0046": "Mod Street",
 		"0047": "Dream District",
-		"0048": "Water Garden",
+		"0048": { "title": "Water Garden", "urlTitle": "Cathedral" },
 		"0049": "Old Factory",
 		"0050": "Old Factory",
 		"0051": "Old Factory",
@@ -103,6 +104,10 @@
 		"0100": "Misty Forest",
 		"0101": "Misty Forest",
 		"0102": "Stone Ruins",
-		"0103": "Credits"
+		"0103": { "title": "Credits", "urlTitle": "Endings" }
+	},
+	"locationUrlTitles": {
+		"Train Car": "Train Station",
+		"Ending": "Endings"
 	}
 }
