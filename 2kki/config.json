@@ -477,6 +477,10 @@
 			{ "title": "Grand Beach", "coords": { "x1": 0, "y1": -1, "x2": 313, "y2": -1 } },
 			{ "title": "Checkered Postal Path", "coords": { "x1": 314, "y1": -1, "x2": 399, "y2": -1 } }
 		],
+		"1642": [
+			{ "title": "Deep Red Wilds", "coords": { "x1": 5, "y1": 3, "x2": 46, "y2": 17 } },
+			{ "title": "Deep Red Wilds", "coords": { "x1": 5, "y1": 18, "x2": 26, "y2": 32 } }
+		],
 		"1663": "Azure Garden",
 		"1673": "Magical Passage",
 		"1697": [
