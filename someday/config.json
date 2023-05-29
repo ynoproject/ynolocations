@@ -232,9 +232,9 @@
 		"0236": "Chaos",
 		"0237": "Chaos",
 		"0238": "Chaos",
-		"0239": "Bar",
-		"0240": "Bar",
-		"0241": "Bar",
+		"0239": "Nice Bar",
+		"0240": "Nice Bar",
+		"0241": "Nice Bar",
 		"0242": "Chaos",
 		"0243": "Meta-Nexus",
 		"0244": "Lake",
@@ -293,7 +293,6 @@
 		"Shower": "Sewers#Shower",
 		"Rusted Tubes": "Tubes#Rusted_Tubes",
 		"Glacier": "Events#Itsuki's Past",
-		"Bar": "Nice Bar",
 		"Kondo": "Chaos"
 	}
 }
