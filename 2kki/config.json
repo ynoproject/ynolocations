@@ -585,6 +585,14 @@
 		"2040": [
 			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
 			"Four Seasons Forest"
+		],
+		"2171": [
+			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
+			"Ephemeral Barrens"
+		],
+		"2213": [
+			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
+			"Candlelit Factory"
 		]
 	}
 }
