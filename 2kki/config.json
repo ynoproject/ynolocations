@@ -353,7 +353,9 @@
 		],
 		"1302": [
 			{ "title": "Statue Forest", "coords": { "x1": 130, "y1": 135, "x2": 149, "y2": 149 } },
-			{ "title": "Pastel Chalk World", "coords": { "x1": 110, "y1": 90, "x2": 149, "y2": 149 } },
+			{ "title": "Pastel Chalk World", "coords": { "x1": 110, "y1": 135, "x2": 129, "y2": 149 } },
+			{ "title": "Pastel Chalk World", "coords": { "x1": 130, "y1": 90, "x2": 149, "y2": 134 } },
+			{ "title": "Nightfall Park", "coords": { "x1": 130, "y1": 0, "x2": 149, "y2": 50 } },
 			"Dreadful Docks"
 		],
 		"1308": [
