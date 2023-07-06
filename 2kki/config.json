@@ -336,7 +336,7 @@
 		"0520": "Radiant Ruins",
 		"0529": "Neon City",
 		"0530": [
-			{ "title": "Deserted Town", "coords": { "x1": 134, "y1": 59, "x2": 67, "y2": 203 } },
+			{ "title": "Deserted Town", "coords": { "x1": 134, "y1": 59, "x2": 167, "y2": 203 } },
 			{ "title": "Deserted Town", "coords": { "x1": 0, "y1": 186, "x2": 153, "y2": 216 } },
 			{ "title": "Deserted Town", "coords": { "x1": -1, "y1": 217, "x2": -1, "y2": 309 } },
 			"Deserted Town"
