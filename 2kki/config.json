@@ -553,15 +553,6 @@
 			{ "title": "Fossil Lake", "coords": { "x1": 50, "y1": -1, "x2": 99, "y2": -1 } },
 			"Aquatic Cube City"
 		],
-		"0944": {
-			"0143": "FC Caverns",
-			"0189": "FC Caverns",
-			"0896": "FC Caverns",
-			"0949": "FC Caverns",
-			"1145": "FC Caverns",
-			"1320": "FC Caverns",
-			"else": "FC Caverns"
-		},
 		"0946": { "title": "Static Noise Hell: Ripple Passage", "urlTitle": "Static_Noise_Hell#Ripple_Passage" },
 		"0948": { "title": "Wooden Polycube Ruins: Icy Garden", "urlTitle": "Wooden_Polycube_Ruins#Icy_Garden" },
 		"0950": { "title": "Flooded Dungeon: Floral Vortex", "urlTitle": "Flooded_Dungeon#Floral_Vortex" },
@@ -1027,10 +1018,7 @@
 		"1989": "Hat World",
 		"1993": "Construction Frame Building",
 		"1994": "Urotsuki's Room",
-		"1999": {
-			"1994": "Urotsuki's Room",
-			"else": "Construction Frame Building"
-		},
+		"1999": "Construction Frame Building",
 		"2007": { "title": "Sea of Trees: Slime Room", "urlTitle": "Sea_of_Trees#Slime_Room" },
 		"2031": [
 			{ "title": "Hatred Palace", "coords": { "x1": 117, "y1": 0, "x2": 235, "y2": 114 } },
