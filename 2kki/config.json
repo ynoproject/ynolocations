@@ -609,7 +609,7 @@
 		],
 		"1073": "Snack Gallery",
 		"1079": { "title": "Static Labyrinth: Doppelgänger Room", "urlTitle": "Static_Labyrinth#Doppelgänger_Room" },
-		"1111": "Dream Park",
+		"1111": "Scrambled Egg Zone",
 		"1112": { "title": "Guardians' Temple: Hidden Shrine", "urlTitle": "Guardians'_Temple#Hidden_Shrine" },
 		"1113": { "title": "Guardians' Temple: Hidden Shrine", "urlTitle": "Guardians'_Temple#Hidden_Shrine" },
 		"1114": { "title": "Guardians' Temple: Hidden Shrine", "urlTitle": "Guardians'_Temple#Hidden_Shrine" },
@@ -655,7 +655,7 @@
 			{ "title": "Fluorescent Halls", "coords": { "x1": 0, "y1": 150, "x2": 99, "y2": 199 } },
 			"Lovesick World"
 		],
-		"1269": { "title": "Pudding World: Liquor Bottle Area", "urlTitle": "Pudding_World#Liquour_Bottle_Area" },
+		"1269": "Pudding World",
 		"1271": [
 			{ "title": "Mole Mine", "coords": { "x1": 0, "y1": 25, "x2": 56, "y2": 106 } },
 			{ "title": "Stalker Alley: Braille Dungeon", "urlTitle": "Stalker_Alley#Braille_Dungeon", "coords": { "x1": 57, "y1": -1, "x2": 199, "y2": -1 } },
@@ -1018,7 +1018,10 @@
 		"1989": "Hat World",
 		"1993": "Construction Frame Building",
 		"1994": "Urotsuki's Room",
-		"1999": "Construction Frame Building",
+		"1999": [
+			"Urotsuki's Room",
+			"Construction Frame Building"
+		],
 		"2007": { "title": "Sea of Trees: Slime Room", "urlTitle": "Sea_of_Trees#Slime_Room" },
 		"2031": [
 			{ "title": "Hatred Palace", "coords": { "x1": 117, "y1": 0, "x2": 235, "y2": 114 } },
