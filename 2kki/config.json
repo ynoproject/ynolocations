@@ -391,6 +391,8 @@
 		"0654": "Sugar World",
 		"0668": "Lotus Waters",
 		"0672": {
+			"0671": "Pencil World",
+			"0673": "Pencil World",
 			"0675": "Pencil World",
 			"else": "Pencil World"
 		},
@@ -403,7 +405,7 @@
 			"else": "Butterfly Forest"
 		},
 		"0701": [
-			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": -1, "x2": 52, "y2": -1 } },
+			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": 0, "x2": 52, "y2": 82 } },
 			"Dream Mexico"
 		],
 		"0703": [
