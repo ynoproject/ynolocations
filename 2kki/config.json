@@ -183,7 +183,12 @@
 		"0238": "The Invisible Maze",
 		"0242": "Visine World",
 		"0243": { "title": "Visine World: Eye Shop", "urlTitle": "Visine_World#Eye_Shop" },
+		"0244": [
+			{ "title": "Guts World", "coords": { "x1": 0, "y1": 0, "x2": 201, "y2": 141 } },
+			"Guts World"
+		],
 		"0245": "Visine World",
+		"0247": "Guts World",
 		"0249": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
 		"0250": { "title": "Plated Snow Country", "urlTitle": "Console#Plated_Snow_Country", "explorer": false },
 		"0252": "Square-Square World",
@@ -234,7 +239,7 @@
 		"0344": { "title": "FUJI", "urlTitle": "Console#FUJI", "explorer": false },
 		"0354": [
 			{ "title": "Dark Alleys", "coords": { "x1": 20, "y1": 15, "x2": 39, "y2": 29 } },
-			{ "title": "Grass World", "coords": { "x1": 0, "y1": 0, "x2": 14, "y2": 40 } },
+			{ "title": "Grass World", "coords": { "x1": 0, "y1": 0, "x2": 40, "y2": 12 } },
 			"Grass World"
 		],
 		"0357": { "title": "Dark Alleys: Dark Stairs", "urlTitle": "Dark_Alleys#Dark_Stairs" },
