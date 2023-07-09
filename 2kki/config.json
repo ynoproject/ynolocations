@@ -581,8 +581,8 @@
 			{ "title": "Decrepit Dwellings", "coords": { "x1": 80, "y1": 0, "x2": 148, "y2": 36 } },
 			"Decrepit Dwellings"
 		],
-		"976": "Viridian Wetlands",
-		"977": "Viridian Wetlands",
+		"0976": "Viridian Wetlands",
+		"0977": "Viridian Wetlands",
 		"0991": { "title": "Monochrome GB World: GB Fields", "urlTitle": "Monochrome_GB_World#GB_Fields" },
 		"0992": { "title": "Monochrome GB World: GB Fields", "urlTitle": "Monochrome_GB_World#GB_Fields" },
 		"0993": { "title": "Monochrome GB World: GB Fields", "urlTitle": "Monochrome_GB_World#GB_Fields" },
