@@ -877,7 +877,7 @@
 			{ "title": "Pancake World: Dinosaur Abode", "coords": { "x1": -1, "y1": 55, "x2": -1, "y2": 99 } }
 		],
 		"1622": [
-			{ "title": "Maple Forest", "coords": { "x1": 0, "y1": -1, "x2": 21, "y2": -1 } },
+			{ "title": "Maple Forest: Golden Chinatown", "urlTitle": "Maple_Forest#Golden_Chinatown", "coords": { "x1": 0, "y1": -1, "x2": 21, "y2": -1 } },
 			{ "title": "Grand Beach", "coords": { "x1": 22, "y1": -1, "x2": 39, "y2": -1 } },
 			{ "title": "Totem Hotel", "coords": { "x1": 40, "y1": -1, "x2": 79, "y2": -1 } }
 		],
