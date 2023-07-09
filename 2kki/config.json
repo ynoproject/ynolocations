@@ -223,7 +223,7 @@
 		"0314": { "title": "Japan Town: The Hotel", "urlTitle": "Japan_Town#The_Hotel" },
 		"0317": [
 			{ "title": "Closet Pinwheel Path", "coords": { "x1": -1, "y1": 75, "x2": -1, "y2": 151 } },
-			"Japan Town"
+			{ "title": "Japan Town: The Hotel", "urlTitle": "Japan_Town#The_Hotel" }
 		],
 		"0327": "Realistic Beach",
 		"0328": "Realistic Beach",
