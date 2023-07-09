@@ -892,7 +892,8 @@
 		"1630": { "title": "Playing Card Dungeon: Golden Casino", "urlTitle": "Playing_Card_Dungeon#Golden_Casino" },
 		"1642": [
 			{ "title": "Deep Red Wilds", "coords": { "x1": 5, "y1": 3, "x2": 46, "y2": 17 } },
-			{ "title": "Deep Red Wilds", "coords": { "x1": 5, "y1": 18, "x2": 26, "y2": 32 } }
+			{ "title": "Deep Red Wilds", "coords": { "x1": 5, "y1": 18, "x2": 26, "y2": 32 } },
+			"Poseidon Plaza"
 		],
 		"1663": "Azure Garden",
 		"1673": "Magical Passage",
