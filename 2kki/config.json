@@ -245,6 +245,7 @@
 		"0357": { "title": "Dark Alleys: Dark Stairs", "urlTitle": "Dark_Alleys#Dark_Stairs" },
 		"0371": "Simple Street",
 		"0374": { "title": "Developer Room", "urlTitle": "Developer_Room", "explorer": false },
+		"0376": { "title": "Toy World: The Shadow Woman's Lap", "urlTitle": "Events#The_Shadow_Woman.27s_Lap" },
 		"0381": "Forest Carnival",
 		"0382": "Forest Carnival",
 		"0383": "Laboratory",
@@ -1002,6 +1003,7 @@
 		"1879": [
 			{ "title": "Adabana Gardens", "coords": { "x1": 2, "y1": 3, "x2": 20, "y2": 9 } },
 			{ "title": "Adabana Gardens", "coords": { "x1": 26, "y1": 20, "x2": 45, "y2": 24 } },
+			{ "title": "Field of Cosmos", "coords": { "x1": 2, "y1": 30, "x2": 21, "y2": 44 } },
 			"Field of Cosmos"
 		],
 		"1889": { "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
