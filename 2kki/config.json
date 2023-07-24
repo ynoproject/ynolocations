@@ -316,7 +316,7 @@
 			"Sea of Clouds"
 		],
 		"0490": [
-			{ "title": "Sugar World", "coords": { "x1": 55, "y1": 50, "x2": 99, "y2": 79 } },
+			{ "title": "Sugar World: Sugary Depths", "urlTitle": "Sugar_World#Sugary_Depths", "coords": { "x1": 55, "y1": 50, "x2": 99, "y2": 79 } },
 			"RGB Passage"
 		],
 		"0493": "Shield Owl World",
@@ -842,11 +842,11 @@
 		],
 		"1573": "Twilight Park",
 		"1578": [
-			{ "title": "Marble Ruins", "coords": { "x1": 5, "y1": 217, "x2": 43, "y2": 244 } },
+			{ "title": "Marble Ruins:The Garden", "urlTitle": "Marble_Ruins#The_Garden", "coords": { "x1": 5, "y1": 217, "x2": 43, "y2": 244 } },
 			{ "title": "Marble Ruins: Marble Tower", "urlTitle": "Marble_Ruins#Marble_Tower", "coords": { "x1": 137, "y1": 235, "x2": 183, "y2": 259 } },
 			"Marble Ruins"
 		],
-		"1579": "Marble Ruins",
+		"1579": { "title": "Marble Ruins: Small Pond", "urlTitle": "Marble_Ruins#Small_Pond" },
 		"1580": { "title": "Marble Ruins: Marble Tower", "urlTitle": "Marble_Ruins#Marble_Tower" },
 		"1588": [
 			{ "title": "Eyeball Cherry Fields", "coords": { "x1": -1, "y1": 105, "x2": -1, "y2": 130 } },
@@ -1006,7 +1006,6 @@
 			{ "title": "Field of Cosmos", "coords": { "x1": 2, "y1": 30, "x2": 21, "y2": 44 } },
 			"Field of Cosmos"
 		],
-		"1889": { "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
 		"1923": { "title": "The_Gutter: Lavender Park", "urlTitle": "The_Gutter#Lavender_Park" },
 		"1924": "Budding Life World",
 		"1928": "Budding Life World",
@@ -1027,9 +1026,9 @@
 		"1974": { "title": "Drains Theater: The Cinema", "urlTitle": "Drains_Theater#The_Cinema" },
 		"1989": "Hat World",
 		"1993": "Construction Frame Building",
-		"1994": "Urotsuki's Room",
+		"1994": { "title": "Urotsuki's Dream Room: Vertigo", "urlTitle": "Urotsuki's_Room#Vertigo" },
 		"1999": [
-			"Urotsuki's Room",
+			{ "title": "Urotsuki's Dream Room: Vertigo", "urlTitle": "Urotsuki's_Room#Vertigo" },
 			"Construction Frame Building"
 		],
 		"2007": { "title": "Sea of Trees: Slime Room", "urlTitle": "Sea_of_Trees#Slime_Room" },
@@ -1080,18 +1079,26 @@
 			"Hell"
 		],
 		"2217": "Candlelit Factory",
-		"2218": "Fish Person Shoal",
+		"2218": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2219": "Fish Person Shoal",
 		"2220": "Hell",
 		"2251": [
 			{ "title": "Fish Person Shoal", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Hell", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
-			"Fish Person Shoal"
+			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
 		],
-		"2254": "Fish Person Shoal",
+		"2254": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2255": [
-			{ "title": "Hell", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
-			"Fish Person Shoal"
-		]
+			{ "title": "Hell: Hell Caverns", "urlTitle": "Hell#Hell_Caverns", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
+			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
+		],
+		"2272": [
+			{ "title": "Checkered Towers", "coords": { "x1": 14, "y1": 0, "x2": 64, "y2": 14 } },
+			{ "title": "Realm of Dice", "coords": { "x1": -1, "y1": 36, "x2": -1, "y2": 67 } },
+			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 99 } },
+			"Checkered Towers"
+		],
+		"2279": "Checkered Towers",
+		"2280": "Blood Red Beach"
 	}
 }
