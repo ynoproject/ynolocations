@@ -561,6 +561,20 @@
 			{ "title": "Fossil Lake", "coords": { "x1": 50, "y1": -1, "x2": 99, "y2": -1 } },
 			"Aquatic Cube City"
 		],
+		"0944": [
+			{ "title": "FC Caverns A", "coords": { "x1": 0, "y1": 1, "x2": 0, "y2": 70 } },
+			{ "title": "FC Caverns A", "coords": { "x1": 1, "y1": 0, "x2": 15, "y2": 70 } },
+			{ "title": "FC Caverns A", "coords": { "x1": 16, "y1": 14, "x2": 31, "y2": 56 } },
+			{ "title": "FC Caverns A", "coords": { "x1": 32, "y1": 42, "x2": 47, "y2": 56 } },
+			{ "title": "FC Caverns A", "coords": { "x1": 32, "y1": 14, "x2": 63, "y2": 28 } },
+			{ "title": "FC Caverns A", "coords": { "x1": 48, "y1": 47, "x2": 95, "y2": 70 } },
+			{ "title": "FC Caverns B", "coords": { "x1": 64, "y1": 0, "x2": 95, "y2": 14 } },
+			{ "title": "FC Caverns B", "coords": { "x1": 64, "y1": 15, "x2": 79, "y2": 42 } },
+			{ "title": "FC Caverns C", "coords": { "x1": 80, "y1": 27, "x2": 95, "y2": 44 } },
+			{ "title": "FC Caverns C", "coords": { "x1": 96, "y1": 0, "x2": 127, "y2": 41 } },
+			{ "title": "FC Caverns C", "coords": { "x1": 96, "y1": 42, "x2": 143, "y2": 84 } },
+			"FC Caverns"
+		],
 		"0946": { "title": "Static Noise Hell: Ripple Passage", "urlTitle": "Static_Noise_Hell#Ripple_Passage" },
 		"0948": { "title": "Wooden Polycube Ruins: Icy Garden", "urlTitle": "Wooden_Polycube_Ruins#Icy_Garden" },
 		"0950": { "title": "Flooded Dungeon: Floral Vortex", "urlTitle": "Flooded_Dungeon#Floral_Vortex" },
