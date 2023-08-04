@@ -700,7 +700,7 @@
 			"Maple Forest"
 		],
 		"1276": [
-			{ "title": "Laundromat", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 171 } },
+			{ "title": "Laundromat: Floating City", "urlTitle": "Laundromat#Floating_City", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 171 } },
 			{ "title": "Tarnished Ship", "coords": { "x1": -1, "y1": 172, "x2": -1, "y2": 299 } }
 		],
 		"1281": [
@@ -1020,6 +1020,56 @@
 			{ "title": "Field of Cosmos", "coords": { "x1": 2, "y1": 30, "x2": 21, "y2": 44 } },
 			"Field of Cosmos"
 		],
+		"1881": [
+			{ "title": "Oblique Hell: Antiquated Bathhouse", "urlTitle": "Oblique Hell", "coords": { "x1": 0, "y1": 74, "x2": 19, "y2": 88 } },
+			{ "title": "Oblique Hell", "coords": { "x1": 48, "y1": 74, "x2": 99, "y2": 109 } },
+			{ "title": "Glowing Tree Path", "coords": { "x1": 0, "y1": 116, "x2": 46, "y2": 159 } },
+			{ "title": "Glowing Tree Path", "coords": { "x1": 47, "y1": 116, "x2": 113, "y2": 143 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 47, "y1": 144, "x2": 96, "y2": 159 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 109, "y1": 90, "x2": 141, "y2": 115 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 116, "y1": 118, "x2": 148, "y2": 143 } },
+			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 148, "y1": 72, "x2": 225, "y2": 91 } },
+			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 175, "y1": 93, "x2": 364, "y2": 129 } },
+			{ "title": "Glowing Tree Path", "coords": { "x1": 453, "y1": 54, "x2": 499, "y2": 86 } },
+			"Red Sewers"
+		],
+		"1882": [
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 20, "y1": 0, "x2": 208, "y2": 21 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 13, "x2": 17, "y2": 56 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 18, "y1": 22, "x2": 172, "y2": 118 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 173, "y1": 20, "x2": 239, "y2": 52 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 212, "y1": 0, "x2": 239, "y2": 19 } }, 
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 78, "x2": 21, "y2": 101 } },
+			{ "title": "Wooded Lakeside B: Gnarled Tree Plaza", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 30, "y1": 123, "x2": 109, "y2": 179 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 0, "y1": 160, "x2": 21, "y2": 192 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 238, "y1": 160, "x2": 239, "y2": 192 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 18, "y1": 291, "x2": 49, "y2": 309 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 376, "x2": 57, "y2": 419 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 58, "y1": 410, "x2": 83, "y2": 419 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 108, "y1": 411, "x2": 129, "y2": 419 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 158, "y1": 412, "x2": 189, "y2": 419 } },
+			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 190, "y1": 386, "x2": 239, "y2": 419 } },
+			"Wooded Lakeside A"
+		],
+		"1883": [
+			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 84, "x2": -1, "y2": 293 } },
+			"Marshmallow Shallows"
+		],
+		"1887": { "title": "3D Underworld: Glitch Nexus", "urlTitle": "3D Underworld" },
+		"1888": [
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 97, "x2": 49, "y2": 149 } },
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 55, "y1": 134, "x2": 93, "y2": 149 } },
+			{ "title": "Glitched Butterfly Sector: White Lily Path A", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_A" }
+		],
+		"1890": [
+			{ "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room", "coords": { "x1": 0, "y1": 165, "x2": 63, "y2": 179 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 71, "y1": 166, "x2": 97, "y2": 179 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 89, "y1": 142, "x2": 112, "y2": 158 } },
+			{ "title": "Oblique Hell", "coords": { "x1": 119, "y1": 142, "x2": 142, "y2": 158 } },
+			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 149, "y1": 142, "x2": 172, "y2": 158 } },
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 179, "y1": 142, "x2": 202, "y2": 158 } },
+			"Sierpinski Maze"
+		],
 		"1923": { "title": "The_Gutter: Lavender Park", "urlTitle": "The_Gutter#Lavender_Park" },
 		"1924": "Budding Life World",
 		"1928": "Budding Life World",
@@ -1045,6 +1095,11 @@
 			{ "title": "Urotsuki's Dream Room: Vertigo", "urlTitle": "Urotsuki's_Room#Vertigo" },
 			"Construction Frame Building"
 		],
+		"2003": {
+			"2004": "Flowerpot Outlands",
+			"2147": "Flowerpot Outlands",
+			"else": "Planter Passage"
+			},
 		"2007": { "title": "Sea of Trees: Slime Room", "urlTitle": "Sea_of_Trees#Slime_Room" },
 		"2031": [
 			{ "title": "Hatred Palace", "coords": { "x1": 117, "y1": 0, "x2": 235, "y2": 114 } },
