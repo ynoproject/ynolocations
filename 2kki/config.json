@@ -1050,7 +1050,7 @@
 			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 108, "y1": 411, "x2": 129, "y2": 419 } },
 			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 158, "y1": 412, "x2": 189, "y2": 419 } },
 			{ "title": "Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 190, "y1": 386, "x2": 239, "y2": 419 } },
-			"Wooded Lakeside A"
+			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A" }
 		],
 		"1883": [
 			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 84, "x2": -1, "y2": 293 } },
