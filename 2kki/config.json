@@ -1028,6 +1028,7 @@
 			{ "title": "Kaleidoscope World", "coords": { "x1": 47, "y1": 144, "x2": 96, "y2": 159 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 109, "y1": 90, "x2": 141, "y2": 115 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 116, "y1": 118, "x2": 148, "y2": 143 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 159, "y1": 102, "x2": 166, "y2": 144 } },
 			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 148, "y1": 72, "x2": 225, "y2": 91 } },
 			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 175, "y1": 93, "x2": 364, "y2": 129 } },
 			{ "title": "Glowing Tree Path", "coords": { "x1": 453, "y1": 54, "x2": 499, "y2": 86 } },
@@ -1057,8 +1058,8 @@
 		],
 		"1887": { "title": "3D Underworld: Glitch Nexus", "urlTitle": "3D Underworld" },
 		"1888": [
-			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 97, "x2": 49, "y2": 149 } },
-			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 55, "y1": 134, "x2": 93, "y2": 149 } },
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 8, "x2": 44, "y2": 53 } },
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 54, "y1": 38, "x2": 93, "y2": 53 } },
 			{ "title": "Glitched Butterfly Sector: White Lily Path A", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_A" }
 		],
 		"1890": [
