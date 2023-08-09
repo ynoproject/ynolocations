@@ -469,7 +469,7 @@
 		],
 		"0780": "Underground Lake",
 		"0785": [
-			{ "title": "Gray Relic World", "coords": { "x1": -1, "y1": 60, "x2": -1, "y2": 99 } },
+			{ "title": "Cyan Relic World", "coords": { "x1": -1, "y1": 60, "x2": -1, "y2": 99 } },
 			"Escalator"
 		],
 		"0788": "Ocean Storehouse",
