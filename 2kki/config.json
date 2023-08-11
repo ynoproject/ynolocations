@@ -528,7 +528,6 @@
 		"0862": { "title": "Head World: Cyberspace", "urlTitle": "Head World" },
 		"0863": { "title": "High-rise Building: Dango World", "urlTitle": "High-rise_Building" },
 		"0877": "Parasite Laboratory",
-		"0881": { "title": "The_Gutter: Lavender Park", "urlTitle": "The_Gutter#Lavender_Park" },
 		"0890": [
 			{ "title": "City of Liars: Footprint Path", "urlTitle": "City_of_Liars#Footprint_Path", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 14 } },
 			"Drowsy Forest"
@@ -779,7 +778,7 @@
 		],
 		"1347": [
 			{ "title": "Opal Ruins A: Opal Sea", "urlTitle": "Opal_Ruins_A#Opal_Sea", "coords": { "x1": 0, "y1": 0, "x2": 17, "y2": 47 } },
-			{ "title": "The_Gutter: Lavender Park", "urlTitle": "The_Gutter#Lavender_Park" }
+			{ "title": "Lavender Park: 28 Tile Path", "urlTitle": "Lavender_Park#28_Tile_Path" }
 		],
 		"1350": { "title": "Bright Forest: Rainbow Ruins", "urlTitle": "Bright_Forest#Rainbow_Ruins" },
 		"1371": [
@@ -1071,7 +1070,6 @@
 			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 179, "y1": 142, "x2": 202, "y2": 158 } },
 			"Sierpinski Maze"
 		],
-		"1923": { "title": "The_Gutter: Lavender Park", "urlTitle": "The_Gutter#Lavender_Park" },
 		"1924": "Budding Life World",
 		"1928": "Budding Life World",
 		"1944": [
