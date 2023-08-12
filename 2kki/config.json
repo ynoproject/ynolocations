@@ -1052,7 +1052,7 @@
 			{ "title": "Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A" }
 		],
 		"1883": [
-			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 84, "x2": -1, "y2": 293 } },
+			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 99, "x2": -1, "y2": 293 } },
 			"Marshmallow Shallows"
 		],
 		"1887": { "title": "3D Underworld: Glitch Nexus", "urlTitle": "3D Underworld" },
