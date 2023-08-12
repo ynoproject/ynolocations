@@ -1133,6 +1133,8 @@
 		"2102": { "title": "Roadside Forest: Mannequin Sub-Area", "urlTitle": "Roadside_Forest#Mannequin_Sub-Area" },
 		"2103": "Domino Constructions",
 		"2143": "Moonlit Street",
+		"2149": "Somber Establishment",
+		"2150": "Somber Establishment",
 		"2171": [
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
@@ -1153,13 +1155,16 @@
 		"2251": [
 			{ "title": "Fish Person Shoal", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Hell", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
-			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
+			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			{ "title": "Somber Establishment", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
+			{ "title": "Somber Establishment", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } }
 		],
 		"2254": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2255": [
 			{ "title": "Hell: Hell Caverns", "urlTitle": "Hell#Hell_Caverns", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
 		],
+		"2257": "Somber Establishment",
 		"2272": [
 			{ "title": "Checkered Towers", "coords": { "x1": 14, "y1": 0, "x2": 64, "y2": 14 } },
 			{ "title": "Realm of Dice", "coords": { "x1": -1, "y1": 36, "x2": -1, "y2": 67 } },
