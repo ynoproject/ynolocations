@@ -512,7 +512,7 @@
 			{ "title": "Blob Desert", "coords": { "x1": 7, "y1": 3, "x2": 26, "y2": 17 } },
 			"Aquatic Cafe"
 		],
-		"0853": { "title": "Sculpture Park: Lotus Lamp Room", "urlTitle": "Sculpture_Park#Purple_Forest_Path" },
+		"0853": { "title": "Sculpture Park: Purple Forest Path", "urlTitle": "Sculpture_Park#Purple_Forest_Path" },
 		"0854": [
 			{ "title": "Chess World", "coords": { "x1": -1, "y1": 113, "x2": -1, "y2": 169 } },
 			{ "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" }
