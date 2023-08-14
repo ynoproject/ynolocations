@@ -512,6 +512,7 @@
 			{ "title": "Blob Desert", "coords": { "x1": 7, "y1": 3, "x2": 26, "y2": 17 } },
 			"Aquatic Cafe"
 		],
+		"0853": { "title": "Sculpture Park: Lotus Lamp Room", "urlTitle": "Sculpture_Park#Purple_Forest_Path" },
 		"0854": [
 			{ "title": "Chess World", "coords": { "x1": -1, "y1": 113, "x2": -1, "y2": 169 } },
 			{ "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" }
@@ -842,6 +843,8 @@
 		"1522": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
 		"1523": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
 		"1524": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
+		"1525": "Portrait Purgatory",
+		"1529": { "title": "Parking Garage: Mistaken Call Room", "urlTitle": "Parking_Garage#Mistaken_Call_Room" },
 		"1531": { "title": "Rock World: Sunset Rooftops", "urlTitle": "Rock_World#Sunset_Rooftops" },
 		"1547": [
 			{ "title": "Execution Ground", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
@@ -986,6 +989,7 @@
 		"1778": "Shadow Lady Estate",
 		"1779": "Shadow Lady Estate",
 		"1780": "Shadow Lady Estate",
+		"1781": { "title": "Parking Garage: Underground Mall", "urlTitle": "Parking_Garage#Underground_Mall" },
 		"1782": { "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" },
 		"1791": "Tricolor Room",
 		"1801": { "title": "Rainbow Pottery Zone: Dogū World", "urlTitle": "Rainbow_Pottery_Zone#Dogū_World" },
