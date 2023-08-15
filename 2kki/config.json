@@ -1161,7 +1161,8 @@
 			{ "title": "Hell", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			{ "title": "Somber Establishment", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
-			{ "title": "Somber Establishment", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } }
+			{ "title": "Somber Establishment", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } },
+			"Expanded Corridors"
 		],
 		"2254": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2255": [
