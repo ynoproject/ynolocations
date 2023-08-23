@@ -994,6 +994,10 @@
 		"1791": "Tricolor Room",
 		"1801": { "title": "Rainbow Pottery Zone: Dogū World", "urlTitle": "Rainbow_Pottery_Zone#Dogū_World" },
 		"1802": { "title": "Rainbow Pottery Zone: Leo Palace", "urlTitle": "Rainbow_Pottery_Zone#Leo_Palace" },
+		"1805": [
+			{ "title": "Serpentine Pyramid", "coords": { "x1": 0, "y1": -1, "x2": 214, "y2": -1 } },
+			"Pufferfish Extraction Funland"
+		],
 		"1806": [
 			{ "title": "Digital Alley: Disco Floor", "urlTitle": "Digital_Alley#Disco_Floor", "coords": { "x1": 307, "y1": -1, "x2": 449, "y2": -1 } },
 			"Industrial Hotel"
@@ -1143,6 +1147,7 @@
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
 		],
+		"2199": { "title": "Mini-Nexus: Someone's Room", "urlTitle": "Mini-Nexus" },
 		"2213": [
 			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Candlelit Factory"
@@ -1156,6 +1161,8 @@
 		"2218": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2219": "Fish Person Shoal",
 		"2220": "Hell",
+		"2237": { "title": "Bleeding Mushroom Garden: Hellish Bloody Maze", "urlTitle": "Bleeding_Mushroom_Garden#Hellish_Bloody_Maze" },
+		"2239": { "title": "Primary Estate: Canvas", "urlTitle": "Primary_Estate#Canvas" },
 		"2251": [
 			{ "title": "Fish Person Shoal", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Hell", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
