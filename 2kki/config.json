@@ -1184,6 +1184,10 @@
 			"Checkered Towers"
 		],
 		"2279": "Checkered Towers",
-		"2280": "Blood Red Beach"
+		"2280": "Blood Red Beach",
+		"2392": [
+			{ "title": "Magenta Village", "coords": { "x1": 3, "y1": 27, "x2": 16, "y2": 40 } },
+			"Amoeba Woods"
+		]
 	}
 }
