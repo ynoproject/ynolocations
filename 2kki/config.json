@@ -1155,7 +1155,8 @@
 		"2216": [
 			{ "title": "Candlelit Factory", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Fish Person Shoal", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
-			"Hell"
+			{ "title": "Hell", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			"Floating Tiled Islands"
 		],
 		"2217": "Candlelit Factory",
 		"2218": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
