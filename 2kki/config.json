@@ -377,7 +377,7 @@
 			{ "title": "Arc de Pillar World", "coords": { "x1": 0, "y1": 0, "x2": 83, "y2": 79 } },
 			"Industrial Maze"
 		],
-		"0578": { "title": "Red Streetlight World: Eldritch Streetlight", "urlTitle": "Red_Streetlight_World#Eldritch_Streetlight" },
+		"0578": { "title": "Red Streetlight World", "urlTitle": "Red_Streetlight_World#Eldritch_Streetlight" },
 		"0593": "Sepia Clouds World",
 		"0595": { "title": "Sea of Clouds: Moai Bro Prison", "urlTitle": "Sea_of_Clouds" },
 		"0618": { "title": "Red Blue Yellow (Mini Game B) - EX Version", "urlTitle": "Console#Red_Blue_Yellow_(Mini_Game_B)", "explorer": false },
