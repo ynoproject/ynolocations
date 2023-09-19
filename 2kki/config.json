@@ -1155,18 +1155,18 @@
 		"2216": [
 			{ "title": "Candlelit Factory", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Fish Person Shoal", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
-			{ "title": "Hell", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			{ "title": "Flamelit Wasteland", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			"Floating Tiled Islands"
 		],
 		"2217": "Candlelit Factory",
 		"2218": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2219": "Fish Person Shoal",
-		"2220": "Hell",
+		"2220": "Flamelit Wasteland",
 		"2237": { "title": "Bleeding Mushroom Garden: Hellish Bloody Maze", "urlTitle": "Bleeding_Mushroom_Garden#Hellish_Bloody_Maze" },
 		"2239": { "title": "Primary Estate: Canvas", "urlTitle": "Primary_Estate#Canvas" },
 		"2251": [
 			{ "title": "Fish Person Shoal", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
-			{ "title": "Hell", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
+			{ "title": "Flamelit Wasteland", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			{ "title": "Somber Establishment", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
 			{ "title": "Somber Establishment", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } },
@@ -1174,7 +1174,7 @@
 		],
 		"2254": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
 		"2255": [
-			{ "title": "Hell: Hell Caverns", "urlTitle": "Hell#Hell_Caverns", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
+			{ "title": "Flamelit Wasteland: Hell Caverns", "urlTitle": "Flamelit Wasteland#Hell_Caverns", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
 		],
 		"2257": "Somber Establishment",
