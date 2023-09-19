@@ -890,7 +890,7 @@
 		],
 		"1621": [
 			{ "title": "Silhouette Complex", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 54 } },
-			{ "title": "Pancake World: Dinosaur Abode", "coords": { "x1": -1, "y1": 55, "x2": -1, "y2": 99 } }
+			{ "title": "Pancake World: Dinosaur Abode", "urlTitle": "Pancake_World", "coords": { "x1": -1, "y1": 55, "x2": -1, "y2": 99 } }
 		],
 		"1622": [
 			{ "title": "Maple Forest: Golden Chinatown", "urlTitle": "Maple_Forest#Golden_Chinatown", "coords": { "x1": 0, "y1": -1, "x2": 21, "y2": -1 } },
