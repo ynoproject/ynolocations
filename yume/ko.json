@@ -55,13 +55,12 @@
 		"0054": { "title": "고비 사막", "urlTitle": "s-15" },
 		"0055": { "title": "고비 사막", "urlTitle": "s-15" },
 		"0056": { "title": "고비 사막", "urlTitle": "s-15" },
-		"0057": {
-			"0053": { "title": "고비 사막", "urlTitle": "s-15" },
-			"0061": { "title": "고비 사막", "urlTitle": "s-15" },
-			"0110": { "title": "고비 사막", "urlTitle": "s-15" },
-			"0144": { "title": "고비 사막", "urlTitle": "s-15" },
-			"else": { "title": "고비 사막", "urlTitle": "s-15" }
-		},
+		"0057": [
+			{ "title": "고비 사막", "urlTitle": "s-15" },
+			{ "title": "고비 사막", "urlTitle": "s-15" },
+			{ "title": "고비 사막", "urlTitle": "s-15" },
+			{ "title": "고비 사막", "urlTitle": "s-15" }
+		],
 		"0058": { "title": "고비 사막", "urlTitle": "s-15" },
 		"0059": { "title": "고비 사막", "urlTitle": "s-15" },
 		"0060": { "title": "고비 사막", "urlTitle": "s-15" },
@@ -89,14 +88,14 @@
 		"0082": { "title": "백화점", "urlTitle": "s-11" },
 		"0083": { "title": "하수구 : 풍차의 세계", "urlTitle": "s-12.1" },
 		"0084": { "title": "수해 B", "urlTitle": "s-16.1" },
-		"0086": {
-			"0046": { "title": "수해 B", "urlTitle": "s-16.1" },
-			"0047": { "title": "수해 B", "urlTitle": "s-16.1" },
-			"0084": { "title": "수해 B", "urlTitle": "s-16.1" },
-			"0090": { "title": "수해 B", "urlTitle": "s-16.1" },
-			"0104": { "title": "수해 B", "urlTitle": "s-16.1" },
-			"else": { "title": "수해 B", "urlTitle": "s-16.1" }
-		},
+		"0086": [
+			{ "title": "수해 B", "urlTitle": "s-16.1" },
+			{ "title": "수해 B", "urlTitle": "s-16.1" },
+			{ "title": "수해 B", "urlTitle": "s-16.1" },
+			{ "title": "수해 B", "urlTitle": "s-16.1" },
+			{ "title": "수해 B", "urlTitle": "s-16.1" },
+			{ "title": "수해 B", "urlTitle": "s-16.1" }
+		],
 		"0087": { "title": "수해 B : 기차", "urlTitle": "s-16.1" },
 		"0088": { "title": "수해 B : 기차", "urlTitle": "s-16.1" },
 		"0089": { "title": "수해 B : 기차", "urlTitle": "s-16.1" },
@@ -115,23 +114,30 @@
 		"0102": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
 		"0103": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
 		"0104": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
-		"0105": {
-			"0102": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
-			"0104": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
-			"0107": { "title": "흑백 세계 B", "urlTitle": "s-19.1" },
-			"else": { "title": "흑백 세계 B", "urlTitle": "s-19.1" }
-		},
+		"0105": [
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" },
+			{ "title": "흑백 세계 B", "urlTitle": "s-19.1" }
+		],
 		"0106": { "title": "흑백 세계 : 지하 호수", "urlTitle": "s-19.1" },
 		"0107": { "title": "흑백 세계 : 지하 호수", "urlTitle": "s-19.1" },
 		"0108": { "title": "얕은 여울", "urlTitle": "s-13.1" },
 		"0109": { "title": "얕은 여울의 집", "urlTitle": "s-13.1.1" },
 		"0110": { "title": "블록 미로", "urlTitle": "s-16.2" },
-		"0111": {
-			"0047": { "title": "삼도천 B", "urlTitle": "s-21.1" },
-			"0074": { "title": "삼도천 A", "urlTitle": "s-21.1" },
-			"0083": { "title": "삼도천 A", "urlTitle": "s-21.1" },
-			"else": { "title": "삼도천", "urlTitle": "s-21.1" }
-		},
+		"0111": [
+			{ "title": "삼도천 A", "urlTitle": "s-21.1" },
+			{ "title": "삼도천 B", "urlTitle": "s-21.1" }
+		],
 		"0112": { "title": "공중정원", "urlTitle": "s-15.1" },
 		"0113": { "title": "공중정원", "urlTitle": "s-15.1" },
 		"0114": { "title": "콘크리트 폐허", "urlTitle": "s-15.2" },
@@ -175,14 +181,17 @@
 		"0154": { "title": "FC 유적 B", "urlTitle": "s-18" },
 		"0155": { "title": "NASU", "urlTitle": "s-2" },
 		"0157": { "title": "FC 유적 : 던전", "urlTitle": "s-18" },
-		"0158": {
-			"0145": { "title": "FC 유적 A", "urlTitle": "s-18" },
-			"0146": { "title": "FC 유적 B", "urlTitle": "s-18" },
-			"0147": { "title": "FC 유적 A", "urlTitle": "s-18" },
-			"0151": { "title": "FC 유적 B", "urlTitle": "s-18" },
-			"0154": { "title": "FC 유적 B", "urlTitle": "s-18" },
-			"else": { "title": "FC 유적", "urlTitle": "s-18" }
-		},
+		"0158": [
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 A", "urlTitle": "s-18" },
+			{ "title": "FC 유적 B", "urlTitle": "s-18" },
+			{ "title": "FC 유적 B", "urlTitle": "s-18" },
+			{ "title": "FC 유적", "urlTitle": "s-18" }
+		],
 		"0159": { "title": "꿈 속의 꿈", "urlTitle": "s-23" },
 		"0160": { "title": "지하실", "urlTitle": "s-23.1" },
 		"0161": { "title": "지하실", "urlTitle": "s-23.1" },

@@ -54,13 +54,12 @@
 		"0054": "Il Deserto",
 		"0055": "Il Deserto",
 		"0056": "Il Deserto",
-		"0057": {
-			"0053": "Il Deserto",
-			"0061": "Il Deserto",
-			"0110": "Il Deserto",
-			"0144": "Il Deserto",
-			"else": "Il Deserto"
-		},
+		"0057": [
+			"Il Deserto",
+			"Il Deserto",
+			"Il Deserto",
+			"Il Deserto"
+		],
 		"0058": "Il Deserto",
 		"0059": "Il Deserto",
 		"0060": "Il Deserto",
@@ -88,14 +87,13 @@
 		"0082": "Centro Commerciale",
 		"0083": "Windmill World",
 		"0084": "Fitti Boschi B",
-		"0086": {
-			"0046": "La Strada",
-			"0047": "Boschi Oscuri",
-			"0084": "Fitti Boschi B",
-			"0090": "Boschi Oscuri",
-			"0104": "La Strada",
-			"else": "Fitti Boschi B"
-		},
+		"0086": [
+			"La Strada",
+			"La Strada",
+			"Fitti Boschi B",
+			"Fitti Boschi B",
+			"Boschi Oscuri"
+		],
 		"0087": "Tram",
 		"0088": "Tram",
 		"0089": "Tram",
@@ -114,23 +112,30 @@
 		"0102": "Deserto Bianco Anello Montuoso",
 		"0103": "Deserto Bianco Anello Montuoso",
 		"0104": "Deserto Bianco Anello Montuoso",
-		"0105": {
-			"0102": "Deserto Bianco Anello Montuoso",
-			"0104": "Deserto Bianco Anello Montuoso",
-			"0107": "Deserto Bianco B",
-			"else": "Deserto Bianco B"
-		},
+		"0105": [
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco Anello Montuoso",
+			"Deserto Bianco B"
+		],
 		"0106": "Deserto Bianco Lago Sotterraneo",
 		"0107": "Deserto Bianco Lago Sotterraneo",
 		"0108": "Mare Rosa",
 		"0109": "Casa di Poniko",
 		"0110": "Labirinto del Teletrasporto",
-		"0111": {
-			"0047": "Le Banchine B",
-			"0074": "Le Banchine A",
-			"0083": "Le Banchine A",
-			"else": "Le Banchine"
-		},
+		"0111": [
+			"Le Banchine A",
+			"Le Banchine B"
+		],
 		"0112": "Giardino Celestiale",
 		"0113": "Giardino Celestiale",
 		"0114": "Mondo dei Fantasmi",
@@ -174,14 +179,17 @@
 		"0154": "Mondo FC B",
 		"0155": "NASU",
 		"0157": "Dungeon FC",
-		"0158": {
-			"0145": "Mondo FC A",
-			"0146": "Mondo FC B",
-			"0147": "Mondo FC A",
-			"0151": "Mondo FC B",
-			"0154": "Mondo FC B",
-			"else": "Mondo FC"
-		},
+		"0158": [
+			"Mondo FC A",
+			"Mondo FC A",
+			"Mondo FC A",
+			"Mondo FC A",
+			"Mondo FC A",
+			"Mondo FC A",
+			"Mondo FC B",
+			"Mondo FC B",
+			"Mondo FC"
+		],
 		"0159": "La Scalinata di Mani",
 		"0160": "Mondo Sotterraneo",
 		"0161": "Mondo Sotterraneo",
