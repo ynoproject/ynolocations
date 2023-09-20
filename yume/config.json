@@ -55,13 +55,12 @@
 		"0054": "Wilderness",
 		"0055": "Wilderness",
 		"0056": "Wilderness",
-		"0057": {
-			"0053": "Wilderness",
-			"0061": "Wilderness",
-			"0110": "Wilderness",
-			"0144": "Wilderness",
-			"else": "Wilderness"
-		},
+		"0057": [
+			{ "title": "Wilderness", "coords": { "x1": 0, "y1": 25, "x2": 9, "y2": 29 } },
+			{ "title": "Wilderness", "coords": { "x1": 10, "y1": 26, "x2": 10, "y2": 29 } },
+			{ "title": "Wilderness", "coords": { "x1": 0, "y1": 0, "x2": 29, "y2": 23 } },
+			"Wilderness"
+		],
 		"0058": "Wilderness",
 		"0059": "Wilderness",
 		"0060": "Wilderness",
@@ -89,14 +88,13 @@
 		"0082": "Mall",
 		"0083": "Windmill World",
 		"0084": "Dense Woods B",
-		"0086": {
-			"0046": "Road",
-			"0047": "Dark Woods",
-			"0084": "Dense Woods B",
-			"0090": "Dark Woods",
-			"0104": "Road",
-			"else": "Dense Woods B"
-		},
+		"0086": [
+			{ "title": "Road", "coords": { "x1": 0, "y1": 35, "x2": 79, "y2": 59 } },
+			{ "title": "Road", "coords": { "x1": 46, "y1": 24, "x2": 79, "y2": 34 } },
+			{ "title": "Dense Woods B", "coords": { "x1": 0, "y1": 0, "x2": 28, "y2": 34 } },
+			{ "title": "Dense Woods B", "coords": { "x1": 29, "y1": 16, "x2": 43, "y2": 34 } },
+			"Dark Woods"
+		],
 		"0087": "Traincar",
 		"0088": "Traincar",
 		"0089": "Traincar",
@@ -115,23 +113,30 @@
 		"0102": "White Desert Mountain Ring",
 		"0103": "White Desert Mountain Ring",
 		"0104": "White Desert Mountain Ring",
-		"0105": {
-			"0102": "White Desert Mountain Ring",
-			"0104": "White Desert Mountain Ring",
-			"0107": "White Desert B",
-			"else": "White Desert B"
-		},
+		"0105": [
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 25, "y1": 40, "x2": 25, "y2": 40 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 26, "y1": 36, "x2": 28, "y2": 44 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 29, "y1": 32, "x2": 30, "y2": 46 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 31, "y1": 29, "x2": 33, "y2": 48 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 34, "y1": 29, "x2": 37, "y2": 49 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 38, "y1": 29, "x2": 42, "y2": 49 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 43, "y1": 29, "x2": 45, "y2": 50 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 46, "y1": 29, "x2": 47, "y2": 49 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 48, "y1": 30, "x2": 51, "y2": 48 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 52, "y1": 32, "x2": 53, "y2": 46 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 54, "y1": 33, "x2": 54, "y2": 45 } },
+			{ "title": "White Desert Mountain Ring", "coords": { "x1": 55, "y1": 38, "x2": 55, "y2": 44 } },
+			"White Desert B"
+		],
 		"0106": "White Desert Underground Lagoon",
 		"0107": "White Desert Underground Lagoon",
 		"0108": "Pink Sea",
 		"0109": "Poniko's House",
 		"0110": "Teleport Maze",
-		"0111": {
-			"0047": "Docks B",
-			"0074": "Docks A",
-			"0083": "Docks A",
-			"else": "Docks"
-		},
+		"0111": [
+			{ "title": "Docks A", "coords": { "x1": 0, "y1": 0, "x2": 90, "y2": 110 } },
+			"Docks B"
+		],
 		"0112": "Sky Garden",
 		"0113": "Sky Garden",
 		"0114": "Ghost World",
@@ -175,14 +180,17 @@
 		"0154": "FC World B",
 		"0155": "NASU",
 		"0157": "FC Dungeon",
-		"0158": {
-			"0145": "FC World A",
-			"0146": "FC World B",
-			"0147": "FC World A",
-			"0151": "FC World B",
-			"0154": "FC World B",
-			"else": "FC World"
-		},
+		"0158": [
+			{ "title": "FC World A", "coords": { "x1": 11, "y1": 36, "x2": 43, "y2": 45 } },
+			{ "title": "FC World A", "coords": { "x1": 11, "y1": 46, "x2": 58, "y2": 79 } },
+			{ "title": "FC World A", "coords": { "x1": 9, "y1": 80, "x2": 61, "y2": 90 } },
+			{ "title": "FC World A", "coords": { "x1": 14, "y1": 91, "x2": 36, "y2": 93 } },
+			{ "title": "FC World A", "coords": { "x1": 14, "y1": 94, "x2": 31, "y2": 95 } },
+			{ "title": "FC World A", "coords": { "x1": 17, "y1": 96, "x2": 23, "y2": 100 } },
+			{ "title": "FC World B", "coords": { "x1": 5, "y1": 129, "x2": 91, "y2": 200 } },
+			{ "title": "FC World B", "coords": { "x1": 92, "y1": 159, "x2": 100, "y2": 195 } },
+			"FC World"
+		],
 		"0159": "Staircase of Hands",
 		"0160": "Underground World",
 		"0161": "Underground World",

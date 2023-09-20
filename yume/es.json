@@ -55,13 +55,12 @@
 		"0054": "Desierto",
 		"0055": "Desierto",
 		"0056": "Desierto",
-		"0057": {
-			"0053": "Desierto",
-			"0061": "Desierto",
-			"0110": "Desierto",
-			"0144": "Desierto",
-			"else": "Desierto"
-		},
+		"0057": [
+			"Desierto",
+			"Desierto",
+			"Desierto",
+			"Desierto"
+		],
 		"0058": "Desierto",
 		"0059": "Desierto",
 		"0060": "Desierto",
@@ -89,14 +88,13 @@
 		"0082": "Centro Comercial",
 		"0083": "Mundo de Molinos de Viento",
 		"0084": "Bosque Denso B",
-		"0086": {
-			"0046": "Bosque Denso B",
-			"0047": "Bosque Denso B",
-			"0084": "Bosque Denso B",
-			"0090": "Bosque Denso B",
-			"0104": "Bosque Denso B",
-			"else": "Bosque Denso B"
-		},
+		"0086": [
+			"Bosque Denso B",
+			"Bosque Denso B",
+			"Bosque Denso B",
+			"Bosque Denso B",
+			"Bosque Denso B"
+		],
 		"0087": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
 		"0088": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
 		"0089": { "title": "Traincar", "urlTitle": "Bosque_Denso#Localización" },
@@ -115,23 +113,30 @@
 		"0102": "Desierto Blanco B",
 		"0103": "Desierto Blanco B",
 		"0104": "Desierto Blanco B",
-		"0105": {
-			"0102": "Desierto Blanco B",
-			"0104": "Desierto Blanco B",
-			"0107": "Desierto Blanco B",
-			"else": "Desierto Blanco B"
-		},
+		"0105": [
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B",
+			"Desierto Blanco B"
+		],
 		"0106": "Desierto Blanco Underground Lagoon",
 		"0107": "Desierto Blanco Underground Lagoon",
 		"0108": "Mundo Pastel",
 		"0109": { "title": "Casa de Poniko", "urlTitle": "Poniko#Poniko." },
 		"0110": "Laberinto de Telepuertos",
-		"0111": {
-			"0047": { "title": "Los Muelles B", "urlTitle": "Los_Muelles" },
-			"0074": { "title": "Los Muelles A", "urlTitle": "Los_Muelles" },
-			"0083": { "title": "Los Muelles A", "urlTitle": "Los_Muelles" },
-			"else": "Los Muelles"
-		},
+		"0111": [
+			"Los Muelles A",
+			"Los Muelles B"
+		],
 		"0112": "Jardín del Cielo",
 		"0113": "Jardín del Cielo",
 		"0114": "Mundo Fantasma",
@@ -175,14 +180,17 @@
 		"0154": "Mundo FC B",
 		"0155": { "title": "NASU", "urlTitle": "Videojuego_NASU" },
 		"0157": "FC Dungeon",
-		"0158": {
-			"0145": { "title": "Mundo FC A", "urlTitle": "Mundo_Famicom" },
-			"0146": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
-			"0147": { "title": "Mundo FC A", "urlTitle": "Mundo_Famicom" },
-			"0151": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
-			"0154": { "title": "Mundo FC B", "urlTitle": "Mundo_Famicom" },
-			"else": "Mundo FC"
-		},
+		"0158": [
+			"Mundo FC A",
+			"Mundo FC A",
+			"Mundo FC A",
+			"Mundo FC A",
+			"Mundo FC A",
+			"Mundo FC A",
+			"Mundo FC B",
+			"Mundo FC B",
+			"Mundo FC"
+		],
 		"0159": "La Escalera de Manos",
 		"0160": "Mundo Subterráneo",
 		"0161": "Mundo Subterráneo",
