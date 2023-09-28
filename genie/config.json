@@ -196,7 +196,7 @@
 				"0199": "Hellish Cafe",
 				"0200": "Hellish Cafe",
 				"0201": "Hellish Cafe",
-				"0202": "Underwater"{ "title": "Underwater", "urlTitle": "Aquarium#Underwater" },
+				"0202": { "title": "Underwater", "urlTitle": "Aquarium#Underwater" },
 				"0203": "Hellish Cafe",
 				"0204": "Hellish Cafe",
 				"0205": "Hellish Cafe",
