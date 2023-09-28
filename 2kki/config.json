@@ -484,6 +484,7 @@
 		],
 		"0798": { "title": "Despair Road: Poker Zone", "urlTitle": "Despair_Road#Poker_Zone" },
 		"0799": "Polluted Swamp",
+		"0801": { "title": "Urotsuki's Dream Apartments: Dream Wardrobe", "urlTitle": "Urotsuki%27s_Dream_Apartments" },
 		"0808": { "title": "Constellation World: Star Path", "urlTitle": "Constellation_World" },
 		"0809": "Sea Lily World",
 		"0815": { "title": "House Over the Rainbow: Rose Field", "urlTitle": "House_Over_the_Rainbow#Rose_Field" },
@@ -1138,6 +1139,7 @@
 		],
 		"2061": { "title": "Illusive Forest: Tiger Trail", "urlTitle": "Illusive_Forest#Tiger_Trail" },
 		"2064": { "title": "Illusive Forest: Bloody Eye House", "urlTitle": "Illusive_Forest#Bloody_Eye_House" },
+		"2073": "Bodacious Rotation Station",
 		"2102": { "title": "Roadside Forest: Mannequin Sub-Area", "urlTitle": "Roadside_Forest#Mannequin_Sub-Area" },
 		"2103": "Domino Constructions",
 		"2143": "Moonlit Street",
@@ -1147,6 +1149,7 @@
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
 		],
+		"2192": "Bodacious Rotation Station",
 		"2199": { "title": "Mini-Nexus: Someone's Room", "urlTitle": "Mini-Nexus" },
 		"2213": [
 			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
