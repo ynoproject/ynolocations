@@ -1,5 +1,5 @@
 {
-	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0319", "0379", "0380", "0448", "0449", "0453", "0477", "0600", "0784", "0801", "0899", "0900", "1300", "1581" ],
+	"ignoredMapIds": [ "0007", "0008", "0222", "0224", "0226", "0227", "0319", "0379", "0380", "0448", "0449", "0453", "0477", "0600", "0784", "0899", "0900", "1300", "1581" ],
 	"urlRoot": "https://yume.wiki/2kki/",
 	"mapLocations": {
 		"0002": "Urotsuki's Room",
@@ -1143,6 +1143,7 @@
 		"2102": { "title": "Roadside Forest: Mannequin Sub-Area", "urlTitle": "Roadside_Forest#Mannequin_Sub-Area" },
 		"2103": "Domino Constructions",
 		"2143": "Moonlit Street",
+		"2145": "Birch Forest",
 		"2149": "Somber Establishment",
 		"2150": "Somber Establishment",
 		"2171": [
@@ -1151,6 +1152,7 @@
 		],
 		"2192": "Bodacious Rotation Station",
 		"2199": { "title": "Mini-Nexus: Someone's Room", "urlTitle": "Mini-Nexus" },
+		"2203": { "title": "Lamp Puddle World: Fortune Teller's Tent", "urlTitle": "Lamp_Puddle_World#Fortune_Teller's_Tent" },
 		"2213": [
 			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Candlelit Factory"
