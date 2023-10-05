@@ -1195,9 +1195,9 @@
 		"2280": "Blood Red Beach",
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 3, "y1": 27, "x2": 16, "y2": 40 } },
-			"Amoeba Woods",
+			"Amoeba Woods"
+		],
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World"
-		]
 	}
 }
