@@ -1155,6 +1155,7 @@
 		"2203": { "title": "Lamp Puddle World: Fortune Teller's Tent", "urlTitle": "Lamp_Puddle_World#Fortune_Teller's_Tent" },
 		"2213": [
 			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
+			{ "title": "Floating Tiled Islands", "coords": { "x1": 108, "y1": 0, "x2": 127, "y2": 14 } },
 			"Candlelit Factory"
 		],
 		"2216": [
@@ -1183,6 +1184,7 @@
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
 		],
 		"2257": "Somber Establishment",
+		"2259": "Floating Tiled Islands",
 		"2272": [
 			{ "title": "Checkered Towers", "coords": { "x1": 14, "y1": 0, "x2": 64, "y2": 14 } },
 			{ "title": "Realm of Dice", "coords": { "x1": -1, "y1": 36, "x2": -1, "y2": 67 } },
@@ -1193,7 +1195,9 @@
 		"2280": "Blood Red Beach",
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 3, "y1": 27, "x2": 16, "y2": 40 } },
-			"Amoeba Woods"
+			"Amoeba Woods",
+		"2492": "Thumbtack World",
+		"2494": "Thumbtack World"
 		]
 	}
 }
