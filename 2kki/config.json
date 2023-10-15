@@ -842,7 +842,10 @@
 			"Blob Desert"
 		],
 		"1522": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
-		"1523": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
+		"1523": {
+			"0804": "Monkey Mansion",
+			"else": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" }
+		},
 		"1524": { "title": "Constellation World: Star Building", "urlTitle": "Constellation_World#Star_Building" },
 		"1525": "Portrait Purgatory",
 		"1529": { "title": "Parking Garage: Mistaken Call Room", "urlTitle": "Parking_Garage#Mistaken_Call_Room" },
@@ -1045,19 +1048,24 @@
 		"1882": [
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 20, "y1": 0, "x2": 208, "y2": 21 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 13, "x2": 17, "y2": 56 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 18, "y1": 22, "x2": 172, "y2": 118 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 21, "y1": 24, "x2": 126, "y2": 38 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 18, "y1": 39, "x2": 172, "y2": 57 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 23, "y1": 58, "x2": 172, "y2": 91 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 173, "y1": 20, "x2": 239, "y2": 52 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 212, "y1": 0, "x2": 239, "y2": 19 } }, 
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 78, "x2": 21, "y2": 101 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 58, "x2": 21, "y2": 101 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 54, "y1": 92, "x2": 153, "y2": 115 } },
 			{ "title": "Wooded Lakeside: Gnarled Tree Plaza", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 30, "y1": 123, "x2": 109, "y2": 179 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 0, "y1": 160, "x2": 21, "y2": 192 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 238, "y1": 160, "x2": 239, "y2": 192 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 18, "y1": 291, "x2": 49, "y2": 309 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 376, "x2": 57, "y2": 419 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 58, "y1": 410, "x2": 83, "y2": 419 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 376, "x2": 19, "y2": 400 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 0, "y1": 401, "x2": 83, "y2": 419 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 20, "y1": 389, "x2": 35, "y2": 400 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 108, "y1": 411, "x2": 129, "y2": 419 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 158, "y1": 412, "x2": 189, "y2": 419 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 190, "y1": 386, "x2": 239, "y2": 419 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 158, "y1": 412, "x2": 192, "y2": 419 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 189, "y1": 386, "x2": 239, "y2": 411 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 207, "y1": 412, "x2": 234, "y2": 419 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A" }
 		],
 		"1883": [
