@@ -310,6 +310,10 @@
 			"Spirit Capital"
 		],
 		"0486": { "title": "Sugar World: Sugary Depths", "urlTitle": "Sugar_World#Sugary_Depths" },
+		"0487": [
+			{ "title": "River Road B", "coords": { "x1": -1, "y1": 24, "x2": -1, "y2": 50 } },
+			"River Road A"
+		],
 		"0489": [
 			{ "title": "Downfall Garden A", "coords": { "x1": 210, "y1": 0, "x2": 279, "y2": 76 } },
 			{ "title": "River_Complex: Buddha Face Labyrinth", "urlTitle": "River_Complex#Buddha_Face_Labyrinth", "coords": { "x1": 240, "y1": 131, "x2": 256, "y2": 139 } },
@@ -1207,6 +1211,7 @@
 		],
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World",
-		"2495": "Thumbtack World"
+		"2495": "Thumbtack World",
+		"2513": "Abyssal Garden"
 	}
 }
