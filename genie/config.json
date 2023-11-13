@@ -296,7 +296,7 @@
 				"0300": "Ancient Heavenly Sky",
 				"0301": { "title": "Whimsical Plan Institute", "urlTitle": "Unreal_Nexus#Whimsical_Plan_Institute" },
 				"0302": "Hellish Facility",
-				"0303": "Hellish Prison",
+				"0303": "Hellish Facility",
 				"0304": "Hellish Prison",
 				"0305": "Hellish Prison",
 				"0306": { "title": "The Corridor", "urlTitle": "Hellish_Prison#The_Corridor" },
@@ -323,7 +323,7 @@
 		"locationUrlTitles": {
 			"Sweet Home?": "Sweet_Home",
 			"Transport module": "Meatball",
-			"Psychedelic Path": "3D Mecha Path",
+			"Psychedelic Path": "3D_Mecha_Path",
 			"My Home": "Events#My_Home",
 			"Starliner": "Space_Station",
 			"Select location": "Space_Station",
