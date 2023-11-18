@@ -996,6 +996,7 @@
 			{ "title": "ephemera：七色の通路", "urlTitle": "ephemera" },
 			{ "title": "ephemera：影の鉄塔", "urlTitle": "ephemera" }
 		],
+		"2191": { "title": "Entrance：夕日の小道", "urlTitle": "Entrance" },
 		"2192": "しろい",
 		"2199": { "title": "Nexus：誰かの部屋", "urlTitle": "Nexus" },
 		"2203": "しゃーまんはうす",
@@ -1042,6 +1043,10 @@
 		"2392": [
 			"マゼンタ地帯",
 			"青い通り道"
+		],
+		"2453": [
+			"白黒電車",
+			"天裏"
 		],
 		"2492": "彼方",
 		"2494": "エピローグ",

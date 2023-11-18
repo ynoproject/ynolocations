@@ -1162,6 +1162,7 @@
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
 		],
+		"2191": { "title": "Lonely Home: Sunset Sanctum", "urlTitle": "Lonely_Home#Sunset_Sanctum" },
 		"2192": "Bodacious Rotation Station",
 		"2199": { "title": "Mini-Nexus: Someone's Room", "urlTitle": "Mini-Nexus" },
 		"2203": { "title": "Lamp Puddle World: Fortune Teller's Tent", "urlTitle": "Lamp_Puddle_World#Fortune_Teller's_Tent" },
@@ -1208,6 +1209,10 @@
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 3, "y1": 27, "x2": 16, "y2": 40 } },
 			"Amoeba Woods"
+		],
+		"2453": [
+			{ "title": "Ticking Blackout Zone", "coords": { "x1": 0, "y1": 0, "x2": 83, "y2": 44 } },
+			"Mirrored Pathways"
 		],
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World",
