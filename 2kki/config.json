@@ -761,7 +761,9 @@
 			{ "title": "Ahogeko's House", "coords": { "x1": 0, "y1": 105, "x2": 19, "y2": 119 } },
 			{ "title": "Shallows of Deceit", "coords": { "x1": 20, "y1": 120, "x2": 39, "y2": 149 } },
 			{ "title": "Corrupted Love World", "coords": { "x1": 0, "y1": 135, "x2": 19, "y2": 149 } },
-			{ "title": "Submerged Communications Area", "coords": { "x1": -1, "y1": 150, "x2": -1, "y2": 179 } },
+			{ "title": "Submerged Communications Area", "coords": { "x1": 0, "y1": 150, "x2": 20, "y2": 179 } },
+			{ "title": "Submerged Communications Area", "coords": { "x1": 20, "y1": 165, "x2": 39, "y2": 179 } },
+			{ "title": "Ethnic World", "coords": { "x1": 20, "y1": 150, "x2": 39, "y2": 164 } },
 			"City of Liars"
 		],
 		"1309": { "title": "Originator Garden: Fuchsia Suburbs B", "urlTitle": "Originator_Garden#Fuchsia_Suburbs_B"},
@@ -1158,6 +1160,10 @@
 		"2145": "Birch Forest",
 		"2149": "Somber Establishment",
 		"2150": "Somber Establishment",
+		"2164": [
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
+			"Ethnic World"
+		],
 		"2171": [
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
@@ -1207,7 +1213,9 @@
 		"2279": "Checkered Towers",
 		"2280": "Blood Red Beach",
 		"2392": [
-			{ "title": "Magenta Village", "coords": { "x1": 3, "y1": 27, "x2": 16, "y2": 40 } },
+			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 24, "x2": 99, "y2": 68 } },
+			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 99, "x2": 20, "y2": 101 } },
+			{ "title": "Blue Rock Depths", "coords": { "x1": 2, "y1": 71, "x2": 17, "y2": 83 } },
 			"Amoeba Woods"
 		],
 		"2453": [
@@ -1217,6 +1225,7 @@
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World",
 		"2495": "Thumbtack World",
+		"2508": "Flowery Ponds",
 		"2513": "Abyssal Garden"
 	}
 }
