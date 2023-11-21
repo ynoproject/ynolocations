@@ -1216,6 +1216,9 @@
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 24, "x2": 99, "y2": 68 } },
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 99, "x2": 20, "y2": 101 } },
 			{ "title": "Blue Rock Depths", "coords": { "x1": 2, "y1": 71, "x2": 17, "y2": 83 } },
+			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 129, "x2": 65, "y2": 200 } },
+			{ "title": "Slate Doorway", "coords": { "x1": 70, "y1": 74, "x2": 159, "y2": 245 } },
+			{ "title": "Slate Doorway", "coords": { "x1": 41, "y1": 216, "x2": 69, "y2": 245 } },
 			"Amoeba Woods"
 		],
 		"2453": [
