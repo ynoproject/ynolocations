@@ -1219,7 +1219,7 @@
 			{ "title": "Blue Rock Depths", "coords": { "x1": 2, "y1": 71, "x2": 17, "y2": 83 } },
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 129, "x2": 65, "y2": 200 } },
 			{ "title": "Slate Doorway", "coords": { "x1": 70, "y1": 74, "x2": 159, "y2": 245 } },
-			{ "title": "Slate Doorway", "coords": { "x1": 41, "y1": 216, "x2": 69, "y2": 245 } },
+			{ "title": "Slate Doorway", "coords": { "x1": 24, "y1": 219, "x2": 67, "y2": 256 } },
 			"Amoeba Woods"
 		],
 		"2453": [
@@ -1230,6 +1230,9 @@
 		"2494": "Thumbtack World",
 		"2495": "Thumbtack World",
 		"2508": "Flowery Ponds",
-		"2513": "Abyssal Garden"
+		"2513": "Abyssal Garden",
+		"2554": "Abyssal Garden",
+		"2556": "Collision World",
+		"2558": { "title": "Swamp of Remembrance: Deeper Marsh", "urlTitle": "Swamp_of_Remembrance#Deeper_Marsh" }
 	}
 }
