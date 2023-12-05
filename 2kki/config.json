@@ -239,8 +239,8 @@
 		"0344": { "title": "FUJI", "urlTitle": "Console#FUJI", "explorer": false },
 		"0354": [
 			{ "title": "Dark Alleys", "coords": { "x1": 20, "y1": 15, "x2": 39, "y2": 29 } },
-			{ "title": "Grass World", "coords": { "x1": 0, "y1": 0, "x2": 40, "y2": 12 } },
-			"Grass World"
+			{ "title": "Sprout World", "coords": { "x1": 0, "y1": 0, "x2": 40, "y2": 12 } },
+			"Sprout World"
 		],
 		"0357": { "title": "Dark Alleys: Dark Stairs", "urlTitle": "Dark_Alleys#Dark_Stairs" },
 		"0371": "Simple Street",
