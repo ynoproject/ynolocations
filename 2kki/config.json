@@ -860,6 +860,7 @@
 		"1547": [
 			{ "title": "Execution Ground", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			{ "title": "Spiked Fence Garden", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			{ "title": "Snowman World", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
 			"Cactus Desert"
 		],
 		"1555": [
@@ -1003,6 +1004,8 @@
 		"1781": { "title": "Parking Garage: Underground Mall", "urlTitle": "Parking_Garage#Underground_Mall" },
 		"1782": { "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" },
 		"1791": "Tricolor Room",
+		"1796": "Tricolor Room",
+		"1798": "Fox Temple",
 		"1801": { "title": "Rainbow Pottery Zone: Dogū World", "urlTitle": "Rainbow_Pottery_Zone#Dogū_World" },
 		"1802": { "title": "Rainbow Pottery Zone: Leo Palace", "urlTitle": "Rainbow_Pottery_Zone#Leo_Palace" },
 		"1805": [
@@ -1196,6 +1199,7 @@
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			{ "title": "Somber Establishment", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
 			{ "title": "Somber Establishment", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } },
+			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns", "coords": { "x1": 120, "y1": -1, "x2": 139, "y2": -1 } },
 			"Expanded Corridors"
 		],
 		"2254": { "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" },
@@ -1231,9 +1235,16 @@
 		"2495": "Thumbtack World",
 		"2508": "Flowery Ponds",
 		"2513": "Abyssal Garden",
+		"2537": [
+			{ "title": "Butcher Hollow", "coords": { "x1": 100, "y1": 0, "x2": 119, "y2": 49 } },
+			"Butcher Hollow"
+		],
 		"2554": { "title": "Abyssal Garden: Bloodstained Eye House", "urlTitle": "Abyssal_Garden" },
 		"2556": "Collision World",
 		"2558": { "title": "Swamp of Remembrance: Deeper Marsh", "urlTitle": "Swamp_of_Remembrance#Deeper_Marsh" },
-		"2559": "Collision World"
+		"2559": "Collision World",
+		"2736": { "title": "Mourning Void: Heart Passage", "urlTitle": "Mourning_Void#Heart_Passage" },
+		"2737": { "title": "Mourning Void: Heart Passage", "urlTitle": "Mourning_Void#Heart_Passage" },
+		"2738": { "title": "Serpent Ruins B: Cave", "urlTitle": "Serpent_Ruins_B#Cave" }
 	}
 }
