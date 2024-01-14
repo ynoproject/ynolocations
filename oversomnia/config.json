@@ -2,6 +2,7 @@
         "ignoredMapIds": [
                 "0000", "0001", "0008"
         ],
+        "urlRoot": "https://yume.wiki/oversomnia/",
         "mapLocations": {
                 "0002": "Irving's Room",
                 "0003": { "title": "Kitchen", "urlTitle": "Irving's_Room" },
