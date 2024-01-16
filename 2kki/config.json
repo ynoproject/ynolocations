@@ -1228,6 +1228,15 @@
 			{ "title": "Slate Doorway", "coords": { "x1": 24, "y1": 219, "x2": 67, "y2": 256 } },
 			"Amoeba Woods"
 		],
+		"2401": { "title": "Deep Red Wilds: Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage" },
+		"2402": { "title": "Deep Red Wilds: Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage" },
+		"2403": { "title": "Deep Red Wilds: Ruined Skyline", "urlTitle": "Deep_Red_Wilds#Ruined_Skyline" },
+		"2416": [
+			{ "title": "Serene Docks", "coords": { "x1": 39, "y1": 31, "x2": 72, "y2": 40 } },
+			"Empty Abode"
+		],
+		"2422": { "title": "Drains Theater: Cyber Pathway", "urlTitle": "Drains_Theater#Cyber_Pathway" },
+		"2426": "Serene Docks",
 		"2453": [
 			{ "title": "Ticking Blackout Zone", "coords": { "x1": 0, "y1": 0, "x2": 83, "y2": 44 } },
 			"Mirrored Pathways"
