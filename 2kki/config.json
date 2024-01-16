@@ -321,6 +321,8 @@
 		],
 		"0490": [
 			{ "title": "Sugar World: Sugary Depths", "urlTitle": "Sugar_World#Sugary_Depths", "coords": { "x1": 55, "y1": 50, "x2": 99, "y2": 79 } },
+			{ "title": "RGB Passage B", "coords": { "x1": 62, "y1": 0, "x2": 88, "y2": 40 } },
+			{ "title": "RGB Passage B", "coords": { "x1": 3, "y1": 49, "x2": 23, "y2": 79 } },
 			"RGB Passage"
 		],
 		"0493": "Shield Owl World",
