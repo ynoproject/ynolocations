@@ -1,7 +1,5 @@
 {
-        "ignoredMapIds": [
-                "0000", "0001", "0008"
-        ],
+        "ignoredMapIds": [ "0000", "0001", "0008" ],
         "urlRoot": "https://yume.wiki/oversomnia/",
         "mapLocations": {
                 "0002": "Irving's Room",
@@ -89,9 +87,9 @@
                 "0085": { "title": "Fishing Hole", "urlTitle": "Swamp_World#Fishing_Hole" },
                 "0086": "Vermilion Rooftops",
                 "0087": [
-						{ "title": "Blue Passage A", "coords": { "x1": 0, "y1": -1, "x2": 40, "y2": -1 } },
-						"Blue Passage B"
-				],
+			{ "title": "Blue Passage A", "coords": { "x1": 0, "y1": -1, "x2": 40, "y2": -1 } },
+			"Blue Passage B"
+		],
                 "0088": "Cold Storage",
                 "0089": "Cold Storage",
                 "0090": "Winter Hills",

@@ -89,11 +89,11 @@
 		"0085": "Empty City",
 		"0086": "Subnexus",
 		"0087": "Tetsuko's Room",
-		"0088": "Ending",
-		"0089": "Ending",
-		"0090": "Ending",
-		"0091": "Ending",
-		"0092": "Ending",
+		"0088": "Outside Mariana's Room",
+		"0089": "Outside Mariana's Room",
+		"0090": "Outside Mariana's Room",
+		"0091": "Outside Mariana's Room",
+		"0092": "Outside Mariana's Room",
 		"0093": "Bath House",
 		"0094": "Water Mill",
 		"0095": "Abandoned Lab",
@@ -104,10 +104,10 @@
 		"0100": "Misty Forest",
 		"0101": "Misty Forest",
 		"0102": "Stone Ruins",
-		"0103": { "title": "Credits", "urlTitle": "Endings" }
+		"0103": "Outside Mariana's Room"
 	},
 	"locationUrlTitles": {
 		"Train Car": "Train Station",
-		"Ending": "Endings"
+		"Outside Mariana's Room": "Mariana's Room"
 	}
 }
