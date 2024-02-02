@@ -17,7 +17,7 @@
                 "0015": "Twilight Apartments",
                 "0016": "Twilight Apartments",
                 "0017": "Twilight Apartments",
-                "0018": "Noise Room",
+                "0018": { "title": "Noise Room", "urlTitle": "Twilight_Apartments" },
                 "0019": "Cloud Cuckoo World",
                 "0020": "Waterway Town",
                 "0021": "Attic World",
