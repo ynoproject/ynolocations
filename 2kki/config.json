@@ -1130,8 +1130,9 @@
 			},
 		"2007": { "title": "Sea of Trees: Slime Room", "urlTitle": "Sea_of_Trees#Slime_Room" },
 		"2031": [
-			{ "title": "Hatred Palace", "coords": { "x1": 117, "y1": 0, "x2": 235, "y2": 114 } },
-			"Digital Heart Space"
+			{ "title": "Digital Heart Space", "coords": { "x1": 0, "y1": 0, "x2": 116, "y2": 129 } },
+			{ "title": "Hatred Palace", "coords": { "x1": 117, "y1": 0, "x2": 235, "y2": 129 } },
+			"Fish Oil Swamp"
 		],
 		"2033": [
 			{ "title": "Soy Sauce World", "coords": { "x1": 200, "y1": 0, "x2": 299, "y2": 99 } },
@@ -1155,6 +1156,9 @@
 		],
 		"2040": [
 			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
+			{ "title": "Nazca Valley: Psychedelic Dungeon", "urlTitle": "Nazca_Valley#Purple_Stone", "coords": { "x1": 122, "y1": 77, "x2": 213, "y2": 140 } },
+			{ "title": "Sea Slug House: Orange Alley", "urlTitle": "Sea_Slug_House#Orange_Alley", "coords": { "x1": 95, "y1": 168, "x2": 212, "y2": 199 } },
+			{ "title": "Lively Tower", "coords": { "x1": 214, "y1": 0, "x2": 399, "y2": 199 } },
 			"Four Seasons Forest"
 		],
 		"2061": { "title": "Illusive Forest: Tiger Trail", "urlTitle": "Illusive_Forest#Tiger_Trail" },
