@@ -1270,7 +1270,7 @@
 		"2737": { "title": "Mourning Void: Heart Passage", "urlTitle": "Mourning_Void#Heart_Passage" },
 		"2738": { "title": "Serpent Ruins B: Cave", "urlTitle": "Serpent_Ruins_B#Cave" },
 		"2793": [
-			{ "title": "Vinegar Vicinity", "coords": { "x1": 316, "y1": -1, "x2": 474, "y2": -1 } },
+			{ "title": "Vinegar Vicinity", "coords": { "x1": 300, "y1": 0, "x2": 474, "y2": 154 } },
 			"Cheesecake Mountain"
 		],
 		"2796": [
@@ -1280,15 +1280,14 @@
 			"Ice Thorn Cave"
 		],
 		"2797": [
-			{ "title": "Ice Thorn Cave: Ice Robot's Room", "urlTitle": "Ice_Thorn_Cave", "coords": { "x1": -1, "y1": 233, "x2": -1, "y2": 277 } },
-			{ "title": "Fish Oil Swamp: Crab Shore", "urlTitle": "Fish_Oil_Swamp#Crab_Shore", "coords": { "x1": -1, "y1": 278, "x2": -1, "y2": 321 } },
+			{ "title": "Ice Thorn Cave: Ice Robot's Room", "urlTitle": "Ice_Thorn_Cave#Ice_Robot's_Room", "coords": { "x1": 0, "y1": 233, "x2": 49, "y2": 279 } },
+			{ "title": "Fish Oil Swamp: Crab Shore", "urlTitle": "Fish_Oil_Swamp#Crab_Shore", "coords": { "x1": 0, "y1": 278, "x2": 49, "y2": 321 } },
 			"Skyline Highway"
 		],
 		"2798": [
-			{ "title": "Confection Estate", "coords": { "x1": -1, "y1": 175, "x2": -1, "y2": 349 } },
-			{ "title": "Cheesecake Mountain: Cheesecake Girl's Room", "urlTitle": "Cheesecake_Mountain", "coords": { "x1": 29, "y1": 327, "x2": 53, "y2": 349 } },
-			{ "title": "Cheesecake Mountain: Parrot Empire", "urlTitle": "Cheesecake_Mountain" }
-		],
+			{ "title": "Cheesecake Mountain: Parrot Empire", "urlTitle": "Cheesecake_Mountain#Parrot_Empire", "coords": { "x1": 0, "y1": 0, "x2": 299, "y2": 174 } },
+			{ "title": "Cheesecake Mountain: Cheesecake Girl's Room", "urlTitle": "Cheesecake_Mountain#Cheesecake_Girl's_Room", "coords": { "x1": 29, "y1": 327, "x2": 53, "y2": 349 } },
+			"Confection Estate"
 		"2799": [
 			{ "title": "title": "Moth Gallery: Cold Summer Flames", "urlTitle": "Moth_Gallery#Cold_Summer_Flames", "coords": { "x1": 0, "y1": 157, "x2": 164, "y2": 275 } },
 			{ "title": "Grilled Octopus World", "coords": { "x1": 0, "y1": 276, "x2": 164, "y2": 354 } },
