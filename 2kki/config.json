@@ -1288,8 +1288,9 @@
 			{ "title": "Cheesecake Mountain: Parrot Empire", "urlTitle": "Cheesecake_Mountain#Parrot_Empire", "coords": { "x1": 0, "y1": 0, "x2": 299, "y2": 174 } },
 			{ "title": "Cheesecake Mountain: Cheesecake Girl's Room", "urlTitle": "Cheesecake_Mountain#Cheesecake_Girl's_Room", "coords": { "x1": 29, "y1": 327, "x2": 53, "y2": 349 } },
 			"Confection Estate"
+		],
 		"2799": [
-			{ "title": "title": "Moth Gallery: Cold Summer Flames", "urlTitle": "Moth_Gallery#Cold_Summer_Flames", "coords": { "x1": 0, "y1": 157, "x2": 164, "y2": 275 } },
+			{ "title": "Moth Gallery: Cold Summer Flames", "urlTitle": "Moth_Gallery#Cold_Summer_Flames", "coords": { "x1": 0, "y1": 157, "x2": 164, "y2": 275 } },
 			{ "title": "Grilled Octopus World", "coords": { "x1": 0, "y1": 276, "x2": 164, "y2": 354 } },
 			{ "title": "Skyline Highway", "coords": { "x1": 0, "y1": 355, "x2": 79, "y2": 454 } },
 			{ "title": "Ghostly Woods", "coords": { "x1": 80, "y1": 355, "x2": 164, "y2": 454 } },
