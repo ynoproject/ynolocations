@@ -1156,7 +1156,7 @@
 		],
 		"2040": [
 			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
-			{ "title": "Nazca Valley: Psychedelic Dungeon", "urlTitle": "Nazca_Valley#Purple_Stone", "coords": { "x1": 122, "y1": 77, "x2": 213, "y2": 140 } },
+			{ "title": "Nazca Valley: Monochrome Dungeon", "urlTitle": "Nazca_Valley#Purple_Stone", "coords": { "x1": 122, "y1": 77, "x2": 213, "y2": 140 } },
 			{ "title": "Sea Slug House: Orange Alley", "urlTitle": "Sea_Slug_House#Orange_Alley", "coords": { "x1": 95, "y1": 168, "x2": 212, "y2": 199 } },
 			{ "title": "Lively Tower", "coords": { "x1": 214, "y1": 0, "x2": 399, "y2": 199 } },
 			"Four Seasons Forest"
