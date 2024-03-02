@@ -257,9 +257,9 @@
 		"0402": { "title": "Gimmick Runner", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0403": { "title": "Gimmick Runner: Beginner's Course", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0412": {
-			"0413": "Jigsaw Puzzle World",
 			"0415": "Jigsaw Puzzle World",
 			"0418": "Jigsaw Puzzle World",
+			"0419": "Jigsaw Puzzle World",
 			"else": "Jigsaw Puzzle World"
 			},
 		"0414": "Fairy Tale Woods",
