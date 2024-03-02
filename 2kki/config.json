@@ -1218,14 +1218,51 @@
 		],
 		"2257": "Somber Establishment",
 		"2259": "Floating Tiled Islands",
+		"2269": "Urotsuki's Dream Apartments",
 		"2272": [
+			{ "title": "Realm of Dice", "coords": { "x1": 5, "y1": 1, "x2": 11, "y2": 10 } },
 			{ "title": "Checkered Towers", "coords": { "x1": 14, "y1": 0, "x2": 64, "y2": 14 } },
 			{ "title": "Realm of Dice", "coords": { "x1": -1, "y1": 36, "x2": -1, "y2": 67 } },
 			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 99 } },
 			"Checkered Towers"
 		],
-		"2279": "Checkered Towers",
+		"2279": [
+			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 15 } },
+			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 46, "x2": -1, "y2": 59 } },
+			{ "title": "Blue Streetlight World", "coords": { "x1": -1, "y1": 60, "x2": -1, "y2": 80 } },
+			{ "title": "Balloon Park", "coords": { "x1": -1, "y1": 81, "x2": -1, "y2": 95 } },
+			"Checkered Towers"
+		],
 		"2280": "Blood Red Beach",
+		"2292": [
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 207, "x2": 163, "y2": 251 } },
+			"Blue Apartments"
+		],
+		"2294": [
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
+			{ "title": "Underground Subway", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
+			{ "title": "Checkered Towers", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			{ "title": "Blood Red Beach", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
+			{ "title": "Worksite", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } },
+			{ "title": "Checkered Towers", "coords": { "x1": 100, "y1": -1, "x2": 119, "y2": -1 } },
+			"Legacy Nexus"
+		],
+		"2295": [
+			{ "title": "Balloon Park", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 57 } },
+			{ "title": "Worksite", "coords": { "x1": -1, "y1": 194, "x2": -1, "y2": 246 } },
+			{ "title": "Underground Subway", "coords": { "x1": 0, "y1": 247, "x2": 199, "y2": 299 } },
+			"Dice Swamp"
+		],
+		"2296": [
+			{ "title": "Burial Depths: Burial Depths A", "urlTitle": "Burial_Depths#Burial_Depths_A", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 50 } },
+			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 51, "x2": -1, "y2": 144 } },
+			{ "title": "Burial Depths: Burial Depths B", "urlTitle": "Burial_Depths#Burial_Depths_B", "coords": { "x1": -1, "y1": 145, "x2": -1, "y2": 199 } },
+			"Dice Swamp"
+		],
+		"2300": [
+			{ "title": "Chaser Academy", "coords": { "x1": 0, "y1": 0, "x2": 114, "y2": 17 } },
+			"Balloon Park"
+		],
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 24, "x2": 99, "y2": 68 } },
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 99, "x2": 20, "y2": 101 } },
