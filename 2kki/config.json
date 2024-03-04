@@ -1031,6 +1031,13 @@
 			{ "title": "Nightmare Inn", "coords": { "x1": 0, "y1": -1, "x2": 201, "y2": -1 } },
 			"Fossil Mines"
 		],
+		"1826": [
+			{ "title": "Kaleidoscope World", "coords": { "x1": 1, "y1": 130, "x2": 33, "y2": 155 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 35, "y1": 130, "x2": 67, "y2": 155 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 82, "y1": 130, "x2": 109, "y2": 170 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 49, "y1": 204, "x2": 96, "y2": 219 } },
+			"Glowing Tree Path"
+		],
 		"1831": "Shadow Lady Estate",
 		"1844": { "title": "Spaceship: Sunset's Room", "urlTitle": "Spaceship#Sunset's_Room" },
 		"1845": [
@@ -1042,21 +1049,6 @@
 			{ "title": "Adabana Gardens", "coords": { "x1": 26, "y1": 20, "x2": 45, "y2": 24 } },
 			{ "title": "Field of Cosmos", "coords": { "x1": 2, "y1": 30, "x2": 21, "y2": 44 } },
 			"Field of Cosmos"
-		],
-		"1881": [
-			{ "title": "Oblique Hell: Antiquated Bathhouse", "urlTitle": "Oblique Hell", "coords": { "x1": 86, "y1": 235, "x2": 105, "y2": 249} },
-			{ "title": "Oblique Hell", "coords": { "x1": 66, "y1": 193, "x2": 117, "y2": 228 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 0, "y1": 237, "x2": 46, "y2": 299 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 47, "y1": 250, "x2": 113, "y2": 282 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 49, "y1": 289, "x2": 96, "y2": 299 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 116, "y1": 230, "x2": 148, "y2": 255 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 116, "y1": 258, "x2": 148, "y2": 283 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 160, "y1": 243, "x2": 165, "y2": 283 } },
-			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 214, "y1": 143, "x2": 258, "y2": 157 } },
-			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 123, "y1": 158, "x2": 270, "y2": 232 } },
-			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 175, "y1": 233, "x2": 365, "y2": 269 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 453, "y1": 194, "x2": 499, "y2": 226 } },
-			"Red Sewers"
 		],
 		"1882": [
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 20, "y1": 0, "x2": 208, "y2": 21 } },
@@ -1081,17 +1073,18 @@
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 207, "y1": 412, "x2": 234, "y2": 419 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A" }
 		],
-		"1883": [
-			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 84, "x2": -1, "y2": 438 } },
-			"Marshmallow Shallows"
+		"1885": [
+			{ "title": "Oblique Hell: Antiquated Bathhouse", "urlTitle": "Oblique Hell", "coords": { "x1": 53, "y1": 128, "x2": 72, "y2": 142} },
+			{ "title": "Oblique Hell", "coords": { "x1": 0, "y1": 128, "x2": 51, "y2": 163 } },
+			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze" },
 		],
-		"1888": [
+		"1887": [
 			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 8, "x2": 53, "y2": 69 } },
 			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 65, "y1": 54, "x2": 102, "y2": 69 } },
 			{ "title": "Glitched Butterfly Sector: White Lily Path A", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_A" }
 		],
+		"1889":  "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
 		"1890": [
-			{ "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room", "coords": { "x1": 0, "y1": 165, "x2": 63, "y2": 179 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 71, "y1": 166, "x2": 253, "y2": 179 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 89, "y1": 142, "x2": 112, "y2": 158 } },
 			{ "title": "Oblique Hell", "coords": { "x1": 119, "y1": 142, "x2": 142, "y2": 158 } },
