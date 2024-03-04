@@ -1083,7 +1083,7 @@
 			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 65, "y1": 54, "x2": 102, "y2": 69 } },
 			{ "title": "Glitched Butterfly Sector: White Lily Path A", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_A" }
 		],
-		"1889":  "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
+		"1889": {"title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
 		"1890": [
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 71, "y1": 166, "x2": 253, "y2": 179 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 89, "y1": 142, "x2": 112, "y2": 158 } },
