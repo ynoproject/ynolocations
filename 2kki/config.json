@@ -257,9 +257,9 @@
 		"0402": { "title": "Gimmick Runner", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0403": { "title": "Gimmick Runner: Beginner's Course", "urlTitle": "Console#Gimmick_Runner", "explorer": false },
 		"0412": {
-			"0413": "Jigsaw Puzzle World",
 			"0415": "Jigsaw Puzzle World",
 			"0418": "Jigsaw Puzzle World",
+			"0419": "Jigsaw Puzzle World",
 			"else": "Jigsaw Puzzle World"
 			},
 		"0414": "Fairy Tale Woods",
@@ -1031,6 +1031,13 @@
 			{ "title": "Nightmare Inn", "coords": { "x1": 0, "y1": -1, "x2": 201, "y2": -1 } },
 			"Fossil Mines"
 		],
+		"1826": [
+			{ "title": "Kaleidoscope World", "coords": { "x1": 1, "y1": 130, "x2": 33, "y2": 155 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 35, "y1": 130, "x2": 67, "y2": 155 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 82, "y1": 130, "x2": 109, "y2": 170 } },
+			{ "title": "Kaleidoscope World", "coords": { "x1": 49, "y1": 204, "x2": 96, "y2": 219 } },
+			"Glowing Tree Path"
+		],
 		"1831": "Shadow Lady Estate",
 		"1844": { "title": "Spaceship: Sunset's Room", "urlTitle": "Spaceship#Sunset's_Room" },
 		"1845": [
@@ -1042,20 +1049,6 @@
 			{ "title": "Adabana Gardens", "coords": { "x1": 26, "y1": 20, "x2": 45, "y2": 24 } },
 			{ "title": "Field of Cosmos", "coords": { "x1": 2, "y1": 30, "x2": 21, "y2": 44 } },
 			"Field of Cosmos"
-		],
-		"1881": [
-			{ "title": "Oblique Hell: Antiquated Bathhouse", "urlTitle": "Oblique Hell", "coords": { "x1": 0, "y1": 74, "x2": 19, "y2": 88 } },
-			{ "title": "Oblique Hell", "coords": { "x1": 48, "y1": 74, "x2": 99, "y2": 109 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 0, "y1": 116, "x2": 46, "y2": 159 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 47, "y1": 116, "x2": 113, "y2": 143 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 47, "y1": 144, "x2": 96, "y2": 159 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 109, "y1": 90, "x2": 141, "y2": 115 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 116, "y1": 118, "x2": 148, "y2": 143 } },
-			{ "title": "Kaleidoscope World", "coords": { "x1": 159, "y1": 102, "x2": 166, "y2": 144 } },
-			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 148, "y1": 72, "x2": 225, "y2": 91 } },
-			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 175, "y1": 93, "x2": 364, "y2": 129 } },
-			{ "title": "Glowing Tree Path", "coords": { "x1": 453, "y1": 54, "x2": 499, "y2": 86 } },
-			"Red Sewers"
 		],
 		"1882": [
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 20, "y1": 0, "x2": 208, "y2": 21 } },
@@ -1080,19 +1073,19 @@
 			{ "title": "Wooded Lakeside: Wooded Lakeside B", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_B", "coords": { "x1": 207, "y1": 412, "x2": 234, "y2": 419 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A" }
 		],
-		"1883": [
-			{ "title": "Streetlight Docks", "coords": { "x1": -1, "y1": 99, "x2": -1, "y2": 293 } },
-			"Marshmallow Shallows"
+		"1885": [
+			{ "title": "Oblique Hell: Antiquated Bathhouse", "urlTitle": "Oblique Hell", "coords": { "x1": 53, "y1": 128, "x2": 72, "y2": 142} },
+			{ "title": "Oblique Hell", "coords": { "x1": 0, "y1": 128, "x2": 51, "y2": 163 } },
+			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze" },
 		],
-		"1887": { "title": "3D Underworld: Glitch Nexus", "urlTitle": "3D Underworld" },
-		"1888": [
-			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 8, "x2": 44, "y2": 53 } },
-			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 54, "y1": 38, "x2": 93, "y2": 53 } },
+		"1887": [
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 0, "y1": 8, "x2": 53, "y2": 69 } },
+			{ "title": "Glitched Butterfly Sector: White Lily Path B", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_B", "coords": { "x1": 65, "y1": 54, "x2": 102, "y2": 69 } },
 			{ "title": "Glitched Butterfly Sector: White Lily Path A", "urlTitle": "Glitched_Butterfly_Sector#White_Lily_Path_A" }
 		],
+		"1889":  "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room" },
 		"1890": [
-			{ "title": "Glitched Butterfly Sector: TV Eye Room", "urlTitle": "Glitched_Butterfly_Sector#TV_Eye_Room", "coords": { "x1": 0, "y1": 165, "x2": 63, "y2": 179 } },
-			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 71, "y1": 166, "x2": 97, "y2": 179 } },
+			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 71, "y1": 166, "x2": 253, "y2": 179 } },
 			{ "title": "Wooded Lakeside: Wooded Lakeside A", "urlTitle": "Wooded_Lakeside#Wooded_Lakeside_A", "coords": { "x1": 89, "y1": 142, "x2": 112, "y2": 158 } },
 			{ "title": "Oblique Hell", "coords": { "x1": 119, "y1": 142, "x2": 142, "y2": 158 } },
 			{ "title": "Oblique Hell: First-Person Maze", "urlTitle": "Oblique_Hell#First-Person_Maze", "coords": { "x1": 149, "y1": 142, "x2": 172, "y2": 158 } },
@@ -1156,7 +1149,7 @@
 		],
 		"2040": [
 			{ "title": "Faces Zone", "coords": { "x1": 130, "y1": 0, "x2": 199, "y2": 62 } },
-			{ "title": "Nazca Valley: Psychedelic Dungeon", "urlTitle": "Nazca_Valley#Purple_Stone", "coords": { "x1": 122, "y1": 77, "x2": 213, "y2": 140 } },
+			{ "title": "Nazca Valley: Monochrome Dungeon", "urlTitle": "Nazca_Valley#Purple_Stone", "coords": { "x1": 122, "y1": 77, "x2": 213, "y2": 140 } },
 			{ "title": "Sea Slug House: Orange Alley", "urlTitle": "Sea_Slug_House#Orange_Alley", "coords": { "x1": 95, "y1": 168, "x2": 212, "y2": 199 } },
 			{ "title": "Lively Tower", "coords": { "x1": 214, "y1": 0, "x2": 399, "y2": 199 } },
 			"Four Seasons Forest"
@@ -1166,6 +1159,9 @@
 		"2073": "Bodacious Rotation Station",
 		"2102": { "title": "Roadside Forest: Mannequin Sub-Area", "urlTitle": "Roadside_Forest#Mannequin_Sub-Area" },
 		"2103": "Domino Constructions",
+		"2137": { "title": "Sakura Ruins: Petal Passage", "urlTitle": "Sakura_Ruins#Petal_Passage" },
+		"2139": { "title": "Sakura Ruins: Colored Shapes Zone", "urlTitle": "Sakura_Ruins#Colored_Shapes_Zone" },
+		"2140": "Check-Disk Nexus",
 		"2143": "Moonlit Street",
 		"2145": "Birch Forest",
 		"2149": "Somber Establishment",
@@ -1215,14 +1211,51 @@
 		],
 		"2257": "Somber Establishment",
 		"2259": "Floating Tiled Islands",
+		"2269": "Urotsuki's Dream Apartments",
 		"2272": [
+			{ "title": "Realm of Dice", "coords": { "x1": 5, "y1": 1, "x2": 11, "y2": 10 } },
 			{ "title": "Checkered Towers", "coords": { "x1": 14, "y1": 0, "x2": 64, "y2": 14 } },
 			{ "title": "Realm of Dice", "coords": { "x1": -1, "y1": 36, "x2": -1, "y2": 67 } },
 			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 99 } },
 			"Checkered Towers"
 		],
-		"2279": "Checkered Towers",
+		"2279": [
+			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 15 } },
+			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 46, "x2": -1, "y2": 59 } },
+			{ "title": "Blue Streetlight World", "coords": { "x1": -1, "y1": 60, "x2": -1, "y2": 80 } },
+			{ "title": "Balloon Park", "coords": { "x1": -1, "y1": 81, "x2": -1, "y2": 95 } },
+			"Checkered Towers"
+		],
 		"2280": "Blood Red Beach",
+		"2292": [
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 207, "x2": 163, "y2": 251 } },
+			"Blue Apartments"
+		],
+		"2294": [
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
+			{ "title": "Underground Subway", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
+			{ "title": "Checkered Towers", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
+			{ "title": "Blood Red Beach", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
+			{ "title": "Worksite", "coords": { "x1": 80, "y1": -1, "x2": 99, "y2": -1 } },
+			{ "title": "Checkered Towers", "coords": { "x1": 100, "y1": -1, "x2": 119, "y2": -1 } },
+			"Legacy Nexus"
+		],
+		"2295": [
+			{ "title": "Balloon Park", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 57 } },
+			{ "title": "Worksite", "coords": { "x1": -1, "y1": 194, "x2": -1, "y2": 246 } },
+			{ "title": "Underground Subway", "coords": { "x1": 0, "y1": 247, "x2": 199, "y2": 299 } },
+			"Dice Swamp"
+		],
+		"2296": [
+			{ "title": "Burial Depths: Burial Depths A", "urlTitle": "Burial_Depths#Burial_Depths_A", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 50 } },
+			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 51, "x2": -1, "y2": 144 } },
+			{ "title": "Burial Depths: Burial Depths B", "urlTitle": "Burial_Depths#Burial_Depths_B", "coords": { "x1": -1, "y1": 145, "x2": -1, "y2": 199 } },
+			"Dice Swamp"
+		],
+		"2300": [
+			{ "title": "Chaser Academy", "coords": { "x1": 0, "y1": 0, "x2": 114, "y2": 17 } },
+			"Balloon Park"
+		],
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 24, "x2": 99, "y2": 68 } },
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 99, "x2": 20, "y2": 101 } },
@@ -1257,6 +1290,14 @@
 		"2556": "Collision World",
 		"2558": { "title": "Swamp of Remembrance: Deeper Marsh", "urlTitle": "Swamp_of_Remembrance#Deeper_Marsh" },
 		"2559": "Collision World",
+		"2604": "Dusty Grey Town",
+		"2607": "Dusty Grey Town",
+		"2630": "Mixed Beach",
+		"2647": "Check-Disk Nexus",
+		"2652": "Meadow of Faces",
+		"2653": { "title": "Corrupted Nexus", "urlTitle": "Urotsuki's_Room#Corrupted_Nexus", "explorer": false },
+		"2693": { "title": "Rice Field: Abandoned Railway", "urlTitle": "Rice_Field#Abandoned_Railway" },
+		"2694": "Graveyard of Repentance",
 		"2736": { "title": "Mourning Void: Heart Passage", "urlTitle": "Mourning_Void#Heart_Passage" },
 		"2737": { "title": "Mourning Void: Heart Passage", "urlTitle": "Mourning_Void#Heart_Passage" },
 		"2738": { "title": "Serpent Ruins B: Cave", "urlTitle": "Serpent_Ruins_B#Cave" },
@@ -1265,11 +1306,9 @@
 			"Cheesecake Mountain"
 		],
 		"2796": [
-			{ "title": "Sea Slug House", "coords": { "x1": 0, "y1": 0, "x2": 210, "y2": 25 } },
-			{ "title": "Sea Slug House", "coords": { "x1": 0, "y1": 26, "x2": 31, "y2": 46 } },
-			{ "title": "Sea Slug House", "coords": { "x1": 49, "y1": 26, "x2": 210, "y2": 46 } },
-			{ "title": "Sea Slug House", "coords": { "x1": 0, "y1": 47, "x2": 210, "y2": 199 } },
-			{ "title": "Cold Summer Flames", "coords": { "x1": 0, "y1": 0, "x2": 0, "y2": 0 } },
+			{ "title": "Sea Slug House", "coords": { "x1": 0, "y1": 0, "x2": 177, "y2": 14 } },
+			{ "title": "Sea Slug House", "coords": { "x1": 41, "y1": 93, "x2": 155, "y2": 172 } },
+			{ "title": "Moth Gallery: Cold Summer Flames", "urlTitle": "Moth_Gallery#Cold_Summer_Flames", "coords": { "x1": 32, "y1": 26, "x2": 48, "y2": 46 } },
 			"Ice Thorn Cave"
 		],
 		"2797": [
@@ -1283,11 +1322,19 @@
 			"Confection Estate"
 		],
 		"2799": [
-			{ "title": "Cold Summer Flames", "coords": { "x1": 0, "y1": 157, "x2": 164, "y2": 275 } },
-			{ "title": "Grilled Octopus World", "coords": { "x1": 0, "y1": 281, "x2": 164, "y2": 354 } },
+			{ "title": "Moth Gallery: Cold Summer Flames", "urlTitle": "Moth_Gallery#Cold_Summer_Flames", "coords": { "x1": 0, "y1": 157, "x2": 164, "y2": 275 } },
+			{ "title": "Grilled Octopus World", "coords": { "x1": 0, "y1": 276, "x2": 164, "y2": 354 } },
 			{ "title": "Skyline Highway", "coords": { "x1": 0, "y1": 355, "x2": 79, "y2": 454 } },
 			{ "title": "Ghostly Woods", "coords": { "x1": 80, "y1": 355, "x2": 164, "y2": 454 } },
 			"Miasma"
-		]
+		],
+		"2801": "Sunrise Road",
+		"2802": "Sunrise Road",
+		"2803": "Sunrise Road",
+		"2805": [
+			{ "title": "Morning Suburbs", "coords": { "x1": 180, "y1": 0, "x2": 211, "y2": 21 } },
+			"Cerulean School"
+		],
+		"2807": "Morning Suburbs"
 	}
 }
