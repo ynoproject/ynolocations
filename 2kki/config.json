@@ -379,6 +379,7 @@
 			{ "title": "Abandoned Apartments", "coords": { "x1": 0, "y1": 0, "x2": 48, "y2": 14 } },
 			"Mansion"
 		],
+		"0570": "Bioluminescent Cavern",
 		"0571": [
 			{ "title": "Arc de Pillar World", "coords": { "x1": 0, "y1": 0, "x2": 83, "y2": 79 } },
 			"Industrial Maze"
