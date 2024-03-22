@@ -1038,11 +1038,11 @@
 			"Fossil Mines"
 		],
 		"1826": [
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 17, "x2": 85, "y2": 60 } },
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 94, "y1": 1, "x2": 164, "y2": 82 } },
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 62, "x2": 64, "y2": 128 } },
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 77, "y1": 84, "x2": 164, "y2": 125 } },
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 116, "y1": 127, "x2": 164, "y2": 174 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 17, "x2": 85, "y2": 60 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 94, "y1": 1, "x2": 164, "y2": 82 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 62, "x2": 64, "y2": 128 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 77, "y1": 84, "x2": 164, "y2": 125 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 116, "y1": 127, "x2": 164, "y2": 174 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 1, "y1": 130, "x2": 33, "y2": 155 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 35, "y1": 130, "x2": 67, "y2": 155 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 82, "y1": 130, "x2": 109, "y2": 170 } },
@@ -1050,7 +1050,7 @@
 			"Glowing Tree Path"
 		],
 		"1828": [
-			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 1, "y1": 126, "x2": 62, "y2": 165 } },
+			{ "title": "Critter Village: Hexagonal Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 1, "y1": 126, "x2": 62, "y2": 165 } },
 			{ "title": "Critter Village: Hexagonal Tile Factory", "urlTitle": "Critter_Village#Hexagonal_Tile_Factory" }
 		],
 		"1831": "Shadow Lady Estate",
