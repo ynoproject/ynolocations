@@ -1258,6 +1258,7 @@
 			{ "title": "Blue Apartments", "coords": { "x1": 71, "y1": 181, "x2": 94, "y2": 197 } },
 			"Blue Apartments"
 		],
+		"2293": { "title": "Legacy Nexus: Realistic Flat", "urlTitle": "Legacy_Nexus#Realistic_Flat" },
 		"2294": [
 			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Underground Subway", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
