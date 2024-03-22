@@ -1291,6 +1291,7 @@
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 129, "x2": 65, "y2": 200 } },
 			{ "title": "Slate Doorway", "coords": { "x1": 70, "y1": 74, "x2": 159, "y2": 245 } },
 			{ "title": "Slate Doorway", "coords": { "x1": 24, "y1": 219, "x2": 67, "y2": 256 } },
+			{ "title": "Blue Rock Depths", "coords": { "x1": 173, "y1": 0, "x2": 242, "y2": 70 } },
 			"Amoeba Woods"
 		],
 		"2401": { "title": "Deep Red Wilds: Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage" },
@@ -1363,6 +1364,7 @@
 			{ "title": "Morning Suburbs", "coords": { "x1": 180, "y1": 0, "x2": 211, "y2": 21 } },
 			"Cerulean School"
 		],
-		"2807": "Morning Suburbs"
+		"2807": "Morning Suburbs",
+		"2901": "Blue Rock Depths"
 	}
 }
