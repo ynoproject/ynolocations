@@ -437,7 +437,7 @@
 			},
 		"0716": "Tricolor Room",
 		"0717": "Tricolor Room",
-		"0719": "Chaos World",
+		"0719": "Radiant Rainbow Reef",
 		"0722": { "title": "Vase World: Vase Interior", "urlTitle": "Vase_World#Vase_Interior" },
 		"0723": { "title": "Red Sky Cliff: Splash Streetway", "urlTitle": "Red_Sky_Cliff#Splash_Streetway" },
 		"0724": { "title": "Red Sky Cliff: Splash Streetway", "urlTitle": "Red_Sky_Cliff#Splash_Streetway" },
@@ -779,6 +779,10 @@
 		"1324": { "title": "Octagonal Grid Hub: Colorless Pier", "urlTitle": "Octagonal_Grid_Hub#Colorless_Pier" },
 		"1328": { "title": "Octagonal Grid Hub: Colorless Pier", "urlTitle": "Octagonal_Grid_Hub#Colorless_Pier" },
 		"1329": { "title": "Octagonal Grid Hub: Colorless Pier", "urlTitle": "Octagonal_Grid_Hub#Colorless_Pier" },
+		"1340": [
+			{ "title": "Flicker Trail", "coords": { "x1": 4, "y1": 2, "x2": 15, "y2": 27 } },
+			"Claustrophobia"
+		],
 		"1341": [
 			{ "title": "Winter Valley", "coords": { "x1": -1, "y1": 115, "x2": -1, "y2": 209 } },
 			{ "title": "Bright Forest", "coords": { "x1": 40, "y1": 235, "x2": 79, "y2": 259 } },
@@ -1034,11 +1038,20 @@
 			"Fossil Mines"
 		],
 		"1826": [
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 17, "x2": 85, "y2": 60 } },
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 94, "y1": 1, "x2": 164, "y2": 82 } },
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 0, "y1": 62, "x2": 64, "y2": 128 } },
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 77, "y1": 84, "x2": 164, "y2": 125 } },
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 116, "y1": 127, "x2": 164, "y2": 174 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 1, "y1": 130, "x2": 33, "y2": 155 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 35, "y1": 130, "x2": 67, "y2": 155 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 82, "y1": 130, "x2": 109, "y2": 170 } },
 			{ "title": "Kaleidoscope World", "coords": { "x1": 49, "y1": 204, "x2": 96, "y2": 219 } },
 			"Glowing Tree Path"
+		],
+		"1828": [
+			{ "title": "Critter Village: Pillar Passage", "urlTitle": "Critter_Village#Hexagonal_Pillar_Passage", "coords": { "x1": 1, "y1": 126, "x2": 62, "y2": 165 } },
+			{ "title": "Critter Village: Hexagonal Tile Factory", "urlTitle": "Critter_Village#Hexagonal_Tile_Factory" }
 		],
 		"1831": "Shadow Lady Estate",
 		"1844": { "title": "Spaceship: Sunset's Room", "urlTitle": "Spaceship#Sunset's_Room" },
@@ -1213,6 +1226,10 @@
 		],
 		"2257": "Somber Establishment",
 		"2259": "Floating Tiled Islands",
+		"2268": [
+			{ "title": "Underground Subway", "coords": { "x1": 395, "y1": -1, "x2": 499, "y2": 14 } },
+			"Thrift Shop"
+		],
 		"2269": "Urotsuki's Dream Apartments",
 		"2272": [
 			{ "title": "Realm of Dice", "coords": { "x1": 5, "y1": 1, "x2": 11, "y2": 10 } },
@@ -1229,8 +1246,16 @@
 			"Checkered Towers"
 		],
 		"2280": "Blood Red Beach",
+		"2291": [
+			{ "title": "Motel Breeze", "coords": { "x1": 0, "y1": 0, "x2": 43, "y2": 15 } },
+			{ "title": "Motel Breeze", "coords": { "x1": 26, "y1": 258, "x2": 41, "y2": 299 } },
+			"Motel Breeze"
+		],
 		"2292": [
 			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 207, "x2": 163, "y2": 251 } },
+			{ "title": "Blue Apartments", "coords": { "x1": 22, "y1": 167, "x2": 44, "y2": 194 } },
+			{ "title": "Blue Apartments", "coords": { "x1": 0, "y1": 111, "x2": 299, "y2": 119 } },
+			{ "title": "Blue Apartments", "coords": { "x1": 71, "y1": 181, "x2": 94, "y2": 197 } },
 			"Blue Apartments"
 		],
 		"2294": [
