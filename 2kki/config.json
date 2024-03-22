@@ -1227,7 +1227,7 @@
 		"2257": "Somber Establishment",
 		"2259": "Floating Tiled Islands",
 		"2268": [
-			{ "title": "Underground Subway", "coords": { "x1": 395, "y1": -1, "x2": 499, "y2": 14 } },
+			{ "title": "Underground Subway", "coords": { "x1": 395, "y1": -1, "x2": 499, "y2": -1 } },
 			"Thrift Shop"
 		],
 		"2269": "Urotsuki's Dream Apartments",
