@@ -1341,6 +1341,7 @@
 			"Ice Thorn Cave"
 		],
 		"2797": [
+			{ "title": "Miasma: White Lily Graveyard", "urlTitle": "Miasma#White_Lily_Graveyard", "coords": { "x1": 0, "y1": 165, "x2": 49, "y2": 232 } },
 			{ "title": "Ice Thorn Cave: Ice Robot's Room", "urlTitle": "Ice_Thorn_Cave#Ice_Robot's_Room", "coords": { "x1": 0, "y1": 233, "x2": 49, "y2": 279 } },
 			{ "title": "Fish Oil Swamp: Crab Shore", "urlTitle": "Fish_Oil_Swamp#Crab_Shore", "coords": { "x1": 0, "y1": 278, "x2": 49, "y2": 321 } },
 			"Skyline Highway"
