@@ -871,6 +871,12 @@
 			{ "title": "Celestial Night", "coords": { "x1": 0, "y1": 0, "x2": 90, "y2": 165 } },
 			"Strawberry Milk Sea"
 		],
+		"1559": [
+			{ "title": "Pleasure Street", "coords": { "x1": 5, "y1": 29, "x2": 131, "y2": 42 } },
+			{ "title": "Pleasure Street", "coords": { "x1": 4, "y1": 45, "x2": 19, "y2": 57 } },
+			{ "title": "Pleasure Street", "coords": { "x1": 47, "y1": 45, "x2": 89, "y2": 57 } },
+			"Pleasure Street"
+		],
 		"1573": "Twilight Park",
 		"1578": [
 			{ "title": "Marble Ruins:The Garden", "urlTitle": "Marble_Ruins#The_Garden", "coords": { "x1": 5, "y1": 217, "x2": 43, "y2": 244 } },
@@ -1177,6 +1183,15 @@
 		"2145": "Birch Forest",
 		"2149": "Somber Establishment",
 		"2150": "Somber Establishment",
+		"2151": "Pleasure Street",
+		"2152": "Pleasure Street",
+		"2155": [
+			{ "title": "Pleasure Street", "coords": { "x1": 75, "y1": 3, "x2": 98, "y2": 56 } },
+			{ "title": "Pleasure Street", "coords": { "x1": 27, "y1": 98, "x2": 49, "y2": 113 } },
+			"Pleasure Street"
+		],
+		"2156": { "title": "Pleasure Street: Sensu Zone", "urlTitle": "Pleasure_Street#Sensu_Zone" },
+		"2157": { "title": "Nerium Lab: Pink Hell", "urlTitle": "Nerium_Lab#Pink_Hell" },
 		"2164": [
 			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Ethnic World"
@@ -1365,6 +1380,14 @@
 			"Cerulean School"
 		],
 		"2807": "Morning Suburbs",
+		"2872": "Sweet Medical Utopia",
+		"2873": [
+			{ "title": "Azure Overdose Zone", "coords": { "x1": 1, "y1": 1, "x2": 22, "y2": 12 } },
+			"Metallic Pathway"
+		],
+		"2876": "Sweet Medical Utopia",
+		"2877": "Sweet Medical Utopia",
+		"2878": "Sweet Medical Utopia",
 		"2901": "Blue Rock Depths"
 	}
 }
