@@ -416,10 +416,6 @@
 			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": 0, "x2": 52, "y2": 82 } },
 			"Dream Mexico"
 		],
-		"0703": [
-			{ "title": "Florist", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 19 } },
-			"Florist"
-		],
 		"0704": [
 			{ "title": "Halloween Zone", "coords": { "x1": 30, "y1": 0, "x2": 53, "y2": 15 } },
 			{ "title": "Halloween Zone", "coords": { "x1": 62, "y1": 0, "x2": 79, "y2": 13 } },
@@ -1309,7 +1305,11 @@
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World",
 		"2495": "Thumbtack World",
-		"2508": "Flowery Ponds",
+		"2508": [
+			{ "title": "Twisted Forest", "coords": { "x1": 0, "y1": 64, "x2": 29, "y2": 66 } },
+			{ "title": "Amethyst Ocean", "coords": { "x1": 39, "y1": 0, "x2": 99, "y2": 77 } },
+			"Flowery Ponds"
+		],
 		"2513": "Abyssal Garden",
 		"2537": [
 			{ "title": "Butcher Hollow", "coords": { "x1": 100, "y1": 0, "x2": 119, "y2": 49 } },
