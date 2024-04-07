@@ -1262,7 +1262,7 @@
 			"Motel Breeze"
 		],
 		"2292": [
-			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 207, "x2": 163, "y2": 251 } },
+			{ "title": "Fake Apartments", "coords": { "x1": 0, "y1": 207, "x2": 163, "y2": 251 } },
 			{ "title": "Blue Apartments", "coords": { "x1": 22, "y1": 167, "x2": 44, "y2": 194 } },
 			{ "title": "Blue Apartments", "coords": { "x1": 0, "y1": 111, "x2": 299, "y2": 119 } },
 			{ "title": "Blue Apartments", "coords": { "x1": 71, "y1": 181, "x2": 94, "y2": 197 } },
@@ -1270,7 +1270,7 @@
 		],
 		"2293": { "title": "Legacy Nexus: Realistic Flat", "urlTitle": "Legacy_Nexus#Realistic_Flat" },
 		"2294": [
-			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
+			{ "title": "Fake Apartments", "coords": { "x1": 0, "y1": -1, "x2": 19, "y2": -1 } },
 			{ "title": "Underground Subway", "coords": { "x1": 20, "y1": -1, "x2": 39, "y2": -1 } },
 			{ "title": "Checkered Towers", "coords": { "x1": 40, "y1": -1, "x2": 59, "y2": -1 } },
 			{ "title": "Blood Red Beach", "coords": { "x1": 60, "y1": -1, "x2": 79, "y2": -1 } },
