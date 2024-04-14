@@ -1355,6 +1355,7 @@
 			"Ice Thorn Cave"
 		],
 		"2797": [
+			{ "title": "Miasma: White Lily Graveyard", "urlTitle": "Miasma#White_Lily_Graveyard", "coords": { "x1": 0, "y1": 165, "x2": 49, "y2": 232 } },
 			{ "title": "Ice Thorn Cave: Ice Robot's Room", "urlTitle": "Ice_Thorn_Cave#Ice_Robot's_Room", "coords": { "x1": 0, "y1": 233, "x2": 49, "y2": 279 } },
 			{ "title": "Fish Oil Swamp: Crab Shore", "urlTitle": "Fish_Oil_Swamp#Crab_Shore", "coords": { "x1": 0, "y1": 278, "x2": 49, "y2": 321 } },
 			"Skyline Highway"
@@ -1379,6 +1380,21 @@
 			"Cerulean School"
 		],
 		"2807": "Morning Suburbs",
+		"2813": [
+			{ "title": "Art Exposition", "coords": { "x1": 0, "y1": 2, "x2": 74, "y2": 52 } },
+			{ "title": "Art Exposition", "coords": { "x1": 240, "y1": 137, "x2": 299, "y2": 209 } },
+			{ "title": "Art Exposition", "coords": { "x1": 148, "y1": 4, "x2": 178, "y2": 27 } },
+			{ "title": "Art Exposition", "coords": { "x1": 148, "y1": 114, "x2": 228, "y2": 209 } },
+			"Art Exposition"
+		],
+		"2814": [
+			{ "title": "Art Exposition", "coords": { "x1": 39, "y1": 84, "x2": 48, "y2": 116 } },
+			{ "title": "Art Exposition", "coords": { "x1": 95, "y1": 6, "x2": 118, "y2": 25 } },
+			{ "title": "Art Exposition", "coords": { "x1": 148, "y1": 90, "x2": 176, "y2": 114 } },
+			{ "title": "Art Exposition", "coords": { "x1": 135, "y1": 0, "x2": 199, "y2": 67 } },
+			{ "title": "Art Exposition", "coords": { "x1": 3, "y1": 153, "x2": 132, "y2": 199 } },
+			"Art Exposition"
+		],
 		"2872": "Sweet Medical Utopia",
 		"2873": [
 			{ "title": "Azure Overdose Zone", "coords": { "x1": 1, "y1": 1, "x2": 22, "y2": 12 } },
