@@ -1,278 +1,584 @@
 {
-	"ignoredMapIds":  ["0023", "0104" ],
-	"urlRoot": "https://yume.wiki/unevendream/",
-	"mapLocations": {
-		"0001": "Kubotsuki's Room",
-		"0002": "Windmill Lake",
-		"0004": "Totsutsuki's Room",
-		"0005": "Totsutsuki's Room",
-		"0006": "Kubotsuki's Dream Room",
-		"0008": "Kubotsuki's Dream Room",
-		"0009": "Shoe Rack",
-		"0010": "Breezy Plains",
-		"0011": "Paint Sky",
-		"0012": "Kubotsuki's Nexus",
-		"0013": "Mutant Sunflower World",
-		"0014": "Mutant Sunflower World",
-		"0015": "Mutant Sunflower World",
-		"0016": "Sandy Showroom",
-		"0017": "Sandy Showroom",
-		"0018": "Totsutsuki's Dream Room",
-		"0019": "Totsutsuki's Dream Room",
-		"0020": "Totsutsuki's Nexus",
-		"0021": "Broken World",
-		"0022": "Kubotsuki's Room",
-		"0024": "Violet Caves",
-		"0025": "Butterfly Forest",
-		"0026": "Broken World",
-		"0035": "Butterfly Forest",
-		"0036": "Butterfly Forest",
-		"0037": "Butterfly Forest",
-		"0038": "Butterfly Forest",
-		"0039": "Butterfly Forest",
-		"0040": "Butterfly Forest",
-		"0041": "Metal Mounds",
-		"0042": "Rainy Garden",
-		"0043": "Violet Caves",
-		"0044": "Sea of Static",
-		"0045": "Windmill Lake",
-		"0046": "Lantern Alley",
-		"0047": "Sea of Static",
-		"0048": "Twilight Garden",
-		"0049": "Twilight Garden",
-		"0050": "Clash of Mutated Forms",
-		"0051": "Clash of Mutated Forms",
-		"0052": "Clash of Mutated Forms",
-		"0058": "Rainy Garden",
-		"0059": "Elegant Diner",
-		"0063": "Incense World",
-		"0067": "Tanunjon",
-		"0068": "Tanunjon",
-		"0069": "Tanunjon",
-		"0071": "Tanunjon",
-		"0072": "Lantern Alley",
-		"0073": "Lantern Alley",
-		"0079": "Surreal Park",
-		"0080": "Surreal Park",
-		"0081": "Monochrome Void",
-		"0083": "Surreal Park",
-		"0084": "Lonely Alley",
-		"0085": "Clownpieces",
-		"0086": "Cube Road",
-		"0087": "Cube Road",
-		"0088": "Cube Road",
-		"0089": "Cube Road",
-		"0090": "Cube Road",
-		"0091": "Beige Box Factory",
-		"0093": "Beige Box Factory",
-		"0094": "Beige Box Factory",
-		"0095": "Beige Box Factory",
-		"0097": "Beige Box Factory",
-		"0098": "Beige Box Factory",
-		"0105": "Toxic Waste Plant",
-		"0106": "Toxic Waste Plant",
-		"0108": { "title": "el bebe", "urlTitle": "Events#El_Bebe" },
-		"0109": "Plant Laboratory",
-		"0111": "Lamppost World",
-		"0112": "Lamppost World",
-		"0113": "Star Field",
-		"0114": "Star Field",
-		"0115": "Galleta World",
-		"0116": "Neon Park",
-		"0117": "Tanabata Clouds",
-		"0118": "Subconscious Garden",
-		"0119": "Star Field",
-		"0120": "Moonlight Lake",
-		"0121": "Neon City",
-		"0122": "Neon City",
-		"0123": "Dream Palace",
-		"0124": "Dream Palace",
-		"0125": "Red Forest",
-		"0126": "Red Forest",
-		"0127": "Red Forest",
-		"0129": "Red Forest",
-		"0130": "Galleta World",
-		"0131": "Sea",
-		"0132": "Starlit Road",
-		"0133": "Starlit Road",
-		"0135": "Star Cactus Desert",
-		"0136": "Sea",
-		"0137": "Dream Palace",
-		"0138": "Star Field",
-		"0139": "Star Field",
-		"0140": "Lantern Lake",
-		"0141": "Lantern Lake",
-		"0142": "PC98 World",
-		"0144": "PC98 World",
-		"0145": "Starlit Road",
-		"0148": "Subconscious Garden",
-		"0149": "Subconscious Garden",
-		"0150": "Starlit Road",
-		"0151": "Grayscale Gardenscape",
-		"0152": "Grayscale Gardenscape",
-		"0153": "Grayscale Gardenscape",
-		"0154": "Grayscale Gardenscape",
-		"0155": "Grayscale Gardenscape",
-		"0156": "Grayscale Gardenscape",
-		"0157": "Grayscale Gardenscape",
-		"0158": "Grayscale Gardenscape",
-		"0160": "Turbine Facility",
-		"0161": "Turbine Facility",
-		"0162": "Turbine Facility",
-		"0163": "Turbine Facility",
-		"0164": "Turbine Facility",
-		"0166": "Trashy Alleyway",
-		"0167": "PC98 World",
-		"0168": "Corroded Dream",
-		"0169": "Lost Bunker",
-		"0171": "Crystal Caves",
-		"0172": "Crystal Caves",
-		"0173": "Crystal Caves",
-		"0174": "Crystal Caves",
-		"0175": "Sprout Desert",
-		"0176": "Sprout Desert",
-		"0190": "Winter Village",
-		"0191": "Winter Village",
-		"0192": [
-			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 0, "x2": 87, "y2" :17 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 18, "x2": 199, "y2" :71 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 0, "y1": 72, "x2": 62, "y2" :103 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 11, "y1": 104, "x2": 56, "y2" :117 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 88, "y1": 10, "x2": 104, "y2" :17 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 105, "y1": 0, "x2": 141, "y2" :17 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 106, "y1": 72, "x2": 199, "y2" :102 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 156, "y1": 0, "x2": 199, "y2" :17 } },
-			{ "title": "Ice Chapel", "coords": { "x1": 179, "y1": 103, "x2": 199, "y2" :127 } },
-			"Winter Village"
-		],
-		"0193": "White Spikes World",
-		"0194": "White Spikes World",
-		"0195": "All-Seeing Forest",
-		"0196": "Purple Town",
-		"0197": "Eye Dust",
-		"0198": [
-			{ "title": "Sky Islands", "coords": { "x1": 0, "y1": 0, "x2": 41, "y2" :61 } },
-			{ "title": "Star Field", "coords": { "x1": 0, "y1": 70, "x2": 41, "y2" :101 } },
-			{ "title": "Sky Islands", "coords": { "x1": 42, "y1": 0, "x2": 96, "y2" :88 } },
-			{ "title": "Sky Islands", "coords": { "x1": 97, "y1": 0, "x2": 137, "y2" :39 } },
-			{ "title": "Sky Islands", "coords": { "x1": 164, "y1": 0, "x2": 255, "y2" :127 } },
-			"Purple Town"
-		],
-		"0199": "Doodle World",
-		"0200": "Nail Board",
-		"0201": "Red & Blue Passage",
-		"0202": "Dreadful Gallery",
-		"0203": "Wire World",
-		"0204": "Alphabet Tower",
-		"0205": "Alphabet Tower",
-		"0206": "Congregation Island",
-		"0207": "Congregation Island",
-		"0208": "Forsaken Cliff",
-		"0209": "Forsaken Cliff",
-		"0210": "Teratoma World",
-		"0211": "Floating Lamp World",
-		"0212": "Forsaken Cliff",
-		"0213": "Picnic Table",
-		"0220": [
-			{ "title": "Playing Card Maze: Bloodshot Hall", "urlTitle": "Playing_Card_Maze", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 53 } },
-			{ "title": "Hat Park: Duck Corridor", "urlTitle": "Hat_Park", "coords": { "x1": -1, "y1": 54, "x2": -1, "y2": 78 } },
-			{ "title": "Abandoned Pools: Locker Room", "urlTitle": "Abandoned_Pools", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 121 } },
-			{ "title": "Pink Desert: Rainy Street", "urlTitle": "Pink_Desert", "coords": { "x1": -1, "y1": 145, "x2": -1, "y2": 159 } },
-			"Playing Card Maze"
-		],
-		"0221": [
-			{ "title": "Playing Card Maze", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 82 } },
-			"Pastel Labyrinth"
-		],
-		"0222": [
-			{ "title": "Hat Park", "coords": { "x1": 0, "y1": 66, "x2": 139, "y2": 141 } },
-			{ "title": "Playing Card Maze", "coords": { "x1": 34, "y1": 209, "x2": 52, "y2": 219 } },
-			"Duck World"
-		],
-		"0223": "Kaomoji Mall",
-		"0224": "Kaomoji Mall",
-		"0225": "Pink Desert",
-		"0226": "Bumblebee Lounge",
-		"0227": [
-			{ "title": "Puppet Theater", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
-			{ "title": "Polygon Place", "coords": { "x1": 20, "y1": 0, "x2": 79, "y2": 14 } },
-			"Hotel"
-		],
-		"0228": [
-			{ "title": "Pink Desert: Duck Room", "urlTitle": "Pink_Desert", "coords": { "x1": 3, "y1": 126, "x2": 18, "y2": 137 } },
-			"Smile Town"
-		],
-		"0229": "Polygon Place",
-		"0240": "The Abyss",
-		"0241": "The Abyss",
-		"0251": "Trashy Alleyway",
-		"0260": "Lantern Lake",
-		"0261": "PC98 World",
-		"0262": "Lamppost World",
-		"0263": "PC98 World",
-		"0264": "Starlit Road",
-		"0265": "NES World",
-		"0266": "NES World",
-		"0267": "NES World",
-		"0268": "PC98 World",
-		"0269": "Lost Bunker",
-		"0270": "White Spikes World",
-		"0271": "White Spikes World",
-		"0272": "DUDE Complex",
-		"0273": "Sky Islands",
-		"0274": "Heaven's Docks",
-		"0275": "Heaven's Docks",
-		"0276": [
-			{ "title": "Void Murals", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 28 } },
-			{ "title": "Cabin: Exterior", "urlTitle": "Cabin" }
-		],
-		"0278": "All-Seeing Forest",
-		"0279": [
-			{ "title": "Ice Chapel: Stained Glass Corridor", "urlTitle": "Ice_Chapel", "coords": { "x1": 0, "y1": 0, "x2": 87, "y2": 21 } },
-			{ "title": "Cabin", "coords": { "x1": 0, "y1": 75, "x2": 46, "y2": 95 } },
-			{ "title": "Cabin: Mouse Hole", "urlTitle": "Cabin", "coords": { "x1": 47, "y1": 61, "x2": 87, "y2": 95 } },
-			"Void Murals"
-		],
-		"0280": "DUDE Complex",
-		"0290": "Lightbulb World",
-		"0291": "Grassy Pipes",
-		"0292": "Astral Ruins",
-		"0293": "Concrete Treehouse",
-		"0294": "Concrete Treehouse",
-		"0295": "Neon Village",
-		"0296": [
-			{ "title": "Concrete Treehouse", "coords": { "x1": 30, "y1": 0, "x2": 49, "y2": 15 } },
-			"Neon Village"
-		],
-		"0297": "Concrete Treehouse",
-		"0310": "Stone Wasteland",
-		"0311": "Alien Plants World",
-		"0312": "Isometric Street",
-		"0313": "Stone Wasteland",
-		"0314": "Stone Wasteland",
-		"0330": "Mutant Sunflower World",
-		"0331": "Fast Food World",
-		"0332": "Fast Food World",
-		"0333": "Shoe Rack",
-		"0334": "Shoe Rack",
-		"0335": "Mutant Sunflower World",
-		"0336": "Corroded Dream",
-		"0337": "Corroded Dream",
-		"0338": "Galleta World",
-		"0339": "Galleta World",
-		"0340": "NES World",
-		"0350": "Deranged Faces Zone",
-		"0351": "Abandoned Pools",
-		"0352": [
-			{ "title": "Abandoned Pools", "coords": { "x1": 0, "y1": 0, "x2": 20, "y2": 15 } },
-			"Cliffside Temple"
-		],
-		"0353": "Barcode World",
-		"0354": "Underwater Subway",
-		"0355": "Puppet Theater",
-		"0356": "Hotel",
-		"0357": "Pinball Machine",
-		"0358": "Tranquil Bathhouse",
-		"0359": "Tranquil Bathhouse"
-	}
+    "ignoredMapIds": [
+        "0023",
+        "0104"
+    ],
+    "urlRoot": "https://yume.wiki/unevendream/",
+    "mapLocations": {
+        "0001": "Kubotsuki's Room",
+        "0002": "Windmill Lake",
+        "0004": "Totsutsuki's Room",
+        "0005": "Totsutsuki's Room",
+        "0006": "Kubotsuki's Dream Room",
+        "0008": "Kubotsuki's Dream Room",
+        "0009": "Shoe Rack",
+        "0010": "Breezy Plains",
+        "0011": "Paint Sky",
+        "0012": "Kubotsuki's Nexus",
+        "0013": "Mutant Sunflower World",
+        "0014": "Mutant Sunflower World",
+        "0015": "Mutant Sunflower World",
+        "0016": "Sandy Showroom",
+        "0017": "Sandy Showroom",
+        "0018": "Totsutsuki's Dream Room",
+        "0019": "Totsutsuki's Dream Room",
+        "0020": "Totsutsuki's Nexus",
+        "0021": "Broken World",
+        "0022": "Kubotsuki's Room",
+        "0024": "Violet Caves",
+        "0025": "Butterfly Forest",
+        "0026": "Broken World",
+        "0035": "Butterfly Forest",
+        "0036": "Butterfly Forest",
+        "0037": "Butterfly Forest",
+        "0038": "Butterfly Forest",
+        "0039": "Butterfly Forest",
+        "0040": "Butterfly Forest",
+        "0041": "Metal Mounds",
+        "0042": "Rainy Garden",
+        "0043": "Violet Caves",
+        "0044": "Sea of Static",
+        "0045": "Windmill Lake",
+        "0046": "Lantern Alley",
+        "0047": "Sea of Static",
+        "0048": "Twilight Garden",
+        "0049": "Twilight Garden",
+        "0050": "Clash of Mutated Forms",
+        "0051": "Clash of Mutated Forms",
+        "0052": "Clash of Mutated Forms",
+        "0058": "Rainy Garden",
+        "0059": "Elegant Diner",
+        "0063": "Incense World",
+        "0067": "Tanunjon",
+        "0068": "Tanunjon",
+        "0069": "Tanunjon",
+        "0071": "Tanunjon",
+        "0072": "Lantern Alley",
+        "0073": "Lantern Alley",
+        "0079": "Surreal Park",
+        "0080": "Surreal Park",
+        "0081": "Monochrome Void",
+        "0083": "Surreal Park",
+        "0084": "Lonely Alley",
+        "0085": "Clownpieces",
+        "0086": "Cube Road",
+        "0087": "Cube Road",
+        "0088": "Cube Road",
+        "0089": "Cube Road",
+        "0090": "Cube Road",
+        "0091": "Beige Box Factory",
+        "0093": "Beige Box Factory",
+        "0094": "Beige Box Factory",
+        "0095": "Beige Box Factory",
+        "0097": "Beige Box Factory",
+        "0098": "Beige Box Factory",
+        "0105": "Toxic Waste Plant",
+        "0106": "Toxic Waste Plant",
+        "0108": {
+            "title": "el bebe",
+            "urlTitle": "Events#El_Bebe"
+        },
+        "0109": "Plant Laboratory",
+        "0111": "Lamppost World",
+        "0112": "Lamppost World",
+        "0113": "Star Field",
+        "0114": "Star Field",
+        "0115": "Galleta World",
+        "0116": "Neon Park",
+        "0117": "Tanabata Clouds",
+        "0118": "Subconscious Garden",
+        "0119": "Star Field",
+        "0130": "Galleta World",
+        "0131": "Sea",
+        "0132": "Starlit Road",
+        "0133": "Starlit Road",
+        "0135": "Star Cactus Desert",
+        "0136": "Sea",
+        "0138": "Star Field",
+        "0139": "Star Field",
+        "0140": "Lantern Lake",
+        "0141": "Lantern Lake",
+        "0142": "PC98 World",
+        "0144": "PC98 World",
+        "0145": "Starlit Road",
+        "0148": "Subconscious Garden",
+        "0149": "Subconscious Garden",
+        "0150": "Starlit Road",
+        "0151": "Grayscale Gardenscape",
+        "0152": "Grayscale Gardenscape",
+        "0153": "Grayscale Gardenscape",
+        "0154": "Grayscale Gardenscape",
+        "0155": "Grayscale Gardenscape",
+        "0156": "Grayscale Gardenscape",
+        "0157": "Grayscale Gardenscape",
+        "0158": "Grayscale Gardenscape",
+        "0160": "Turbine Facility",
+        "0161": "Turbine Facility",
+        "0162": "Turbine Facility",
+        "0163": "Turbine Facility",
+        "0164": "Turbine Facility",
+        "0167": "PC98 World",
+        "0168": "Corroded Dream",
+        "0169": "Lost Bunker",
+        "0171": "Crystal Caves",
+        "0172": "Crystal Caves",
+        "0173": "Crystal Caves",
+        "0174": "Crystal Caves",
+        "0175": "Sprout Desert",
+        "0176": "Sprout Desert",
+        "0177": "Blacklight Bar",
+        "0178": "Symmetry World",
+        "0179": "Biological Research Facility",
+        "0180": "Biological Research Facility",
+        "0181": "Biological Research Facility",
+        "0182": "Biological Research Facility",
+        "0183": "The Foundry",
+        "0184": "The Foundry",
+        "0185": "Snail Palace",
+        "0186": "Snail Palace",
+        "0187": "Snail Palace",
+        "0190": "Winter Village",
+        "0191": "Winter Village",
+        "0192": [
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 0,
+                    "y1": 0,
+                    "x2": 87,
+                    "y2": 17
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 0,
+                    "y1": 18,
+                    "x2": 199,
+                    "y2": 71
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 0,
+                    "y1": 72,
+                    "x2": 62,
+                    "y2": 103
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 11,
+                    "y1": 104,
+                    "x2": 56,
+                    "y2": 117
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 88,
+                    "y1": 10,
+                    "x2": 104,
+                    "y2": 17
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 105,
+                    "y1": 0,
+                    "x2": 141,
+                    "y2": 17
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 106,
+                    "y1": 72,
+                    "x2": 199,
+                    "y2": 102
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 156,
+                    "y1": 0,
+                    "x2": 199,
+                    "y2": 17
+                }
+            },
+            {
+                "title": "Ice Chapel",
+                "coords": {
+                    "x1": 179,
+                    "y1": 103,
+                    "x2": 199,
+                    "y2": 127
+                }
+            },
+            "Winter Village"
+        ],
+        "0193": "White Spikes World",
+        "0194": "White Spikes World",
+        "0195": "All-Seeing Forest",
+        "0196": "Purple Town",
+        "0197": "Eye Dust",
+        "0198": [
+            {
+                "title": "Sky Islands",
+                "coords": {
+                    "x1": 0,
+                    "y1": 0,
+                    "x2": 41,
+                    "y2": 61
+                }
+            },
+            {
+                "title": "Star Field",
+                "coords": {
+                    "x1": 0,
+                    "y1": 70,
+                    "x2": 41,
+                    "y2": 101
+                }
+            },
+            {
+                "title": "Sky Islands",
+                "coords": {
+                    "x1": 42,
+                    "y1": 0,
+                    "x2": 96,
+                    "y2": 88
+                }
+            },
+            {
+                "title": "Sky Islands",
+                "coords": {
+                    "x1": 97,
+                    "y1": 0,
+                    "x2": 137,
+                    "y2": 39
+                }
+            },
+            {
+                "title": "Sky Islands",
+                "coords": {
+                    "x1": 164,
+                    "y1": 0,
+                    "x2": 255,
+                    "y2": 127
+                }
+            },
+            "Purple Town"
+        ],
+        "0199": "Doodle World",
+        "0200": "Nail Board",
+        "0201": "Red & Blue Passage",
+        "0202": "Dreadful Gallery",
+        "0203": "Wire World",
+        "0204": "Alphabet Tower",
+        "0205": "Alphabet Tower",
+        "0206": "Congregation Island",
+        "0207": "Congregation Island",
+        "0208": "Forsaken Cliff",
+        "0209": "Forsaken Cliff",
+        "0210": "Teratoma World",
+        "0211": "Floating Lamp World",
+        "0212": "Forsaken Cliff",
+        "0213": "Picnic Table",
+        "0215": "Jumping Playground",
+        "0231": "Fake Sky",
+        "0232": "Beneath the Sky",
+        "0233": "Abstracted Mall",
+        "0234": "Abstracted Mall",
+        "0240": "The Abyss",
+        "0241": "The Abyss",
+        "0260": "Lantern Lake",
+        "0261": "PC98 World",
+        "0262": "Lamppost World",
+        "0263": "PC98 World",
+        "0264": "Starlit Road",
+        "0265": "NES World",
+        "0266": "NES World",
+        "0267": "NES World",
+        "0268": "PC98 World",
+        "0269": "Lost Bunker",
+        "0270": "White Spikes World",
+        "0271": "White Spikes World",
+        "0272": "DUDE Complex",
+        "0273": "Sky Islands",
+        "0274": "Heaven's Docks",
+        "0275": "Heaven's Docks",
+        "0276": [
+            {
+                "title": "Void Murals",
+                "coords": {
+                    "x1": 0,
+                    "y1": 0,
+                    "x2": 99,
+                    "y2": 28
+                }
+            },
+            {
+                "title": "Cabin: Exterior",
+                "urlTitle": "Cabin"
+            }
+        ],
+        "0277": "Water Palace",
+        "0278": "All-Seeing Forest",
+        "0279": [
+            {
+                "title": "Ice Chapel: Stained Glass Corridor",
+                "urlTitle": "Ice_Chapel",
+                "coords": {
+                    "x1": 0,
+                    "y1": 0,
+                    "x2": 87,
+                    "y2": 21
+                }
+            },
+            {
+                "title": "Cabin",
+                "coords": {
+                    "x1": 0,
+                    "y1": 75,
+                    "x2": 46,
+                    "y2": 95
+                }
+            },
+            {
+                "title": "Cabin: Mouse Hole",
+                "urlTitle": "Cabin",
+                "coords": {
+                    "x1": 47,
+                    "y1": 61,
+                    "x2": 87,
+                    "y2": 95
+                }
+            },
+            "Void Murals"
+        ],
+        "0280": "DUDE Complex",
+        "0281": "Beat Block World",
+        "0282": "Lavender Trainyard",
+        "0283": "Lavender Trainyard",
+        "0284": "Lavender Trainyard",
+        "0285": "Lavender Trainyard",
+        "0286": "Basement",
+        "0287": "Black Swan Bay",
+        "0288": "Braille Graveyard",
+        "0290": "Lightbulb World",
+        "0291": "Grassy Pipes",
+        "0292": "Astral Ruins",
+        "0293": "Concrete Treehouse",
+        "0294": "Concrete Treehouse",
+        "0295": "Neon Village",
+        "0296": [
+            {
+                "title": "Concrete Treehouse",
+                "coords": {
+                    "x1": 30,
+                    "y1": 0,
+                    "x2": 49,
+                    "y2": 15
+                }
+            },
+            "Neon Village"
+        ],
+        "0297": "Concrete Treehouse",
+        "0310": "Stone Wasteland",
+        "0311": "Alien Plants World",
+        "0312": "Isometric Street",
+        "0313": "Stone Wasteland",
+        "0314": "Stone Wasteland",
+        "0330": "Mutant Sunflower World",
+        "0331": "Fast Food World",
+        "0332": "Fast Food World",
+        "0333": "Shoe Rack",
+        "0334": "Shoe Rack",
+        "0335": "Mutant Sunflower World",
+        "0336": "Corroded Dream",
+        "0337": "Corroded Dream",
+        "0338": "Galleta World",
+        "0339": "Galleta World",
+        "0340": "NES World",
+        "0360": "Wooden Cutlery World",
+        "0361": "Primordial Soup Bog",
+        "0362": "Digital Station",
+        "0363": "Paper Cutout Gallery",
+        "0364": "Floating Bubble Lake",
+        "0365": "Frigid Field",
+        "0366": "Mycelium Overgrowth",
+        "0367": "Mycelium Overgrowth",
+        "0368": "Aquamarine Harbor",
+        "0369": "Aquamarine Harbor",
+        "0370": "Aquamarine Harbor",
+        "0371": "Sea Tiles Maze",
+        "0373": "Balloon Festival",
+        "0374": "Screen Mesa",
+        "0375": "Blue Creature World",
+        "0376": "Uranium Glass Warehouse",
+        "0377": "Uranium Glass Warehouse",
+        "0378": "Jelly Cube Lake",
+        "0380": "Violet Caves",
+        "0381": "Violet Caves",
+        "0382": "Palindrome Corridor",
+        "0383": "Toxic Waste Plant",
+        "0384": "Palindrome Corridor",
+        "0385": "Sea of Static: Stealth",
+        "0386": "Geiger Lab",
+        "0388": "Abandoned Shopping Mall",
+        "0389": "Abandoned Shopping Mall",
+        "0390": "Abandoned Shopping Mall",
+        "0391": "Abandoned Shopping Mall",
+        "0392": "Mutant Sunflower World",
+        "0408": [
+            {
+                "title": "Playing Card Maze: Bloodshot Hall",
+                "urlTitle": "Playing_Card_Maze",
+                "coords": {
+                    "x1": -1,
+                    "y1": 0,
+                    "x2": -1,
+                    "y2": 53
+                }
+            },
+            {
+                "title": "Hat Park: Duck Corridor",
+                "urlTitle": "Hat_Park",
+                "coords": {
+                    "x1": -1,
+                    "y1": 54,
+                    "x2": -1,
+                    "y2": 78
+                }
+            },
+            {
+                "title": "Abandoned Pools: Locker Room",
+                "urlTitle": "Abandoned_Pools",
+                "coords": {
+                    "x1": -1,
+                    "y1": 79,
+                    "x2": -1,
+                    "y2": 121
+                }
+            },
+            {
+                "title": "Pink Desert: Rainy Street",
+                "urlTitle": "Pink_Desert",
+                "coords": {
+                    "x1": -1,
+                    "y1": 145,
+                    "x2": -1,
+                    "y2": 159
+                }
+            },
+            "Playing Card Maze"
+        ],
+        "0409": [
+            {
+                "title": "Playing Card Maze",
+                "coords": {
+                    "x1": -1,
+                    "y1": 0,
+                    "x2": -1,
+                    "y2": 82
+                }
+            },
+            "Pastel Labyrinth"
+        ],
+        "0410": [
+            {
+                "title": "Hat Park",
+                "coords": {
+                    "x1": 0,
+                    "y1": 66,
+                    "x2": 139,
+                    "y2": 141
+                }
+            },
+            {
+                "title": "Playing Card Maze",
+                "coords": {
+                    "x1": 34,
+                    "y1": 209,
+                    "x2": 52,
+                    "y2": 219
+                }
+            },
+            "Duck World"
+        ],
+        "0411": "Kaomoji Mall",
+        "0412": "Kaomoji Mall",
+        "0413": "Pink Desert",
+        "0414": "Bumblebee Lounge",
+        "0415": [
+            {
+                "title": "Puppet Theater",
+                "coords": {
+                    "x1": 0,
+                    "y1": 0,
+                    "x2": 19,
+                    "y2": 14
+                }
+            },
+            {
+                "title": "Polygon Place",
+                "coords": {
+                    "x1": 20,
+                    "y1": 0,
+                    "x2": 79,
+                    "y2": 14
+                }
+            },
+            "Hotel"
+        ],
+        "0416": [
+            {
+                "title": "Pink Desert: Duck Room",
+                "urlTitle": "Pink_Desert",
+                "coords": {
+                    "x1": 3,
+                    "y1": 126,
+                    "x2": 18,
+                    "y2": 137
+                }
+            },
+            "Smile Town"
+        ],
+        "0417": "Polygon Place",
+        "0418": "Deranged Faces Zone",
+        "0419": "Abandoned Pools",
+        "0420": [
+			{
+				"title": "Abandoned Pools",
+				"coords": {
+					"x1": 0,
+					"y1": 0,
+					"x2": 20,
+					"y2": 15
+				}
+			},
+            "Cliffside Temple"
+        ],
+        "0421": "Barcode World",
+        "0422": "Underwater Subway",
+        "0423": "Puppet Theater",
+        "0424": "Hotel",
+        "0425": "Pinball Machine",
+        "0426": "Tranquil Bathhouse",
+        "0427": "Tranquil Bathhouse",
+        "0428": "Art Deco World",
+        "0429": "Art Deco World",
+        "0430": "Art Deco World",
+        "0431": "Art Deco World",
+        "0432": "Art Deco World",
+        "0433": "Art Deco World",
+        "0434": "Art Deco World"
+    }
 }
