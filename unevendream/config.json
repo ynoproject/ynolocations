@@ -7,6 +7,7 @@
     "mapLocations": {
         "0001": "Kubotsuki's Room",
         "0002": "Windmill Lake",
+        "0003": { "title": "Music Room", "urlTitle": "Soundtrack" },
         "0004": "Totsutsuki's Room",
         "0005": "Totsutsuki's Room",
         "0006": "Kubotsuki's Dream Room",
@@ -74,6 +75,7 @@
         "0098": "Beige Box Factory",
         "0105": "Toxic Waste Plant",
         "0106": "Toxic Waste Plant",
+        "0107": "Palindrome Corridor",
         "0108": {
             "title": "el bebe",
             "urlTitle": "Events#El_Bebe"
@@ -94,6 +96,7 @@
         "0133": "Starlit Road",
         "0135": "Star Cactus Desert",
         "0136": "Sea",
+        "0137": "Purple Town",
         "0138": "Star Field",
         "0139": "Star Field",
         "0140": "Lantern Lake",
@@ -278,7 +281,7 @@
         ],
         "0199": "Doodle World",
         "0200": "Nail Board",
-        "0201": "Red & Blue Passage",
+        "0201": "Red and Blue Passage",
         "0202": "Dreadful Gallery",
         "0203": "Wire World",
         "0204": "Alphabet Tower",
@@ -430,8 +433,8 @@
         "0382": "Palindrome Corridor",
         "0383": "Toxic Waste Plant",
         "0384": "Palindrome Corridor",
-        "0385": "Sea of Static: Stealth",
-        "0386": "Geiger Lab",
+        "0385": { "title": "Sea of Static: Stealth", "urlTitle": "Sea_of_Static" },
+        "0386": { "title": "Sea of Static: Geiger Lab", "urlTitle": "Sea_of_Static" },
         "0388": "Abandoned Shopping Mall",
         "0389": "Abandoned Shopping Mall",
         "0390": "Abandoned Shopping Mall",
