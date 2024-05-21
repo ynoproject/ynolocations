@@ -1317,10 +1317,7 @@
 			"Empty Abode"
 		],
 		"2426": "Serene Docks",
-		"2453": [
-			{ "title": "Ticking Blackout Zone", "coords": { "x1": 0, "y1": 0, "x2": 83, "y2": 44 } },
-			"Mirrored Pathways"
-		],
+		"2456": "Ticking Blackout Zone",
 		"2492": "Thumbtack World",
 		"2494": "Thumbtack World",
 		"2495": "Thumbtack World",
