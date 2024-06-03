@@ -1253,6 +1253,10 @@
 			{ "title": "Checkered Towers", "coords": { "x1": -1, "y1": 79, "x2": -1, "y2": 99 } },
 			"Checkered Towers"
 		],
+		"2274": [
+			{ "title": "Topdown Dungeon", "coords": { "x1": 20, "y1": 90, "x2": 79, "y2": 134 } },
+			"Topdown Dungeon"
+		],
 		"2279": [
 			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 15 } },
 			{ "title": "Blue Apartments", "coords": { "x1": -1, "y1": 46, "x2": -1, "y2": 59 } },
@@ -1482,7 +1486,7 @@
 			{ "title": "Ethereal Garden", "coords": { "x1": 30, "y1": 0, "x2": 129, "y2": 45 } },
 			"Pinwheel Countryside"
 		],
-		"3131": "Keyhole",
+		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3132": "Faraway Forest",
 		"3133": "Fragmented Station",
 		"3134": "Ancient Stone Plates",
