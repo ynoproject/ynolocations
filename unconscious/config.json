@@ -166,7 +166,7 @@
         "0466": "Fantasy Forest",
         "0467": "Fantasy Forest",
         "0468": "Movie Theater",
-        "0469": "Magical Home",
+	"0469": { "title": "Fantasy Forest: Magical Home", "urlTitle": "Fantasy_Forest#Magical_Home" },
         "0470": "Dark Archives",
         "0471": "Harsh Light Road",
         "0481": "Underwater Pipes",
