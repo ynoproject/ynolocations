@@ -386,7 +386,7 @@
         "0996": "Streetlight Path",
         "0998": "Cloud City Trail",
 	"0999": "Dilapidated Complex",
-        "1000": "Derelict Catwalk",
+        "1000": { "title": "Dilapidated Complex: Derelict Catwalk", "urlTitle": "Dilapidated_Complex#Derelict_Catwalk" },
         "1001": "Starry Docks",
         "1010": "Neon Star Hall",
         "1011": "Hall of Malignant Statues",
