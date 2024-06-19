@@ -1,5 +1,6 @@
 {
         "ignoredMapIds": [ "0127" ],
+        "urlRoot": null,
         "mapLocations": {
                 "0001": "自室",
                 "0002": "入口",
