@@ -1,5 +1,6 @@
 {
         "ignoredMapIds": [ "0007", "0008", "0009" ],
+        "urlRoot": null,
         "mapLocations": {
                 "0001": "紙飛行機",
                 "0004": "時計塔内部",
