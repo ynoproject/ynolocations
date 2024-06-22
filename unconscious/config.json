@@ -266,7 +266,7 @@
         "0683": "Peaceful Decay",
         "0684": "Glass Cathedral",
         "0685": "Paper Plains",
-        "0686": "Wandering Together",
+        "0686": { "title": "Wandering Together", "urlTitle": "Events#Wandering_Together" },
         "0688": "Glass Cathedral",
         "0689": "Outer Hospital",
         "0690": "Heart World",
