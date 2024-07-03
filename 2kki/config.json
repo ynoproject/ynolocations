@@ -1335,6 +1335,11 @@
 			{ "title": "Amethyst Ocean", "coords": { "x1": 39, "y1": 0, "x2": 99, "y2": 77 } },
 			"Flowery Ponds"
 		],
+		"2509": [
+			{ "title": "Rainbow Snow Plateau", "coords": { "x1": 0, "y1": 150, "x2": 19, "y2": 164 } },
+			{ "title": "Weary Potted Plant World", "coords": { "x1": 0, "y1": 166, "x2": 19, "y2": 164 } },
+			"Slate Doorway"
+		],
 		"2513": "Abyssal Garden",
 		"2537": [
 			{ "title": "Butcher Hollow", "coords": { "x1": 100, "y1": 0, "x2": 119, "y2": 49 } },
