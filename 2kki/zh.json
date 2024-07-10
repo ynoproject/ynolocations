@@ -1035,6 +1035,11 @@
 			{ "title": "うろつき邸：廊下", "urlTitle": "うろつき邸#map0171" },
 			{ "title": "エスニック：崖下の巨顔", "urlTitle": "エスニック" }
 		],
+		"2165": [
+			{ "title": "エスニック：01の通路", "urlTitle": "エスニック#jf1d5d1c" },
+			{ "title": "エスニック：水面下の通路", "urlTitle": "エスニック#bcbe16a0" },
+			"白黒タイル通路"
+		],
 		"2171": [
 			{ "title": "ephemera：七色の通路", "urlTitle": "ephemera" },
 			{ "title": "ephemera：影の鉄塔", "urlTitle": "ephemera" }
