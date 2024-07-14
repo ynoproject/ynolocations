@@ -1196,6 +1196,11 @@
 			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Ethnic World"
 		],
+		"2165": [
+			{ "title": "Ethnic World: Binary Path", "urlTitle": "Ethnic_World#Binary_Path", "coords": { "x1": 0, "y1": 0, "x2": 86, "y2": 46 } },
+			{ "title": "Ethnic World: Opal Path", "urlTitle": "Ethnic_World#Opal_Path", "coords": { "x1": 0, "y1": 55, "x2": 79, "y2": 99 } },
+			"Monochrome Tile Corridor"
+		],
 		"2171": [
 			{ "title": "Chromatic Limbo", "coords": { "x1": 22, "y1": 1, "x2": 57, "y2": 21 } },
 			"Ephemeral Barrens"
@@ -1335,6 +1340,11 @@
 			{ "title": "Twisted Forest", "coords": { "x1": 0, "y1": 64, "x2": 29, "y2": 66 } },
 			{ "title": "Amethyst Ocean", "coords": { "x1": 39, "y1": 0, "x2": 99, "y2": 77 } },
 			"Flowery Ponds"
+		],
+		"2509": [
+			{ "title": "Rainbow Snow Plateau", "coords": { "x1": 0, "y1": 150, "x2": 19, "y2": 164 } },
+			{ "title": "Weary Potted Plant World", "coords": { "x1": 0, "y1": 166, "x2": 19, "y2": 164 } },
+			"Slate Doorway"
 		],
 		"2513": "Abyssal Garden",
 		"2537": [
