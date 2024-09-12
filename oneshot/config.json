@@ -1,5 +1,5 @@
 {
-        "ignoredMapIds": [ "0001" ],
+        "ignoredMapIds": [ "0001", "0051", "0067" ],
         "urlRoot": null,
         "mapLocations": {
                 "0002": "Starting Area: Bedroom",
