@@ -1218,6 +1218,7 @@
 			{ "title": "Party Playground", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			{ "title": "Floating Tiled Islands", "coords": { "x1": 108, "y1": 0, "x2": 127, "y2": 14 } },
 			{ "title": "Deep Cold Path", "coords": { "x1": 138, "y1": 7, "x2": 138, "y2": 7 } },
+			{ "title": "Polygon Mazescape", "coords": { "x1": 210, "y1": 0, "x2": 232, "y2": 14 } },
 			"Candlelit Factory"
 		],
 		"2216": [
