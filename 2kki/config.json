@@ -1451,6 +1451,10 @@
 			{ "title": "Ethereal Garden", "coords": { "x1": 30, "y1": 0, "x2": 129, "y2": 45 } },
 			"Pinwheel Countryside"
 		],
-		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" }
+		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
+		"3195": [
+			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
+			"Faerie Hollow"
+		]
 	}
 }
