@@ -1451,6 +1451,16 @@
 			{ "title": "Ethereal Garden", "coords": { "x1": 30, "y1": 0, "x2": 129, "y2": 45 } },
 			"Pinwheel Countryside"
 		],
+		"3130": [
+			{ "title": "Ballerina Forest", "coords": { "x1": 13, "y1": 7, "x2": 32, "y2": 21 } },
+			{ "title": "Technicolor Towers", "coords": { "x1": 13, "y1": 25, "x2": 32, "y2": 39 } },
+			{ "title": "Moth Meadow", "coords": { "x1": 177, "y1": 82, "x2": 196, "y2": 96 } },
+			{ "title": "Colorless Carnival: Tent", "urlTitle": "Colorless_Carnival", "coords": { "x1": 86, "y1": 0, "x2": 199, "y2": 43 } },
+			{ "title": "Ballerina Forest", "coords": { "x1": 180, "y1": 120, "x2": 199, "y2": 134 } },
+			{ "title": "Ballerina Forest", "coords": { "x1": 125, "y1": 158, "x2": 157, "y2": 199 } },
+			{ "title": "Technicolor Towers: Sketch Café", "urlTitle": "Technicolor_Towers", "coords": { "x1": 180, "y1": 185, "x2": 199, "y2": 199 } },
+			"Museum of Curiosities"
+		],
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3195": [
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
