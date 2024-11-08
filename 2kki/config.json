@@ -1431,6 +1431,11 @@
 		"2876": "Sweet Medical Utopia",
 		"2877": "Sweet Medical Utopia",
 		"2878": "Sweet Medical Utopia",
+		"2880": [
+			{ "title": "Wan Lotus Docks", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 44 } },
+			{ "title": "Rifle Wasteland", "coords": { "x1": 70, "y1": 0, "x2": 99, "y2": 44 } },
+			"Sweet Medical Utopia"
+		],
 		"2901": "Blue Rock Depths",
 		"2980": "Windowed Plains",
 		"3014": { "title": "Dream Route: Present Park", "urlTitle": "Dream_Route#Present_Park" },
