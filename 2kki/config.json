@@ -1470,6 +1470,36 @@
 		"3195": [
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
+		],
+		"3364": [
+			{ "title": "Pastel Dream Sea: Sunken Ship Mansion", "urlTitle": "Pastel_Dream_Sea#Sunken_Ship_Mansion", "coords": { "x1": 0, "y1": 0, "x2": 229, "y2": 99 } },
+			{ "title": "Jigsaw Junction", "coords": { "x1": 0, "y1": 387, "x2": 19, "y2": 402 } },
+			{ "title": "Pastel Dream Sea: Sargat Layer", "urlTitle": "Pastel_Dream_Sea#Sargat_Layer" }
+		],
+		"3365": [
+			{ "title": "Paper Ruins", "coords": { "x1": 0, "y1": 251, "x2": 199, "y2": 403 } },
+			{ "title": "Carnage Carnival: Wicked Reddish Path", "urlTitle": "Carnage_Carnival", "coords": { "x1": 0, "y1": 404, "x2": 199, "y2": 499 } },
+			"Shrouded Arcadia"
+		],
+		"3366": [
+			{ "title": "Beachside Infirmary: Crab Dog Beach", "urlTitle": "Beachside_Infirmary#Crab_Dog_Beach", "coords": { "x1": 114, "y1": 0, "x2": 175, "y2": 39 } },
+			{ "title": "Tanuki Tail Portrait", "coords": { "x1": 0, "y1": 75, "x2": 223, "y2": 231 } },
+			"Beachside Infirmary"
+		],
+		"3368": [
+			{ "title": "Hop Springs", "coords": { "x1": 0, "y1": 0, "x2": 79, "y2": 159 } },
+			{ "title": "Hop Springs", "coords": { "x1": 80, "y1": 0, "x2": 119, "y2": 89 } },
+			"Citrus Springs"
+		],
+		"3369": [
+			{ "title": "Burger Joint", "coords": { "x1": 0, "y1": 0, "x2": 139, "y2": 149 } },
+			{ "title": "Potato World", "coords": { "x1": 140, "y1": 0, "x2": 249, "y2": 149 } },
+			"Angel Palace"
+		],
+		"3370": [
+			{ "title": "Jigsaw Junction", "coords": { "x1": 0, "y1": 121, "x2": 197, "y2": 145 } },
+			{ "title": "Pastel Dream Sea: Sargat Layer", "urlTitle": "Pastel_Dream_Sea#Sargat_Layer", "coords": { "x1": 0, "y1": 165, "x2": 19, "y2": 179 } },
+			"Communal Workspace"
 		]
 	}
 }
