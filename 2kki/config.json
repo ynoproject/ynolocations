@@ -386,6 +386,10 @@
 		],
 		"0578": { "title": "Red Streetlight World", "urlTitle": "Red_Streetlight_World#Eldritch_Streetlight" },
 		"0581": "Rose Church",
+		"0587": [
+			{ "title": "Red Black World", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
+			"Downfall Garden B"
+		],
 		"0593": "Sepia Clouds World",
 		"0595": { "title": "Sea of Clouds: Moai Bro Prison", "urlTitle": "Sea_of_Clouds" },
 		"0618": { "title": "Red Blue Yellow (Mini Game B) - EX Version", "urlTitle": "Console#Red_Blue_Yellow_(Mini_Game_B)", "explorer": false },
@@ -1467,6 +1471,7 @@
 			"Museum of Curiosities"
 		],
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
+		"3136": "Red Black World",
 		"3195": [
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
