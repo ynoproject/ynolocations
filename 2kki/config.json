@@ -1306,8 +1306,8 @@
 			"Dice Swamp"
 		],
 		"2300": [
-			{ "title": "Chaser Academy", "coords": { "x1": 0, "y1": 0, "x2": 114, "y2": 17 } },
-			"Balloon Park"
+			{ "title": "Bleeding Tree Disco", "coords": { "x1": 115, "y1": 0, "x2": 232, "y2": 44 } },
+			"Chaser Academy"
 		],
 		"2392": [
 			{ "title": "Magenta Village", "coords": { "x1": 0, "y1": 24, "x2": 99, "y2": 68 } },
@@ -1355,6 +1355,44 @@
 		"2556": "Collision World",
 		"2558": { "title": "Swamp of Remembrance: Deeper Marsh", "urlTitle": "Swamp_of_Remembrance#Deeper_Marsh" },
 		"2559": "Collision World",
+		"2563": [
+			{ "title": "Cheese World", "coords": { "x1": 11, "y1": 75, "x2": 34, "y2": 77 } },
+			{ "title": "Cheese World", "coords": { "x1": 113, "y1": 0, "x2": 199, "y2": 55 } },
+			{ "title": "Legacy of Ruin", "coords": { "x1": 0, "y1": 100, "x2": 89, "y2": 129 } },
+			{ "title": "Legacy of Ruin", "coords": { "x1": 57, "y1": 0, "x2": 73, "y2": 56 } },
+			{ "title": "Legacy of Ruin", "coords": { "x1": 52, "y1": 57, "x2": 73, "y2": 95 } },
+			{ "title": "Legacy of Ruin", "coords": { "x1": 74, "y1": 0, "x2": 103, "y2": 99 } },
+			{ "title": "Pocket Garden", "coords": { "x1": 0, "y1": 170, "x2": 199, "y2": 199 } },
+			"Underneath"
+		],
+		"2567": [
+			{ "title": "ASCII Prairie", "coords": { "x1": 0, "y1": 0, "x2": 119, "y2": 119 } },
+			{ "title": "Legacy of Ruin", "coords": { "x1": 0, "y1": 334, "x2": 119, "y2": 399 } },
+			{ "title": "Pastel Mall", "coords": { "x1": 209, "y1": 0, "x2": 303, "y2": 25 } },
+			{ "title": "Pastel Mall", "coords": { "x1": 209, "y1": 26, "x2": 303, "y2": 96 } },
+			{ "title": "Bleeding Sorrows", "coords": { "x1": 221, "y1": 97, "x2": 303, "y2": 198 } },
+			{ "title": "Thrift Shop", "coords": { "x1": 251, "y1": 324, "x2": 303, "y2": 384 } },
+			{ "title": "Monochrome Street: Everyman Passage", "urlTitle": "Monochrome_Street#Everyman_Passage", "coords": { "x1": 218, "y1": 355, "x2": 250, "y2": 384 } },
+			{ "title": "Monochrome Street: Everyman Passage", "urlTitle": "Monochrome_Street#Everyman_Passage", "coords": { "x1": 120, "y1": 385, "x2": 303, "y2": 399 } },
+			{ "title": "Alien Wasteland", "coords": { "x1": 0, "y1": 121, "x2": 119, "y2": 240 } },
+			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 242, "x2": 204, "y2": 304 } },
+			"Worm Labyrinth"
+		],
+		"2570": [
+			{ "title": "Fake Apartments", "coords": { "x1": 0, "y1": 0, "x2": 14, "y2": 14 } },
+			{ "title": "Fake Apartments", "coords": { "x1": 40, "y1": 0, "x2": 59, "y2": 14 } },
+			{ "title": "Hellish Village", "coords": { "x1": 125, "y1": 0, "x2": 134, "y2": 14 } },
+			{ "title": "Cheese World", "coords": { "x1": 147, "y1": 0, "x2": 150, "y2": 14 } },
+			{ "title": "Cheese World", "coords": { "x1": 166, "y1": 0, "x2": 173, "y2": 14 } },
+			{ "title": "Underneath", "coords": { "x1": 181, "y1": 0, "x2": 216, "y2": 14 } },
+			{ "title": "Dice Swamp", "coords": { "x1": 221, "y1": 0, "x2": 238, "y2": 14 } },
+			{ "title": "Legacy Nexus", "coords": { "x1": 240, "y1": 0, "x2": 259, "y2": 14 } },
+			{ "title": "Alien Wasteland", "coords": { "x1": 265, "y1": 0, "x2": 290, "y2": 14 } },
+			{ "title": "Tea Ruins", "coords": { "x1": 304, "y1": 0, "x2": 315, "y2": 14 } },
+			{ "title": "Worm Labyrinth", "coords": { "x1": 321, "y1": 0, "x2": 338, "y2": 14 } },
+			{ "title": "Dreary Harbor", "coords": { "x1": 341, "y1": 0, "x2": 358, "y2": 14 } },
+			"Legacy of Ruin"
+		],
 		"2604": "Dusty Grey Town",
 		"2607": "Dusty Grey Town",
 		"2630": "Mixed Beach",
@@ -1498,6 +1536,11 @@
 			{ "title": "Jigsaw Junction", "coords": { "x1": 0, "y1": 121, "x2": 197, "y2": 145 } },
 			{ "title": "Pastel Dream Sea: Sargat Layer", "urlTitle": "Pastel_Dream_Sea#Sargat_Layer", "coords": { "x1": 0, "y1": 165, "x2": 19, "y2": 179 } },
 			"Communal Workspace"
+		],
+		"3531": [
+			{ "title": "Underneath", "coords": { "x1": 0, "y1": 25, "x2": 19, "y2": 25 } },
+			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 29, "x2": 19, "y2": 29 } },
+			"Legacy of Ruin"
 		]
 	}
 }
