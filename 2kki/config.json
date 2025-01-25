@@ -633,6 +633,10 @@
 		],
 		"1073": "Snack Gallery",
 		"1079": { "title": "Static Labyrinth: Doppelgänger Room", "urlTitle": "Static_Labyrinth#Doppelgänger_Room" },
+		"1093": [
+			{ "title": "Bracken Plains", "coords": { "x1": 0, "y1": 0, "x2": 58, "y2": 69 } },
+			"Grape Mall"
+		],
 		"1111": "Scrambled Egg Zone",
 		"1112": { "title": "Guardians' Temple: Hidden Shrine", "urlTitle": "Guardians'_Temple#Hidden_Shrine" },
 		"1113": { "title": "Guardians' Temple: Hidden Shrine", "urlTitle": "Guardians'_Temple#Hidden_Shrine" },
