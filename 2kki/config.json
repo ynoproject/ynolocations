@@ -1541,6 +1541,12 @@
 			{ "title": "Pastel Dream Sea: Sargat Layer", "urlTitle": "Pastel_Dream_Sea#Sargat_Layer", "coords": { "x1": 0, "y1": 165, "x2": 19, "y2": 179 } },
 			"Communal Workspace"
 		],
+		"3503": [
+			{ "title": "Blossom Boardwalk", "coords": { "x1": 193, "y1": 3, "x2": 214, "y2": 19 } },
+			{ "title": "Strawberry Outskirts", "coords": { "x1": 225, "y1": 3, "x2": 246, "y2": 19 } },
+			{ "title": "Snowdrop Garden", "coords": { "x1": 201, "y1": 109, "x2": 245, "y2": 162 } },
+			"Windy Factory"
+		],
 		"3531": [
 			{ "title": "Underneath", "coords": { "x1": 0, "y1": 25, "x2": 19, "y2": 25 } },
 			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 29, "x2": 19, "y2": 29 } },
