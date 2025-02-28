@@ -1196,7 +1196,8 @@
 		"2157": { "title": "Nerium Lab: Pink Hell", "urlTitle": "Nerium_Lab#Pink_Hell" },
 		"2164": [
 			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
-			"Ethnic World"
+			{ "title": "Ethnic World", "coords": { "x1": 20, "y1": 0, "x2": 39, "y2": 14 } },
+			"Neon Playground"
 		],
 		"2165": [
 			{ "title": "Ethnic World: Binary Path", "urlTitle": "Ethnic_World#Binary_Path", "coords": { "x1": 0, "y1": 0, "x2": 86, "y2": 46 } },
