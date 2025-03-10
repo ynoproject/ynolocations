@@ -1553,6 +1553,8 @@
 			{ "title": "Underneath", "coords": { "x1": 0, "y1": 25, "x2": 19, "y2": 25 } },
 			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 29, "x2": 19, "y2": 29 } },
 			"Legacy of Ruin"
-		]
+		],
+		"3731": "Star Carpet World",
+		"3732": "Tele-pole Plains"
 	}
 }
