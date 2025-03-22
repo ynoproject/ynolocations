@@ -67,7 +67,7 @@
 		"0061": "Wilderness",
 		"0062": "Wilderness",
 		"0063": "Wilderness",
-		"0064": { "title": "Wilderness", "urlTitle": "Wilderness#Northern_Wilderness" },
+		"0064": { "title": "Staircase to the Sky", "urlTitle": "Wilderness#Northern_Wilderness" },
 		"0065": { "title": "Hot Spring House", "urlTitle": "Wilderness#Hot_Spring_House" },
 		"0066": "Barracks Settlement",
 		"0067": "Mini Hell",
@@ -89,11 +89,10 @@
 		"0083": "Windmill World",
 		"0084": "Dense Woods B",
 		"0086": [
-			{ "title": "Road", "coords": { "x1": 0, "y1": 35, "x2": 79, "y2": 59 } },
-			{ "title": "Road", "coords": { "x1": 46, "y1": 24, "x2": 79, "y2": 34 } },
-			{ "title": "Dense Woods B", "coords": { "x1": 0, "y1": 0, "x2": 28, "y2": 34 } },
-			{ "title": "Dense Woods B", "coords": { "x1": 29, "y1": 16, "x2": 43, "y2": 34 } },
-			"Dark Woods"
+			{ "title": "Infinite Road", "coords": { "x1": 0, "y1": 35, "x2": 79, "y2": 59 } },
+			{ "title": "Infinite Road", "coords": { "x1": 46, "y1": 24, "x2": 79, "y2": 34 } },
+			{ "title": "Dark Woods", "coords": { "x1": 34, "y1": 11, "x2": 79, "y2": 17 } },
+			"Dense Woods B"
 		],
 		"0087": "Traincar",
 		"0088": "Traincar",
@@ -135,7 +134,9 @@
 		"0110": "Teleport Maze",
 		"0111": [
 			{ "title": "Docks A", "coords": { "x1": 0, "y1": 0, "x2": 90, "y2": 110 } },
-			"Docks B"
+			{ "title": "Docks B", "coords": { "x1": 91, "y1": 0, "x2": 201, "y2": 77 } },
+			{ "title": "Docks B", "coords": { "x1": 105, "y1": 78, "x2": 131, "y2": 134 } },
+			"Docks"
 		],
 		"0112": "Sky Garden",
 		"0113": "Sky Garden",
@@ -208,11 +209,10 @@
 		"0173": "Mars Underground",
 		"0174": "Mars Underground",
 		"0177": "Mall",
-		"0178": { "title": "Mall Rooftop", "urlTitle": "The_Mall#Mall_Rooftop" },
-		"0179": { "title": "Witch Flight", "urlTitle": "The_Mall#Mall_Rooftop" }
+		"0178": { "title": "Mall Rooftop", "urlTitle": "Mall#Mall_Rooftop" },
+		"0179": { "title": "Witch Flight", "urlTitle": "Mall#Mall_Rooftop" }
 	},
 	"locationUrlTitles": {
-		"Infinite Road": "Dense_Woods_A#Infinite_Road",
 		"White Desert Underground Lagoon": "White_Desert_B",
 		"Crossover Garden": "Sky_Garden",
 		"Mars Underground": "Mars",
