@@ -484,7 +484,7 @@
 		],
 		"0798": { "title": "Despair Road: Poker Zone", "urlTitle": "Despair_Road#Poker_Zone" },
 		"0799": "Polluted Swamp",
-		"0801": { "title": "Urotsuki's Dream Apartments: Dream Wardrobe", "urlTitle": "Urotsuki%27s_Dream_Apartments" },
+		"0801": { "title": "Urotsuki's Dream Apartments: Dream Wardrobe", "urlTitle": "Urotsuki%27s_Dream_Apartments#Dream_Wardrobe" },
 		"0808": { "title": "Constellation World: Star Path", "urlTitle": "Constellation_World" },
 		"0809": "Sea Lily World",
 		"0815": { "title": "House Over the Rainbow: Rose Field", "urlTitle": "House_Over_the_Rainbow#Rose_Field" },
@@ -1513,6 +1513,7 @@
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
 		],
+		"3308": { "title": "Urotsuki's Dream Apartments: Blackout House", "urlTitle": "Urotsuki%27s_Dream_Apartments#Blackout_House" },
 		"3364": [
 			{ "title": "Pastel Dream Sea: Sunken Ship Mansion", "urlTitle": "Pastel_Dream_Sea#Sunken_Ship_Mansion", "coords": { "x1": 0, "y1": 0, "x2": 229, "y2": 99 } },
 			{ "title": "Jigsaw Junction", "coords": { "x1": 0, "y1": 387, "x2": 19, "y2": 402 } },
