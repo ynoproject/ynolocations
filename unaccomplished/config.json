@@ -1,7 +1,6 @@
 {
-        "ignoredMapIds": [
-                "0000", "0001", "0006"
-        ],
+        "ignoredMapIds": [ "0000", "0001", "0006" ],
+        "urlRoot": "https://yume.wiki/unaccomplished/",
         "mapLocations": {
                 "0002": { "title": "My Bedroom", "urlTitle": "Yin_Ming's_Room" },
                 "0003": { "title": "Corridor", "urlTitle": "Yin_Ming's_Room" },
@@ -25,7 +24,7 @@
                 "0022": "Abandoned Internet Cafe",
                 "0023": { "title": "My Desktop", "urlTitle": "Yin_Ming's_Room" },
                 "0024": { "title": "My Documents", "urlTitle": "Yin_Ming's_Room" },
-                "0025": { "title": "My Wallpapers", "urlTitle": "Yin_Ming's_Room" },
+                "0025": { "title": "My Wallpapers", "urlTitle": "Wallpapers" },
                 "0026": { "title": "B-W Room", "urlTitle": "Black-White" },
                 "0027": "Character Plate",
                 "0028": "Exhibition Hall",
@@ -169,5 +168,13 @@
 		"0166": { "title": "Hello Internet", "urlTitle": "Yin_Ming's_Room" },
 		"0167": "Exhibition Hall",
 		"0170": { "title": "B-W Room", "urlTitle": "Black-White" }
-        }
+        },
+	"locationUrlTitles": {
+		"Shimitsuki's Computer": "Shimitsuki's_Room",
+		"Shimitsuki's Dream Room": "Shimitsuki's_Room",
+		"Shimitsuki's Balcony": "Shimitsuki's_Room",
+		"Hologram Space: Back Alley": "Hologram_Space#Back_Alley",
+		"Flat Townscape: Pyramid": "Flat_Townscape#Pyramid",
+		"Frigid Candy Forest: Pouch Settlement": "Frigid_Candy_Forest#Pouch_Settlement"
+	}
 }
