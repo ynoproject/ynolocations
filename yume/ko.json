@@ -92,8 +92,6 @@
 			{ "title": "수해 B", "urlTitle": "s-16.1" },
 			{ "title": "수해 B", "urlTitle": "s-16.1" },
 			{ "title": "수해 B", "urlTitle": "s-16.1" },
-			{ "title": "수해 B", "urlTitle": "s-16.1" },
-			{ "title": "수해 B", "urlTitle": "s-16.1" },
 			{ "title": "수해 B", "urlTitle": "s-16.1" }
 		],
 		"0087": { "title": "수해 B : 기차", "urlTitle": "s-16.1" },
@@ -136,6 +134,8 @@
 		"0110": { "title": "블록 미로", "urlTitle": "s-16.2" },
 		"0111": [
 			{ "title": "삼도천 A", "urlTitle": "s-21.1" },
+			{ "title": "삼도천 B", "urlTitle": "s-21.1" },
+			{ "title": "삼도천 B", "urlTitle": "s-21.1" },
 			{ "title": "삼도천 B", "urlTitle": "s-21.1" }
 		],
 		"0112": { "title": "공중정원", "urlTitle": "s-15.1" },

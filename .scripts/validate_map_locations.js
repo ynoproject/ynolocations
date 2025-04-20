@@ -6,6 +6,8 @@ const baseDir = path.resolve(__dirname, '../');
 
 // Function to emit GitHub Actions annotations
 function emitAnnotation(type, message, file, line = 1) {
+    if (type === 'error')
+        process.exitCode = 1;
     console.log(`::${type} file=${file},line=${line}::${message}`);
 }
 
@@ -27,7 +29,7 @@ async function getLineNumber(filePath, key) {
 }
 
 // Function to validate mapLocations
-function validateMapLocations(folderPath) {
+async function validateMapLocations(folderPath) {
     const configPath = path.join(folderPath, 'config.json');
     if (!fs.existsSync(configPath)) {
         emitAnnotation('error', `config.json not found in ${folderPath}`, folderPath);
@@ -36,8 +38,8 @@ function validateMapLocations(folderPath) {
 
     const configData = require(configPath).mapLocations;
 
-    fs.readdirSync(folderPath).forEach(async file => {
-        if (file === 'config.json' || !file.endsWith('.json')) return;
+    for (const file of fs.readdirSync(folderPath)) {
+        if (file === 'config.json' || !file.endsWith('.json')) continue;
 
         const filePath = path.join(folderPath, file);
         const fileData = require(filePath);
@@ -59,14 +61,14 @@ function validateMapLocations(folderPath) {
                 }
             }
         }
-    });
+    }
 }
 
 // Iterate through each folder
-fs.readdirSync(baseDir).forEach(folder => {
-    if (folder.startsWith('.') || folder === 'node_modules') return; // Skip hidden folders and node_modules
+for (const folder of fs.readdirSync(baseDir)) {
+    if (folder.startsWith('.') || folder === 'node_modules') continue; // Skip hidden folders and node_modules
     const folderPath = path.join(baseDir, folder);
     if (fs.lstatSync(folderPath).isDirectory()) {
         validateMapLocations(folderPath);
     }
-});
+}
