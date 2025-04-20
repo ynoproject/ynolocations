@@ -91,9 +91,8 @@
 		"0086": [
 			"El Camino",
 			"El Camino",
-			"Bosque Denso B",
-			"Bosque Denso B",
-			"Bosque Oscuro"
+			"Bosque Oscuro",
+			"Bosque Denso B"
 		],
 		"0087": "Vagón de Tren",
 		"0088": "Vagón de Tren",
@@ -135,6 +134,8 @@
 		"0110": { "title": "Laberinto de Teletransportación", "urlTitle": "Laberinto_de_Telepuertos" },
 		"0111": [
 			"Los Muelles A",
+			"Los Muelles B",
+			"Los Muelles B",
 			"Los Muelles B"
 		],
 		"0112": "Jardín del Cielo",
