@@ -167,6 +167,7 @@
                 "0165": "Moonlit Sands",
 		"0166": { "title": "Hello Internet", "urlTitle": "Yin_Ming's_Room" },
 		"0167": "Exhibition Hall",
+                "0168": { "title": "Room", "urlTitle": "Memorial_Candle" },
 		"0170": { "title": "B-W Room", "urlTitle": "Black-White" }
         },
 	"locationUrlTitles": {
