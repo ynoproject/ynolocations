@@ -606,6 +606,7 @@
 		"1001": { "title": "Cat Cemetery: Witch's House", "urlTitle": "Cat_Cemetery#Halloween_Forest" },
 		"1004": "Snowy Village",
 		"1005": { "title": "Monochrome Mansion: Escherian Passage", "urlTitle": "Monochrome_Mansion#Escherian_Passage" },
+		"1011": "Chainlink Lees",
 		"1020": { "title": "Blue Cactus Islands: Mirror Lake", "urlTitle": "Blue_Cactus_Islands#Mirror_Lake" },
 		"1022": "Rotten Sea",
 		"1023": { "title": "Calcarina Sea: Calcarina Snowfield", "urlTitle": "Calcarina_Sea#Calcarina_Snowfield" },
@@ -1487,8 +1488,6 @@
 		"3027": { "title": "Pitch Black Plateau: The Emptiness", "urlTitle": "Pitch_Black_Plateau#The_Emptiness" },
 		"3028": { "title": "Pitch Black Plateau: Hopeful Road", "urlTitle": "Pitch_Black_Plateau#Hopeful_Road" },
 		"3029": { "title": "Dream Route: Stone Graveyard", "urlTitle": "Dream_Route#Stone_Graveyard" },
-		"3062": "Sweet Medical Utopia",
-		"3063": "Sweet Medical Utopia",
 		"3124": [
 			{ "title": "Sunken Spore Sea", "coords": { "x1": 3, "y1": 119, "x2": 68, "y2": 128 } },
 			"Sapphire Hand Town"
