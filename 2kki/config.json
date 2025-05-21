@@ -1276,6 +1276,14 @@
 			"Checkered Towers"
 		],
 		"2280": "Blood Red Beach",
+		"2289": [
+			{ "title": "Rainfall Forest", "coords": { "x1": 64, "y1": 17, "x2": 83, "y2": 31 } },
+			{ "title": "The Skin", "coords": { "x1": 1, "y1": 33, "x2": 20, "y2": 47 } },
+			{ "title": "Geode Valley", "coords": { "x1": 22, "y1": 33, "x2": 41, "y2": 47 } },
+			{ "title": "Calico Forest", "coords": { "x1": 43, "y1": 33, "x2": 62, "y2": 47 } },
+			{ "title": "Crimson Park", "coords": { "x1": 64, "y1": 33, "x2": 83, "y2": 47 } },
+			"Graffiti Waterfront"
+		],
 		"2291": [
 			{ "title": "Motel Breeze", "coords": { "x1": 0, "y1": 0, "x2": 43, "y2": 15 } },
 			{ "title": "Motel Breeze", "coords": { "x1": 26, "y1": 258, "x2": 41, "y2": 299 } },
