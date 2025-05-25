@@ -1497,6 +1497,10 @@
 		"3029": { "title": "Dream Route: Stone Graveyard", "urlTitle": "Dream_Route#Stone_Graveyard" },
 		"3062": "Sweet Medical Utopia",
 		"3063": "Sweet Medical Utopia",
+		"3102": [
+			{ "title": "Heian Era Village", "coords": { "x1": 7, "y1": 3, "x2": 12, "y2": 10 } },
+			"Misty Streets"
+		],
 		"3124": [
 			{ "title": "Sunken Spore Sea", "coords": { "x1": 3, "y1": 119, "x2": 68, "y2": 128 } },
 			"Sapphire Hand Town"
