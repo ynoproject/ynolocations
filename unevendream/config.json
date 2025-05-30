@@ -516,7 +516,18 @@
             },
             "Duck World"
         ],
-        "0411": "Kaomoji Mall",
+        "0411": [
+            {
+                "title": "Hat Park",
+                "coords": {
+                    "x1": 85,
+                    "y1": 0,
+                    "x2": 149,
+                    "y2": 79
+                }
+            },
+            "Kaomoji Hall"
+        ],
         "0412": "Kaomoji Mall",
         "0413": "Pink Desert",
         "0414": "Bumblebee Lounge",
