@@ -383,6 +383,7 @@
 			{ "title": "Red Black World", "coords": { "x1": 0, "y1": 0, "x2": 19, "y2": 14 } },
 			"Downfall Garden B"
 		],
+		"0588": "Spirit Capital",
 		"0593": "Sepia Clouds World",
 		"0595": { "title": "Sea of Clouds: Moai Bro Prison", "urlTitle": "Sea_of_Clouds" },
 		"0618": { "title": "Red Blue Yellow (Mini Game B) - EX Version", "urlTitle": "Console#Red_Blue_Yellow_(Mini_Game_B)", "explorer": false },
@@ -1008,6 +1009,7 @@
 			{ "title": "Nazca Valley: Sunny Town", "urlTitle": "Nazca_Valley#Green_and_Salmon_Stone" }
 		],
 		"1733": { "title": "Twisted Thickets: The Peak", "urlTitle": "Twisted_Thickets" },
+		"1736": "Opal Archives",
 		"1773": { "title": "Spear Tribe World: Overgrown Stone Area", "urlTitle": "Spear_Tribe_World" },
 		"1774": { "title": "Blue Cactus Islands: Golden Sky Bridge", "urlTitle": "Blue_Cactus_Islands#Golden_Sky_Bridge" },
 		"1775": { "title": "Blue Cactus Islands: Golden Sky Bridge", "urlTitle": "Blue_Cactus_Islands#Golden_Sky_Bridge" },
@@ -1500,6 +1502,7 @@
 			{ "title": "Heian Era Village", "coords": { "x1": 7, "y1": 3, "x2": 12, "y2": 10 } },
 			"Misty Streets"
 		],
+		"3110": "English Thundershower",
 		"3124": [
 			{ "title": "Sunken Spore Sea", "coords": { "x1": 3, "y1": 119, "x2": 68, "y2": 128 } },
 			"Sapphire Hand Town"
