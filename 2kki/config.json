@@ -154,8 +154,8 @@
 			{ "title": "Nail World", "coords": { "x1": 73, "y1": 32, "x2": 73, "y2": 36 } },
 			"Nail World"
 		],
-		"0192": { "title": "Urotsuki's Dream Apartments: Penguin GB Game", "urlTitle": "Events#Penguin_GB_Game" },
-		"0193": { "title": "Urotsuki's Dream Apartments: Penguin GB Game", "urlTitle": "Events#Penguin_GB_Game" },
+		"0192": "Penguin Game",
+		"0193": "Penguin Game",
 		"0195": { "title": "Red Brick Maze: Cloning Room", "urlTitle": "Red_Brick_Maze#Cloning_Room" },
 		"0198": "Day and Night Towers",
 		"0201": "Atlantis",
