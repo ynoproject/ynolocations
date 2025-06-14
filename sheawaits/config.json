@@ -113,7 +113,7 @@
                 "0114": "Village",
                 "0115": "Village: Dungeon",
                 "0116": "Village: Dungeon",
-                "0117": "Fortune Teller's Tent",
+                "0117": { "title": "Village: Fortune Teller's Tent", "urlTitle": "Village#Fortune Teller's Tent" },
                 "0118": "Crystal Cave A",
                 "0119": "Crystal Cave B",
                 "0120": "Crystal Cave B",
