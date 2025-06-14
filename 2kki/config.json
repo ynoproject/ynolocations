@@ -676,7 +676,7 @@
 			"Miraculous Waters"
 		],
 		"1247": "Miraculous Waters",
-		"1252": "Portrait Collection",
+		"1252": { "title": "Urotsuki's Dream Apartments: Portrait Collection", "urlTitle": "Urotsuki%27s_Dream_Apartments#Portrait_Collection" },
 		"1255": "Calcarina Sea",
 		"1264": { "title": "Finger Candle World: Finger Maze", "urlTitle": "Finger_Candle_World#Finger_Maze" },
 		"1266": [
