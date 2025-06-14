@@ -119,8 +119,8 @@
                 "0120": "Crystal Cave",
                 "0122": "Jester's Path",
                 "0123": "Mourning Field",
-                "0124": { "title": "Outside Noelia's Room", "urlTitle": "Noelia's Room" },
-                "0125": { "title": "Outside Noelia's Room", "urlTitle": "Unicorn Lake" },
+                "0124": { "title": "Outside Noelia's Dream Room", "urlTitle": "Noelia's Room" },
+                "0125": { "title": "Unicorn Lake", "urlTitle": "Noelia's Room#Unicorn Lake" },
                 "0126": "Sky Fortress",
                 "0127": "Sky Fortress",
                 "0128": "Sky Fortress",
@@ -130,7 +130,7 @@
                 "0133": "Garden of Costanza",
                 "0134": "Village: Tapestry Shop",
                 "0135": "Village: Tapestry Shop",
-                "0136": "Noelia's Room",
+                "0136": "Noelia's Dream Room",
                 "0137": "Lantern Piers"
         },
         "locationUrlTitles": {
