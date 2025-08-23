@@ -406,7 +406,7 @@
 		"0674": { "title": "Cloudy World: Crying Eyes Cave", "urlTitle": "Cloudy_World" },
 		"0677": { "title": "Broken City: Winter Funeral", "urlTitle": "Broken_City#Winter_Funeral" },
 		"0681": "Dream Bank",
-		"0692": "Tricolor Room",
+		"0692": "Picture Book",
 		"0694": {
 			"0693": "Fantasy Library",
 			"else": "Butterfly Forest"
@@ -428,9 +428,9 @@
 		],
 		"0713": {
 			"0693": "Fantasy Library",
-			"else": "Tricolor Room"
+			"else": "Picture Book"
 			},
-		"0717": "Tricolor Room",
+		"0717": "Picture Book",
 		"0719": "Radiant Rainbow Reef",
 		"0722": { "title": "Vase World: Vase Interior", "urlTitle": "Vase_World#Vase_Interior" },
 		"0723": { "title": "Red Sky Cliff: Splash Streetway", "urlTitle": "Red_Sky_Cliff#Splash_Streetway" },
@@ -823,8 +823,8 @@
 		],
 		"1394": "Toy World",
 		"1395": "Tricolor Room",
-		"1396": "Tricolor Room",
-		"1400": "Tricolor Room",
+		"1396": "Picture Book",
+		"1400": "Nocturne",
 		"1401": { "title": "Water Reclamation Facility: Shutter Alley", "urlTitle": "Water_Reclamation_Facility#Shutter_Alley" },
 		"1402": { "title": "Water Reclamation Facility: Shutter Alley", "urlTitle": "Water_Reclamation_Facility#Shutter_Alley" },
 		"1422": "Obentou World",
@@ -1018,8 +1018,8 @@
 		"1780": "Shadow Lady Estate",
 		"1781": { "title": "Parking Garage: Underground Mall", "urlTitle": "Parking_Garage#Underground_Mall" },
 		"1782": { "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" },
-		"1791": "Tricolor Room",
-		"1796": "Tricolor Room",
+		"1791": "Nocturne",
+		"1796": "Nocturne",
 		"1798": "Fox Temple",
 		"1801": { "title": "Rainbow Pottery Zone: Dogū World", "urlTitle": "Rainbow_Pottery_Zone#Dogū_World" },
 		"1802": { "title": "Rainbow Pottery Zone: Leo Palace", "urlTitle": "Rainbow_Pottery_Zone#Leo_Palace" },
@@ -1573,3 +1573,4 @@
 		"3732": "Tele-pole Plains"
 	}
 }
+
