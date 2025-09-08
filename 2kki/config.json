@@ -1161,6 +1161,9 @@
 		"2038": [
 			{ "title": "Corridor of Eyes", "coords": { "x1": 99, "y1": 48, "x2": 158, "y2": 99 } },
 			{ "title": "Deserted Center", "coords": { "x1": 95, "y1": 121, "x2": 164, "y2": 167 } },
+			{ "title": "Turtle Stew World", "coords": { "x1": 202, "y1": 0, "x2": 300, "y2": 110 } },
+			{ "title": "Lake of Bones", "coords": { "x1": 0, "y1": 187, "x2": 234, "y2": 304 } },
+			{ "title": "Overwork Office", "coords": { "x1": 0, "y1": 311, "x2": 20, "y2": 326 } },
 			"Sunset School"
 		],
 		"2039": [
@@ -1549,16 +1552,26 @@
 		"3368": [
 			{ "title": "Hop Springs", "coords": { "x1": 0, "y1": 0, "x2": 79, "y2": 159 } },
 			{ "title": "Hop Springs", "coords": { "x1": 80, "y1": 0, "x2": 119, "y2": 89 } },
+			{ "title": "Burger Joint", "coords": { "x1": 22, "y1": 203, "x2": 34, "y2": 217 } },
+			{ "title": "Recursive Warehouse", "coords": { "x1": 96, "y1": 172, "x2": 196, "y2": 248 } },
+			{ "title": "Hemlock Lab", "coords": { "x1": 0, "y1": 250, "x2": 296, "y2": 364 } },
+			{ "title": "Overwork Office", "coords": { "x1": 0, "y1": 365, "x2": 296, "y2": 499 } },
 			"Citrus Springs"
 		],
 		"3369": [
 			{ "title": "Burger Joint", "coords": { "x1": 0, "y1": 0, "x2": 139, "y2": 149 } },
 			{ "title": "Potato World", "coords": { "x1": 140, "y1": 0, "x2": 249, "y2": 149 } },
+			{ "title": "Canned Fish World", "coords": { "x1": 290, "y1": 0, "x2": 399, "y2": 112 } },
+			{ "title": "Glacier Island", "coords": { "x1": 166, "y1": 238, "x2": 233, "y2": 339 } },
+			{ "title": "Glacier Island", "coords": { "x1": 234, "y1": 182, "x2": 282, "y2": 339 } },
+			{ "title": "Glacier Island", "coords": { "x1": 283, "y1": 116, "x2": 399, "y2": 339 } },
+			{ "title": "Overwork Office", "coords": { "x1": 100, "y1": 355, "x2": 254, "y2": 499 } },
 			"Angel Palace"
 		],
 		"3370": [
 			{ "title": "Jigsaw Junction", "coords": { "x1": 0, "y1": 121, "x2": 197, "y2": 145 } },
 			{ "title": "Pastel Dream Sea: Sargat Layer", "urlTitle": "Pastel_Dream_Sea#Sargat_Layer", "coords": { "x1": 0, "y1": 165, "x2": 19, "y2": 179 } },
+			{ "title": "Skyview Elevator", "coords": { "x1": 0, "y1": 197, "x2": 197, "y2": 349 } },
 			"Communal Workspace"
 		],
 		"3503": [
