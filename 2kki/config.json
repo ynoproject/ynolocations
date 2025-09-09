@@ -1256,6 +1256,10 @@
 			{ "title": "Flamelit Wasteland: Hell Caverns", "urlTitle": "Flamelit Wasteland#Hell_Caverns", "coords": { "x1": 41, "y1": 23, "x2": 99, "y2": 99 } },
 			{ "title": "Fish Person Shoal: Shoal Caverns", "urlTitle": "Fish_Person_Shoal#Shoal_Caverns" }
 		],
+		"2256": [
+			{ "title": "Ruby Forest", "coords": { "x1": 0, "y1": 485, "x2": 19, "y2": 499 } },
+			"Somber Establishment"
+		],
 		"2257": "Somber Establishment",
 		"2259": "Floating Tiled Islands",
 		"2268": [
