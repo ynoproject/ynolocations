@@ -132,6 +132,7 @@
 		"0183": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0184": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0185": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
+		"0187": "Docks",
 		"0188": [
 			{ "title": "Nail World", "coords": { "x1": 27, "y1": 29, "x2": 28, "y2": 30 } },
 			{ "title": "Nail World", "coords": { "x1": 27, "y1": 32, "x2": 28, "y2": 38 } },
@@ -182,6 +183,7 @@
 		"0236": { "title": "Bowling Zone: Bowling Pin World", "urlTitle": "Bowling_Zone#Bowling_Pin_World" },
 		"0237": "Invisible Maze",
 		"0238": "Invisible Maze",
+		"0239": "Invisible Maze",
 		"0242": "Visine World",
 		"0243": { "title": "Visine World: Eye Shop", "urlTitle": "Visine_World#Eye_Shop" },
 		"0244": [
@@ -206,7 +208,7 @@
 		"0273": "Underwater Amusement Park",
 		"0274": "Underwater Amusement Park",
 		"0275": "Underwater Amusement Park",
-		"0279": { "title": "Docks: The Commando and Provost-san's Submarine", "urlTitle": "Docks" },
+		"0279": { "title": "Docks: Commando and Provost-san's Submarine", "urlTitle": "Docks" },
 		"0281": "Bug Maze",
 		"0285": "Sky Kingdom",
 		"0290": { "title": "Mushroom World: White Mushroom Field", "urlTitle": "Mushroom_World#White_Mushroom_Field" },
@@ -391,6 +393,7 @@
 		"0619": { "title": "Symbolon: Conway's Game of Life", "urlTitle": "Symbolon#Conway's_Game_of_Life" },
 		"0620": { "title": "Sound Room", "urlTitle": "Soundtrack", "explorer": false },
 		"0637": { "title": "River Complex: Buddha Face Labyrinth", "urlTitle": "River_Complex#Buddha_Face_Labyrinth" },
+		"0639": "Pansy Path",
 		"0643": "Binary World",
 		"0644": "Binary World",
 		"0645": "Binary World",
@@ -439,6 +442,7 @@
 		"0725": "Innocent Dream",
 		"0731": { "title": "Vase World: Vase Path", "urlTitle": "Vase_World#Vase_Path" },
 		"0741": { "title": "Theatre World: Lavender Temple", "urlTitle": "Theatre_World" },
+		"0745": "Slums",
 		"0751": "Dojo",
 		"0752": "Dojo",
 		"0753": "Dojo",
@@ -748,6 +752,7 @@
 			"Statue Forest"
 		],
 		"1299": "Lovesick World",
+		"1301": "Second Nexus",
 		"1302": [
 			{ "title": "Statue Forest", "coords": { "x1": 130, "y1": 135, "x2": 149, "y2": 149 } },
 			{ "title": "Pastel Chalk World", "coords": { "x1": 110, "y1": 135, "x2": 129, "y2": 149 } },
@@ -789,6 +794,7 @@
 			{ "title": "Bright Forest", "coords": { "x1": 40, "y1": 235, "x2": 79, "y2": 259 } },
 			"Solstice Forest"
 		],
+		"1343": "Second Nexus",
 		"1344": [
 			{ "title": "3D Structures Path", "coords": { "x1": 0, "y1": 253, "x2": 76, "y2": 299 } },
 			"Gutter"
@@ -1124,6 +1130,8 @@
 		"1946": "Nightfall Park",
 		"1949": "Drenched Passageways",
 		"1950": { "title": "Pop Tiles Maze: Moonlight Lake", "urlTitle": "Pop_Tiles_Maze#Moonlight_Lake/Rise_and_Shine_event" },
+		"1959": "Pansy Path",
+		"1960": "Pansy Path",
 		"1963": [
 			{ "title": "Ninja Town: The Neighborhood", "urlTitle": "Ninja_Town#The_Neighborhood", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 15 } },
 			"Ninja Town"
@@ -1593,5 +1601,6 @@
 		"3732": "Tele-pole Plains"
 	}
 }
+
 
 
