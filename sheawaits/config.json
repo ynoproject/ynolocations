@@ -6,7 +6,7 @@
                 "0003": { "title": "Noelia's Balcony", "urlTitle": "Noelia's Room" },
                 "0004": { "title": "Noelia's Dream Room", "urlTitle": "Noelia's Room" },
                 "0005": "Noelia's Dream Balcony",
-                "0006": "The Nexus",
+                "0006": "Nexus",
                 "0009": "Constellation World",
                 "0010": "Funeral Tiles Path",
                 "0011": "Rose Garden",
@@ -143,3 +143,4 @@
                 "Noelia's Dream Balcony": "Noelia's Room"
 	}
 }
+
