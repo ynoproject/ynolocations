@@ -601,7 +601,7 @@
         "0434": "Art Deco World",
         "0435": "Brass Orchard",
         "0436": "Knight's Oasis",
-        "0437": "Alien Rave World",
+        "0437": "Alien Rave",
         "0438": "Starlight Bistro",
         "0439": "Jade UI World",
         "0440": "Tubular Garden",
@@ -617,7 +617,7 @@
         "0451": "Fox Fortress",
         "0452": "Fox Fortress",
         "0453": "Submerged Chains",
-        "0454": "Submerged Chains",
+        "0454": "Den of the Dead",
         "0455": "Den of the Dead",
         "0456": "Submerged Chains",
         "0457": "Den of the Dead",
@@ -646,7 +646,9 @@
         "0522": "Long Forgotten Depths",
         "0523": "Long Forgotten Depths",
         "0524": "Long Forgotten Depths",
+        "0525": "The Secret Woods",
         "0526": "Noctifer Spiritus",
+        "0527": "Long Forgotten Depths",
         "0528": "Henderson Lake",
         "0529": "Henderson Lake",
         "0530": "Henderson Lake",
@@ -655,7 +657,7 @@
         "0533": "Synthwave Central",
         "0534": [
 			{
-				"title": "Primary Heaven",
+				"title": "Wizard Dungeon",
 				"coords": {
 					"x1": 20,
 					"y1": 60,
@@ -669,15 +671,47 @@
         "0536": "Primary Heaven",
         "0537": "Wizard Dungeon",
         "0538": "Dementia",
+        "0539": "Dementia",
         "0541": "Flooded Maze",
         "0542": "Flooded Maze",
         "0543": "Flooded Maze",
         "0551": "Magnolia Pier",
-        "0552": "Celestial City",
+        "0552": [
+			{
+				"title": "Magnolia Pier",
+				"coords": {
+					"x1": 97,
+					"y1": 105,
+					"x2": 116,
+					"y2": 119
+				}
+			},
+            "Celestial City"
+        ],
         "0553": "Celestial City",
         "0554": "Magnolia Pier",
         "0555": "Fruit Lamp World",
-        "0556": "Fruit Lamp World",
+        "0556": [
+			{
+				"title": "Overgrown Stairs",
+				"coords": {
+					"x1": 19,
+					"y1": 20,
+					"x2": 30,
+					"y2": 27
+				}
+			},
+			{
+				"title": "Fruit Lamp World",
+				"coords": {
+					"x1": 0,
+					"y1": 81,
+					"x2": 59,
+					"y2": 99
+				}
+			},
+            "Celestial City"
+        ],
         "0557": "Overgrown Stairs",
         "0561": "Berdplace",
         "0562": "Berdplace",
