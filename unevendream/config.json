@@ -713,7 +713,19 @@
             "Celestial City"
         ],
         "0557": "Overgrown Stairs",
-        "0561": "Berdplace",
+        "0561": [
+			{
+                "title": "Berdplace: Weirdhaus",
+                "urlTitle": "Berdplace",
+				"coords": {
+					"x1": 14,
+					"y1": 124,
+					"x2": 65,
+					"y2": 149
+				}
+			},
+            "Berdplace"
+        ],
         "0562": "Berdplace",
         "0563": "Windy Pink Lake",
         "0568": "Large Closet"
