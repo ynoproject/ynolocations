@@ -1025,6 +1025,7 @@
 		"1780": "Shadow Lady Estate",
 		"1781": { "title": "Parking Garage: Underground Mall", "urlTitle": "Parking_Garage#Underground_Mall" },
 		"1782": { "title": "Monkey Mansion: Monkey Mansion Basement", "urlTitle": "Monkey_Mansion#Monkey_Mansion_Basement" },
+		"1783": "Urotsuki's Dream Apartments",
 		"1791": "Nocturne",
 		"1796": "Nocturne",
 		"1798": "Fox Temple",
@@ -1441,6 +1442,11 @@
 		"2738": { "title": "Serpent Ruins B: Cave", "urlTitle": "Serpent_Ruins_B#Cave" },
 		"2739": { "title": "Dream Route: Past Park", "urlTitle": "Dream_Route#Past_Park" },
 		"2740": { "title": "Dream Route: Past Amethyst Caves", "urlTitle": "Dream_Route#Past_Amethyst_Caves" },
+		"2747": [
+			{ "title": "Somniphobia", "coords": { "x1": 192, "y1": 0, "x2": 249, "y2": 34 } },
+			{ "title": "Grease Desert", "coords": { "x1": 0, "y1": 21, "x2": 94, "y2": 37 } },
+			"Blood Chalice Desolation"
+		],
 		"2750": { "title": "Mutant Nexus", "urlTitle": "Nexus#Mutant_Nexus" },
 		"2793": [
 			{ "title": "Vinegar Vicinity", "coords": { "x1": 300, "y1": 0, "x2": 474, "y2": 154 } },
