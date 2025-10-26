@@ -1522,6 +1522,7 @@
 		"3027": { "title": "Pitch Black Plateau: The Emptiness", "urlTitle": "Pitch_Black_Plateau#The_Emptiness" },
 		"3028": { "title": "Pitch Black Plateau: Hopeful Road", "urlTitle": "Pitch_Black_Plateau#Hopeful_Road" },
 		"3029": { "title": "Dream Route: Stone Graveyard", "urlTitle": "Dream_Route#Stone_Graveyard" },
+		"3035": "Serpent Archives",
 		"3102": [
 			{ "title": "Heian Era Village", "coords": { "x1": 7, "y1": 3, "x2": 12, "y2": 10 } },
 			"Misty Streets"
@@ -1551,6 +1552,7 @@
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
 		],
+		"3216": "VIBRANT SMILE WORLD",
 		"3308": { "title": "Urotsuki's Dream Apartments: Blackout House", "urlTitle": "Urotsuki%27s_Dream_Apartments#Blackout_House" },
 		"3364": [
 			{ "title": "Pastel Dream Sea: Sunken Ship Mansion", "urlTitle": "Pastel_Dream_Sea#Sunken_Ship_Mansion", "coords": { "x1": 0, "y1": 0, "x2": 229, "y2": 99 } },
