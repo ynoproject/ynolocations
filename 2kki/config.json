@@ -1499,18 +1499,18 @@
 			{ "title": "Art Exposition", "coords": { "x1": 3, "y1": 153, "x2": 132, "y2": 199 } },
 			"Art Exposition"
 		],
-		"2872": "Sweet Medical Utopia",
+		"2872": "Hospital Outlook",
 		"2873": [
 			{ "title": "Azure Overdose Zone", "coords": { "x1": 1, "y1": 1, "x2": 22, "y2": 12 } },
 			"Metallic Pathway"
 		],
-		"2876": "Sweet Medical Utopia",
-		"2877": "Sweet Medical Utopia",
-		"2878": "Sweet Medical Utopia",
+		"2876": "Hospital Outlook",
+		"2877": "Hospital Outlook",
+		"2878": "Hospital Outlook",
 		"2880": [
 			{ "title": "Wan Lotus Docks", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 44 } },
 			{ "title": "Rifle Wasteland", "coords": { "x1": 70, "y1": 0, "x2": 99, "y2": 44 } },
-			"Sweet Medical Utopia"
+			"Hospital Outlook"
 		],
 		"2901": "Blue Rock Depths",
 		"2980": "Windowed Plains",
@@ -1609,6 +1609,7 @@
 		"3732": "Tele-pole Plains"
 	}
 }
+
 
 
 
