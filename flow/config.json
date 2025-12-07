@@ -109,7 +109,10 @@
 		"0108": "Sewers",
 		"0109": "Sewers",
 		"0110": "Sewers",
-		"0111": "Sewers",
+		"0111": [
+			{ "title": "Sewers", "coords": { "x1": 0, "y1": 10, "x2": 15, "y2": 20 } },
+			"Sewers"
+		],
 		"0112": "Back Ward: Parade Ward",
 		"0113": "Plant Corridors",
 		"0114": "Plant Corridors",
