@@ -610,22 +610,10 @@
         "1095": "Saturated School",
         "1096": "Human Mesa",
         "1097": "Agoraphobia",
-        "1105": {
-            "title": "RED. VELVET. CAKE.",
-            "urlTitle": "Red_Velvet_Cake"
-        },
-        "1106": {
-            "title": "RED. VELVET. CAKE.",
-            "urlTitle": "Red_Velvet_Cake"
-        },
-        "1107": {
-            "title": "RED. VELVET. CAKE.",
-            "urlTitle": "Red_Velvet_Cake"
-        },
-        "1108": {
-            "title": "RED. VELVET. CAKE.",
-            "urlTitle": "Red_Velvet_Cake"
-        },
+        "1105": "RED VELVET CAKE",
+        "1106": "RED VELVET CAKE",
+        "1107": "RED VELVET CAKE",
+        "1108": "RED VELVET CAKE",
         "1131": "Lost Signal Shoal",
         "1132": "Lost Signal Shoal",
         "1133": "Field of Buried Memory",
