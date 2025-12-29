@@ -1,5 +1,5 @@
 {
-	"__comment__": "Map IDs for maps that are inaccessible or otherwise don't represent actual locations that should affect the location text",
+	"__comment__": "Map IDs for maps that are either inaccessible or don't represent actual locations that should affect the location text (e.g. transition screen shared by several worlds)",
 	"ignoredMapIds": [ "0001", "9999" ],
 	"__comment2__": "Base URL to use for locations. The location title or the urlTitle (if specified) will be appended to this URL. Leave out this property if locations should not be links.",
 	"urlRoot": "https://examplewiki.com/wiki/",
@@ -14,12 +14,12 @@
 		},
 		"__comment6__": "Multiple locations that will be displayed simultaneously (only use when the location is ambiguous for a map, even given the previous map ID)",
 		"0005": [ "Location C", "Location D" ],
-		"__comment7__": "Location that will vary depending on previous map ID",
+		"__comment7__": "Location that will vary depending on previous map ID; avoid using this argument if the game allows to teleport while on the same map, as it will lead to incorrect results (e.g. Bat effect of Yume 2kki teleports the player while not moving out of the map, rendering the previous map check null)",
 		"0010": {
 			"__comment8__": "If previous map ID matches the key, it will use that value for the location",
 			"0002": "Location E",
 			"0003": { "title": "Location F", "urlTitle": "Actual_Location_F" },
-			"__comment9__": "If 'else' is present, its value will be used if the previous map ID does not match any of the keys for this entry (if 'else' is not present, 'Unknown Location' will be displayed)",
+			"__comment9__": "If 'else' is present, its value will be used if the previous map ID does not match any of the keys for this entry (if 'else' is not present, 'Unknown Location' will be displayed, but it's better to have an else anyways as a failsafe)",
 			"else": [ "Location E", { "title": "Location F", "urlTitle": "Actual_Location_F" } ]
 		}
 	},
