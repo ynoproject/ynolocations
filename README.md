@@ -1,11 +1,11 @@
 # ynobadges
 
-Repository to host the location configurations for the games present on [YNOproject](https://ynoproject.net).
+Repository to host location configurations for the games present on [YNOproject](https://ynoproject.net).
 
 
 ## How Does It Work?
 
-While playing on YNOproject, a configuration file lists the name for each world in a game, based on their map ID (can be found in RPG Maker 2003 by right-clicking on a map file; meanwhile, coordinates can be found by looking at the bottom-right corner of the app after selecting a tile). When a player is on a map whose ID matches with the one present in the config, the name of said location will be displayed on their screen: if the configuration is set to link to a wiki, the name of the world will be appended to the wiki link, which will allow users to directly access the wiki page of the world by clicking on the location name, and maps of the world from the wiki page will be able to be checked directly from the site.
+While playing on YNOproject, a configuration file lists the name of each world of a game, based on their map ID (can be found in RPG Maker 2003 by right-clicking on a map file; meanwhile, coordinates can be found by looking at the bottom-right corner of the app after selecting a tile). When a player is on a map whose ID matches with the one present in the config, the name of said location will be displayed on their screen: if the configuration is set to link to a wiki, the name of the world will be appended to the wiki link, which will allow users to directly access the wiki page of the world by clicking on the location name, and maps of the world from the wiki page will be able to be checked directly from the site.
 
 To see the syntax that can be used for configuration files, you can check the example config file that can be found [here](/config.json.example), [including a version if a translated version exists for a language](/ja.json.example).
 
@@ -17,12 +17,12 @@ When a configuration is updated, each language must be kept up to date, as it ca
 
 Ideally, unused maps and worlds should not be listed, as to not encourage players to visit them by using exploits.
 
-Lastly, the expedition and world progress systems of YNOproject is able to know if you visited a world based on if you visited a location with the **EXACT SAME NAME**. Therefore, for a world, at least one of its locations that can be visited must have the exact same name, otherwise it will not be able to complete expeditions there (e.g. in `Plaza World`, you cannot have the world defined solely by two locations named `Plaza World: South` and `Plaza World: North`: you need at least one `Plaza World`, as visiting `Plaza World: South` or `Plaza World: North` would not be able to trigger expedition and world progress due to not having the exact same name than `Plaza World`).
+Lastly, the expedition and world progress systems of YNOproject are able to know if you visited a world based on if you visited a location with the **EXACT SAME NAME**. Therefore, for a world, at least one of its locations that can be visited must have the exact same name, otherwise expeditions and visits in said world will not be able to be completed (e.g. in `Plaza World`, you cannot have the world defined solely by two locations named `Plaza World: South` and `Plaza World: North`: you need at least one `Plaza World`, as visiting `Plaza World: South` or `Plaza World: North` would not be able to trigger expedition and world progress due to not having the exact same name than `Plaza World`).
 
 
 ## The Yume 2kki Case
 
-Unlike the other games, as Yume 2kki is constantly growing, and to make things simpler, the location configuration is not complete: instead, YNOproject parses the map IDs present on the [Map IDs page of Yume Wiki](https://yume.wiki/2kki/Map_IDs), and uses them if the entry selected is listed as `Accessible`, has a proper name and links to a proper world page. On said linked world page, the `Japanese Name` property is used as the name to use for the Japanese, Korean and Chinese location configurations.
+Unlike other games, as Yume 2kki is constantly growing, and to make things simpler, the location configuration is not complete: instead, YNOproject parses the map IDs present on the [Map IDs pages of Yume Wiki](https://yume.wiki/2kki/Map_IDs), and uses them if the entry selected is listed as `Accessible`, has a proper name and links to a proper world page. On said linked world page, the `Japanese Name` property is used as the name to use for the Japanese, Korean and Chinese location configurations.
 
 As such, outside of defining the wiki link and the ignored map IDs, the configuration present here is only used to define specific cases that cannot be defined solely by the Map IDs pages:
 - Define coordinates to delimit worlds (e.g. aediorugap's maps, such as map 1730, tend to include several worlds on them)
@@ -33,7 +33,7 @@ As such, outside of defining the wiki link and the ignored map IDs, the configur
 - Define a location as being excluded from the Yume 2kki Explorer/Navigator (for locations that should not be part of the world tree, such as Urotsuki's Room, minigames or endings)
 - If the world is used as part of a Time Trial badge, it needs to be listed, as it will be used as the name of the category in the Rankings
 
-The Korean and Chinese location configurations are duplicate of the Japanese one (no difference at all, as the Japanese names and Japanese wiki are used), and must be updated each time the Japanese configuration needs to be edited.
+The Korean and Chinese location configurations are duplicates of the Japanese one (no difference at all, as the Japanese names and Japanese wiki are used), and must be updated each time the Japanese configuration needs to be edited.
 
 
 ## Related Links
