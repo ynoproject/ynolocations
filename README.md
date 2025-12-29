@@ -1,4 +1,4 @@
-# ynobadges
+# ynolocations
 
 Repository to host location configurations for the games present on [YNOproject](https://ynoproject.net).
 
