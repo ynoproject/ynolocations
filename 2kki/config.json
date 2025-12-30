@@ -416,7 +416,7 @@
 			"else": "Butterfly Forest"
 		},
 		"0701": [
-			{ "title": "Cyber Maze", "coords": { "x1": 0, "y1": 0, "x2": 52, "y2": 82 } },
+			{ "title": "Cyber Hub", "coords": { "x1": 0, "y1": 0, "x2": 52, "y2": 82 } },
 			"Dream Mexico"
 		],
 		"0704": [
@@ -1609,6 +1609,7 @@
 		"3732": "Tele-pole Plains"
 	}
 }
+
 
 
 
