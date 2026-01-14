@@ -121,7 +121,7 @@
 		],
 		"0173": "Urotsuki's Dream Apartments",
 		"0174": "Urotsuki's Dream Apartments",
-		"0175": "Urotsuki's Dream Apartments",
+		"0175": "Apartments",
 		"0176": [
 			{ "title": "Dressing Room", "coords": { "x1": -1, "y1": 0, "x2": -1, "y2": 105 } },
 			"Fabric World"
@@ -1609,6 +1609,7 @@
 		"3732": "Tele-pole Plains"
 	}
 }
+
 
 
 
