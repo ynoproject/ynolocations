@@ -1594,6 +1594,8 @@
 			{ "title": "Skyview Elevator", "coords": { "x1": 0, "y1": 197, "x2": 197, "y2": 349 } },
 			"Communal Workspace"
 		],
+		"3426": "Satellite Space-way",
+		"3427": { "title": "Satellite Space-way: Nightcap House", "urlTitle": "Satellite_Space-way#Nightcap_House" },
 		"3503": [
 			{ "title": "Blossom Boardwalk", "coords": { "x1": 193, "y1": 3, "x2": 214, "y2": 19 } },
 			{ "title": "Strawberry Outskirts", "coords": { "x1": 225, "y1": 3, "x2": 246, "y2": 19 } },
