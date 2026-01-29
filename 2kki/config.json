@@ -1548,6 +1548,10 @@
 		],
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3136": "Red Black World",
+		"3154": [
+			{ "title": "Star Cubes World", "coords": { "x1": 0, "y1": 213, "x2": 99, "y2": 349 } },
+			"Dazzling Garden"
+		],
 		"3195": [
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
