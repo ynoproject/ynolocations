@@ -1552,6 +1552,10 @@
 			{ "title": "Star Cubes World", "coords": { "x1": 0, "y1": 213, "x2": 99, "y2": 349 } },
 			"Dazzling Garden"
 		],
+		"3191": [
+			{ "title": "Ballerina Forest", "coords": { "x1": 10, "y1": 178, "x2": 10, "y2": 178 } },
+			"Technicolor Towers"
+		],
 		"3195": [
 			{ "title": "Moss World", "coords": { "x1": 238, "y1": 24, "x2": 257, "y2": 43 } },
 			"Faerie Hollow"
