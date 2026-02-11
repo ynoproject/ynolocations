@@ -1548,10 +1548,23 @@
 		],
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3136": "Red Black World",
+		"3151":[
+			{ "title": "Painted Landscape", "coords": { "x1": 0, "y1": 18, "x2": 59, "y2": 55 } },
+			{ "title": "Blue Undergrowth", "coords": { "x1": 41, "y1": 0, "x2": 59, "y2": 15 } },
+			{ "title": "Dazzling Garden", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 15 } },
+			{ "title": "Waterworks", "coords": { "x1": 24, "y1": 76, "x2": 44, "y2": 89 } },
+			{ "title": "Red Desert Ruins", "coords": { "x1": 0, "y1": 72, "x2": 59, "y2": 74 } },
+			{ "title": "Red Desert Ruins", "coords": { "x1": 0, "y1": 76, "x2": 21, "y2": 89 } }
+		],
 		"3154": [
 			{ "title": "Star Cubes World", "coords": { "x1": 0, "y1": 213, "x2": 99, "y2": 349 } },
 			"Dazzling Garden"
 		],
+		"3158": {
+			"3157": "Cubic Cliffs",
+			"3151": "Painted Landscape",
+			"else": "Painted Landscape"
+		},
 		"3191": [
 			{ "title": "Ballerina Forest", "coords": { "x1": 10, "y1": 178, "x2": 10, "y2": 178 } },
 			"Technicolor Towers"
