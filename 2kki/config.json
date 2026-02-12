@@ -69,7 +69,7 @@
 		"0084": { "title": "Garden World: Monster Party", "urlTitle": "Garden_World" },
 		"0086": "Blue Forest",
 		"0092": { "title": "Heart World: Panel Passage", "urlTitle": "Heart_World#Panel_Passage" },
-		"0095": { "title": "Deciding Street: Bazaar", "urlTitle": "Deciding_Street#Bazaar" },
+		"0095": "Deciding Street",
 		"0096": { "title": "Heart World: Panel Passage", "urlTitle": "Heart_World#Panel_Passage" },
 		"0102": { "title": "Red Blue Yellow (Minigame B)", "urlTitle": "Game_Console#Red_Blue_Yellow_(Minigame_B)", "explorer": false },
 		"0114": { "title": "Concrete World: Concrete World B", "urlTitle": "Concrete_World#Concrete_World_B" },
@@ -851,6 +851,10 @@
 			{ "title": "Crazed Faces Maze", "coords": { "x1": 410, "y1": 460, "x2": 499, "y2": 499 } },
 			"Holiday Hell"
 		],
+		"1454": "Black Cocoon Clouds",
+		"1455": "Silhouette Road",
+		"1456": "Acid Sun Plain",
+		"1457": "Snail Sails",
 		"1461": "Urotsuki's Dream Apartments",
 		"1472": { "title": "Luminous Lake: Dragon's Peak", "urlTitle": "Luminous_Lake#Dragon's_Peak" },
 		"1476": "Rusted Factory",
@@ -1629,10 +1633,12 @@
 			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 29, "x2": 19, "y2": 29 } },
 			"Legacy of Ruin"
 		],
+		"3690": "Emotional Stones",
 		"3731": "Star Carpet World",
 		"3732": "Tele-pole Plains"
 	}
 }
+
 
 
 
