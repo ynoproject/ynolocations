@@ -1554,7 +1554,8 @@
 			{ "title": "Dazzling Garden", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 15 } },
 			{ "title": "Waterworks", "coords": { "x1": 24, "y1": 76, "x2": 44, "y2": 89 } },
 			{ "title": "Red Desert Ruins", "coords": { "x1": 0, "y1": 72, "x2": 59, "y2": 74 } },
-			{ "title": "Red Desert Ruins", "coords": { "x1": 0, "y1": 76, "x2": 21, "y2": 89 } }
+			{ "title": "Red Desert Ruins", "coords": { "x1": 0, "y1": 76, "x2": 21, "y2": 89 } },
+			"Painted Landscape"
 		],
 		"3154": [
 			{ "title": "Star Cubes World", "coords": { "x1": 0, "y1": 213, "x2": 99, "y2": 349 } },
