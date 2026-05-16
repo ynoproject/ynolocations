@@ -1628,7 +1628,22 @@
 			"Legacy of Ruin"
 		],
 		"3731": "Star Carpet World",
-		"3732": "Tele-pole Plains"
+		"3732": "Tele-pole Plains",
+		"4081": [
+			{ "title": "Orange Tile Path", "coords": { "x1": 198, "y1": 137, "x2": 299, "y2": 199 } },
+			"Edifices"
+		],
+		"4083" : [
+			{ "title": "Ethereal Lagoon", "coords": { "x1": 0, "y1": 0, "x2": 204, "y2": 206 } },
+			{ "title": "Dim Floors", "coords": { "x1": 0, "y1": 207, "x2": 204, "y2": 304 } }
+		],
+		"4088": [
+			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 379 } },
+			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 379 } },
+			{ "title": "Watching Forest", "coords": { "x1": 0, "y1": 0, "x2": 299, "y2": 79 } },
+			{ "title": "Watching Forest", "coords": { "x1": 104, "y1": 79, "x2": 299, "y2": 230 } },
+			{ "title": "Crimson Drains", "coords": { "x1": 136, "y1": 231, "x2": 299, "y2": 379 } }
+		]
 	}
 }
 
