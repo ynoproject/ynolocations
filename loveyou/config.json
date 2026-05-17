@@ -1,5 +1,6 @@
 {
     "ignoredMapIds": [ "0000", "0009", "0030" ],
+    "urlRoot": "https://yume.wiki/loveyou/",
     "mapLocations": {
         "0001": "Aitsuki's Home",
         "0002": "Nexus",

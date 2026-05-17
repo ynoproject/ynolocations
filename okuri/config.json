@@ -1,5 +1,6 @@
 {
     "ignoredMapIds": [ "0001", "0002", "0005", "0007", "0010" ],
+    "urlRoot": "https://yume.wiki/okuri/",
     "mapLocations": {
         "0003": "My Room",
         "0004": "My Room in Dream",

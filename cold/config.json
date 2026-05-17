@@ -2,6 +2,7 @@
         "ignoredMapIds": [
                 "0000", "0004"
         ],
+        "urlRoot": "https://yume.wiki/cold/",
         "mapLocations": {
                 "0002": "Home",
                 "0003": "Choice",

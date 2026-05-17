@@ -1,5 +1,6 @@
 {
     "ignoredMapIds": [ "0002", "0005", "0013", "0014", "0035", "0075", "0077", "0096", "0099" ],
+    "urlRoot": "https://yume.wiki/fog/",
     "mapLocations": {
         "0001": "Leon's Bedroom",
         "0003": "Leon's Balcony",
