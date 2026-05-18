@@ -1633,6 +1633,16 @@
 			{ "title": "Orange Tile Path", "coords": { "x1": 198, "y1": 137, "x2": 299, "y2": 199 } },
 			"Edifices"
 		],
+		"4082": [
+			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 128, "y1": 86, "x2": 149, "y2": 100 } },
+			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 0, "y1": 63, "x2": 21, "y2": 78 } },
+			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 92, "x2": 8, "y2": 97 } },
+			{ "title": "Limestone Dam", "coords": { "x1": 0, "y1": 101, "x2": 149, "y2": 85 } },
+			{ "title": "Collaged Complex A", "coords": { "x1": 128, "y1": 101, "x2": 149, "y2": 116 } },
+			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 117, "x2": 149, "y2": 209 } },
+			{ "title": "Deep Red Wilds:Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage", "coords": { "x1": 0, "y1": 210, "x2": 149, "y2": 224 } },
+			"Limestone Dam"
+		],
 		"4083" : [
 			{ "title": "Ethereal Lagoon", "coords": { "x1": 0, "y1": 0, "x2": 204, "y2": 206 } },
 			{ "title": "Dim Floors", "coords": { "x1": 0, "y1": 207, "x2": 204, "y2": 304 } }
