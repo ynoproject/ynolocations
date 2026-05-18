@@ -1634,7 +1634,10 @@
 			"Edifices"
 		],
 		"4082": [
-			{ "title": "Limestone Dam", "coords": { "x1": 0, "y1": 101, "x2": 149, "y2": 100 } },
+			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 128, "y1": 86, "x2": 149, "y2": 100 } },
+			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 0, "y1": 63, "x2": 21, "y2": 78 } },
+			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 92, "x2": 8, "y2": 97 } },
+			{ "title": "Limestone Dam", "coords": { "x1": 0, "y1": 101, "x2": 149, "y2": 85 } },
 			{ "title": "Collaged Complex A", "coords": { "x1": 128, "y1": 101, "x2": 149, "y2": 116 } },
 			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 117, "x2": 149, "y2": 209 } },
 			{ "title": "Deep Red Wilds:Prehistoric Passage", "coords": { "x1": 0, "y1": 210, "x2": 149, "y2": 224 } }
