@@ -1640,7 +1640,8 @@
 			{ "title": "Limestone Dam", "coords": { "x1": 0, "y1": 101, "x2": 149, "y2": 85 } },
 			{ "title": "Collaged Complex A", "coords": { "x1": 128, "y1": 101, "x2": 149, "y2": 116 } },
 			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 117, "x2": 149, "y2": 209 } },
-			{ "title": "Deep Red Wilds:Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage", "coords": { "x1": 0, "y1": 210, "x2": 149, "y2": 224 } }
+			{ "title": "Deep Red Wilds:Prehistoric Passage", "urlTitle": "Deep_Red_Wilds#Prehistoric_Passage", "coords": { "x1": 0, "y1": 210, "x2": 149, "y2": 224 } },
+			"Limestone Dam"
 		],
 		"4083" : [
 			{ "title": "Ethereal Lagoon", "coords": { "x1": 0, "y1": 0, "x2": 204, "y2": 206 } },
