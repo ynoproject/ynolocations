@@ -128,7 +128,7 @@
 		],
 		"0177": "Urotsuki's Dream Apartments",
 		"0178": "Urotsuki's Dream Apartments",
-		"0179": "Trophy Room",
+		"0179": { "title": "Urotsuki's Dream Apartments: Trophy Room", "urlTitle": "Urotsuki%27s_Dream_Apartments#Trophy_Room" },
 		"0183": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0184": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0185": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
@@ -1497,6 +1497,7 @@
 			{ "title": "Art Exposition", "coords": { "x1": 3, "y1": 153, "x2": 132, "y2": 199 } },
 			"Art Exposition"
 		],
+		"2831": "Urotsuki's Dream Apartments",
 		"2872": "Red Sun Outlook",
 		"2873": [
 			{ "title": "Azure Overdose Zone", "coords": { "x1": 1, "y1": 1, "x2": 22, "y2": 12 } },
