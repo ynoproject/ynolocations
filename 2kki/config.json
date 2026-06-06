@@ -1649,6 +1649,7 @@
 		],
 		"4084": [
 			{ "title": "Conservatory", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 52 } },
+			{ "title": "Collaged Complex A", "coords": { "x1": 56, "y1": 159, "x2": 99, "y2": 186 } },
 			{ "title": "Collaged Complex B", "coords": { "x1": 49, "y1": 53, "x2": 99, "y2": 77 } },
 			{ "title": "Collaged Complex B", "coords": { "x1": 62, "y1": 78, "x2": 99, "y2": 95 } },
 			{ "title": "Collaged Complex B", "coords": { "x1": 0, "y1": 112, "x2": 21, "y2": 197 } },
