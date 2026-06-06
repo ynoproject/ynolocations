@@ -1647,6 +1647,23 @@
 			{ "title": "Ethereal Lagoon", "coords": { "x1": 0, "y1": 0, "x2": 204, "y2": 206 } },
 			{ "title": "Dim Floors", "coords": { "x1": 0, "y1": 207, "x2": 204, "y2": 304 } }
 		],
+		"4084": [
+			{ "title": "Conservatory", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 52 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 49, "y1": 53, "x2": 99, "y2": 77 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 62, "y1": 78, "x2": 99, "y2": 95 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 0, "y1": 112, "x2": 21, "y2": 197 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 21, "y1": 143, "x2": 63, "y2": 159 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 49, "y1": 53, "x2": 63, "y2": 188 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 46, "y1": 188, "x2": 99, "y2": 216 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 69, "y1": 217, "x2": 99, "y2": 238 } },
+			{ "title": "Collaged Complex A", "coords": { "x1": 0, "y1": 355, "x2": 99, "y2": 369 } },
+			"Collaged Complex A"
+		],
+		"4086": [
+			{ "title": "Watching Forest", "coords": { "x1": 0, "y1": 214, "x2": 150, "y2": 289 } },
+			{ "title": "Dreadful City", "coords": { "x1": 0, "y1": 0, "x2": 51, "y2": 40 } },
+			"Dreadful City"
+		],
 		"4088": [
 			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 379 } },
 			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 379 } },
