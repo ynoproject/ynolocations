@@ -16,8 +16,8 @@
         "0013": "Bloody Forest",
         "0014": "Love Drains",
         "0015": { "title": "Cherry Bar", "urlTitle": "Love Drains" },
-        "0016": { "title": "Aitsuki's Computer", "urlTitle": "Aitsuki's Home" },
-        "0017": { "title": "Aitsuki's Computer", "urlTitle": "Aitsuki's Home" },
+        "0016": "Aitsuki's Computer",
+        "0017": "Aitsuki's Computer",
         "0018": "Railroad Forest",
         "0019": "Copper Pipe Maze",
         "0020": "Infected Veins",
@@ -71,8 +71,8 @@
         "0069": "Spring Cemetery",
         "0070": "Greasy Town",
         "0071": "Greasy Town",
-        "0072": { "title": "Aitsuki's Computer", "urlTitle": "Aitsuki's Home" },
-        "0073": { "title": "Aitsuki's Computer", "urlTitle": "Aitsuki's Home" },
+        "0072": "Aitsuki's Computer",
+        "0073": "Aitsuki's Computer",
         "0074": "Black Market",
         "0075": { "title": "Market Passage", "urlTitle": "Black Market" },
         "0076": "Oxidized Passage",
@@ -115,11 +115,11 @@
         "0115": "Theatre",
         "0116": "Theatre",
         "0117": "Theatre",
-        "0118": { "title": "Noir Hotel", "urlTitle": "Noir Walk" },
-        "0119": { "title": "Noir Hotel", "urlTitle": "Noir Walk" },
-        "0120": { "title": "Noir Hotel", "urlTitle": "Noir Walk" },
-        "0121": { "title": "Noir Hotel", "urlTitle": "Noir Walk" },
-        "0122": { "title": "Noir Hotel", "urlTitle": "Noir Walk" },
+        "0118": "Noir Hotel",
+        "0119": "Noir Hotel",
+        "0120": "Noir Hotel",
+        "0121": "Noir Hotel",
+        "0122": "Noir Hotel",
         "0123": "Palliative Ward",
         "0124": { "title": "Sunset Fields", "urlTitle": "Blooming Passage" },
         "0126": "Palliative Ward",
@@ -139,5 +139,9 @@
         "0146": "Nostalgic House",
         "0147": "Nostalgic House",
         "0155": "Neon Bear Disco"
+    },
+    "locationUrlTitles": {
+        "Aitsuki's Computer": "Aitsuki's Home",
+        "Noir Hotel": "Noir Walk"
     }
 }

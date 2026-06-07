@@ -133,8 +133,8 @@
         "0138": { "title": "Office Complex: Another Landing", "urlTitle": "Office Complex" },
         "0139": "White Desert",
         "0140": "Nowhere",
-        "0141": { "title": "Ending Credits", "urlTitle": "Endings" },
-        "0142": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0141": "Ending Credits",
+        "0142": "Ending Credits",
         "0143": { "title": "Ending A", "urlTitle": "Endings" },
         "0144": "Heaven",
         "0145": { "title": "Office Complex: Vacant Room", "urlTitle": "Office Complex" },
@@ -167,15 +167,15 @@
         "0172": { "title": "Another Blood Path", "urlTitle": "Blood Maze" },
         "0173": { "title": "Red Temple: Bloody Hallway", "urlTitle": "Red Temple" },
         "0174": { "title": "Red Temple: Treasure Room", "urlTitle": "Red Temple" },
-        "0175": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0175": "Ending Credits",
         "0176": { "title": "Ending C", "urlTitle": "Endings" },
-        "0177": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0177": "Ending Credits",
         "0178": { "title": "Ending D", "urlTitle": "Endings" },
-        "0179": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0179": "Ending Credits",
         "0180": { "title": "Ending E", "urlTitle": "Endings" },
-        "0181": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0181": "Ending Credits",
         "0182": { "title": "Ending F", "urlTitle": "Endings" },
-        "0183": { "title": "Ending Credits", "urlTitle": "Endings" },
+        "0183": "Ending Credits",
         "0184": { "title": "Ending G", "urlTitle": "Endings" },
         "0185": { "title": "Grass World: Top of Pyramid", "urlTitle": "Grass World" },
         "0186": { "title": "Good-bye Stranger: Level 1-2", "urlTitle": "Leon's Bedroom" },
@@ -185,5 +185,8 @@
         "0190": { "title": "Good-bye Stranger: Level 3-2", "urlTitle": "Leon's Bedroom" },
         "0191": { "title": "Good-bye Stranger: Level 4-1", "urlTitle": "Leon's Bedroom" },
         "0192": { "title": "Good-bye Stranger: Level F-F", "urlTitle": "Leon's Bedroom" }
+    },
+    "locationUrlTitles": {
+        "Ending Credits": "Endings"
     }
 }
