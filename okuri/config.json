@@ -3,7 +3,7 @@
     "urlRoot": "https://yume.wiki/okuri/",
     "mapLocations": {
         "0003": "My Room",
-        "0004": { "title": "My Room in Dream", "urlTitle": "My Room" },
+        "0004": { "title": "My Room in Dream", "urlTitle": "My_Room" },
         "0006": "Calendar",
         "0008": "Home",
         "0009": "Home",
@@ -36,10 +36,10 @@
         "0037": "Building",
         "0038": "Building",
         "0039": "Building",
-        "0040": { "title": "Bedroom", "urlTitle": "Maple Pattern" },
+        "0040": { "title": "Bedroom", "urlTitle": "Maple_Pattern" },
         "0041": "Windowed Corridor",
         "0042": { "title": "Bell Passage", "urlTitle": "Maze" },
-        "0043": { "title": "Icicle Road", "urlTitle": "Bus Stop" },
+        "0043": { "title": "Icicle Road", "urlTitle": "Bus_Stop" },
         "0044": "Seaside Town",
         "0045": "Building",
         "0046": "Smoky Sand",
@@ -50,15 +50,15 @@
         "0051": { "title": "Tatami Room", "urlTitle": "Ceremony" },
         "0052": "Flower Corridor",
         "0053": "Flower Corridor",
-        "0054": { "title": "Flower Box", "urlTitle": "Flower Corridor" },
-        "0055": { "title": "Ash Box", "urlTitle": "Flower Corridor" },
-        "0056": { "title": "Flower Pathway", "urlTitle": "Flower Corridor" },
-        "0057": { "title": "Futon Room", "urlTitle": "Flower Corridor" },
+        "0054": { "title": "Flower Box", "urlTitle": "Flower_Corridor" },
+        "0055": { "title": "Ash Box", "urlTitle": "Flower_Corridor" },
+        "0056": { "title": "Flower Pathway", "urlTitle": "Flower_Corridor" },
+        "0057": { "title": "Futon Room", "urlTitle": "Flower_Corridor" },
         "0058": "Field of Sunflowers"
     },
     "locationUrlTitles": {
-        "Home": "My Room",
+        "Home": "My_Room",
         "Windowed Corridor": "Veranda",
-        "Building": "Department Store"
+        "Building": "Department_Store"
     }
 }
