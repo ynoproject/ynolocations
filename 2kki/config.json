@@ -1548,6 +1548,7 @@
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3136": "Red Black World",
 		"3151":[
+			{ "title": "Dim Floors", "coords": { "x1": 40, "y1": 71, "x2": 59, "y2": 89 } },
 			{ "title": "Painted Landscape", "coords": { "x1": 0, "y1": 18, "x2": 59, "y2": 55 } },
 			{ "title": "Blue Undergrowth", "coords": { "x1": 41, "y1": 0, "x2": 59, "y2": 15 } },
 			{ "title": "Dazzling Garden", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 15 } },
@@ -1563,6 +1564,8 @@
 		"3158": {
 			"3157": "Cubic Cliffs",
 			"3151": "Painted Landscape",
+			"3158": "Dim Floors",
+			"4083": "Dim Floors",
 			"else": "Painted Landscape"
 		},
 		"3191": [
@@ -1666,8 +1669,10 @@
 			"Dreadful City"
 		],
 		"4088": [
-			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 379 } },
-			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 379 } },
+			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 300 } },
+			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 300 } },
+			{ "title": "Crimson Drains", "coords": { "x1": 0, "y1": 301, "x2": 135, "y2": 379 } },
+			{ "title": "Crimson Drains", "coords": { "x1": 258, "y1": 0, "x2": 278, "y2": 15 } },
 			{ "title": "Watching Forest", "coords": { "x1": 0, "y1": 0, "x2": 299, "y2": 79 } },
 			{ "title": "Watching Forest", "coords": { "x1": 104, "y1": 79, "x2": 299, "y2": 230 } },
 			{ "title": "Crimson Drains", "coords": { "x1": 136, "y1": 231, "x2": 299, "y2": 379 } }
