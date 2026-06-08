@@ -1666,8 +1666,10 @@
 			"Dreadful City"
 		],
 		"4088": [
-			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 379 } },
-			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 379 } },
+			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 300 } },
+			{ "title": "Rainy Bridges", "coords": { "x1": 98, "y1": 208, "x2": 135, "y2": 300 } },
+			{ "title": "Crimson Drains", "coords": { "x1": 0, "y1": 301, "x2": 135, "y2": 379 } },
+			{ "title": "Crimson Drains", "coords": { "x1": 258, "y1": 0, "x2": 278, "y2": 15 } },
 			{ "title": "Watching Forest", "coords": { "x1": 0, "y1": 0, "x2": 299, "y2": 79 } },
 			{ "title": "Watching Forest", "coords": { "x1": 104, "y1": 79, "x2": 299, "y2": 230 } },
 			{ "title": "Crimson Drains", "coords": { "x1": 136, "y1": 231, "x2": 299, "y2": 379 } }
