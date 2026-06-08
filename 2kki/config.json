@@ -128,7 +128,7 @@
 		],
 		"0177": "Urotsuki's Dream Apartments",
 		"0178": "Urotsuki's Dream Apartments",
-		"0179": "Trophy Room",
+		"0179": { "title": "Urotsuki's Dream Apartments: Trophy Room", "urlTitle": "Urotsuki%27s_Dream_Apartments#Trophy_Room" },
 		"0183": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0184": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
 		"0185": { "title": "Monochrome Feudal Japan: Monochrome Path", "urlTitle": "Monochrome_Feudal_Japan#Monochrome_Path" },
@@ -1497,6 +1497,7 @@
 			{ "title": "Art Exposition", "coords": { "x1": 3, "y1": 153, "x2": 132, "y2": 199 } },
 			"Art Exposition"
 		],
+		"2831": "Urotsuki's Dream Apartments",
 		"2872": "Red Sun Outlook",
 		"2873": [
 			{ "title": "Azure Overdose Zone", "coords": { "x1": 1, "y1": 1, "x2": 22, "y2": 12 } },
@@ -1634,8 +1635,8 @@
 			"Edifices"
 		],
 		"4082": [
-			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 128, "y1": 86, "x2": 149, "y2": 100 } },
-			{ "title": "Urotsuki’s Dream Apartments", "coords": { "x1": 0, "y1": 63, "x2": 21, "y2": 78 } },
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 128, "y1": 86, "x2": 149, "y2": 100 } },
+			{ "title": "Urotsuki's Dream Apartments", "coords": { "x1": 0, "y1": 63, "x2": 21, "y2": 78 } },
 			{ "title": "Blinking Maze", "coords": { "x1": 0, "y1": 92, "x2": 8, "y2": 97 } },
 			{ "title": "Limestone Dam", "coords": { "x1": 0, "y1": 101, "x2": 149, "y2": 85 } },
 			{ "title": "Collaged Complex A", "coords": { "x1": 128, "y1": 101, "x2": 149, "y2": 116 } },
@@ -1646,6 +1647,23 @@
 		"4083" : [
 			{ "title": "Ethereal Lagoon", "coords": { "x1": 0, "y1": 0, "x2": 204, "y2": 206 } },
 			{ "title": "Dim Floors", "coords": { "x1": 0, "y1": 207, "x2": 204, "y2": 304 } }
+		],
+		"4084": [
+			{ "title": "Conservatory", "coords": { "x1": 0, "y1": 0, "x2": 99, "y2": 52 } },
+			{ "title": "Collaged Complex A", "coords": { "x1": 56, "y1": 159, "x2": 99, "y2": 186 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 49, "y1": 53, "x2": 99, "y2": 77 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 62, "y1": 78, "x2": 99, "y2": 95 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 0, "y1": 112, "x2": 21, "y2": 197 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 21, "y1": 143, "x2": 63, "y2": 159 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 49, "y1": 53, "x2": 63, "y2": 188 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 46, "y1": 188, "x2": 99, "y2": 216 } },
+			{ "title": "Collaged Complex B", "coords": { "x1": 69, "y1": 217, "x2": 99, "y2": 238 } },
+			{ "title": "Collaged Complex A", "coords": { "x1": 0, "y1": 355, "x2": 99, "y2": 369 } },
+			"Collaged Complex A"
+		],
+		"4086": [
+			{ "title": "Dreadful City", "coords": { "x1": 0, "y1": 0, "x2": 51, "y2": 40 } },
+			"Dreadful City"
 		],
 		"4088": [
 			{ "title": "Rainy Bridges", "coords": { "x1": 0, "y1": 80, "x2": 97, "y2": 379 } },
