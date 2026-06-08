@@ -1548,6 +1548,7 @@
 		"3131": { "title": "Snow Black: Keyhole", "urlTitle": "Snow_Black#Keyhole" },
 		"3136": "Red Black World",
 		"3151":[
+			{ "title": "Dim Floors", "coords": { "x1": 40, "y1": 71, "x2": 59, "y2": 89 } },
 			{ "title": "Painted Landscape", "coords": { "x1": 0, "y1": 18, "x2": 59, "y2": 55 } },
 			{ "title": "Blue Undergrowth", "coords": { "x1": 41, "y1": 0, "x2": 59, "y2": 15 } },
 			{ "title": "Dazzling Garden", "coords": { "x1": 0, "y1": 0, "x2": 39, "y2": 15 } },
@@ -1563,6 +1564,8 @@
 		"3158": {
 			"3157": "Cubic Cliffs",
 			"3151": "Painted Landscape",
+			"3158": "Dim Floors",
+			"4083": "Dim Floors",
 			"else": "Painted Landscape"
 		},
 		"3191": [
