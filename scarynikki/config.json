@@ -1,12 +1,12 @@
 {
     "ignoredMapIds": [
-        "0000"
+        "0000", "0053"
     ],
     "mapLocations": {
         "0001": "Vaporwave Passage",
         "0002": "FC Dungeon",
         "0003": "Blood World",
-        "0004": "Forest world",
+        "0004": "Forest World",
         "0005": "Dudes World",
         "0006": "Rainbow Tiles World",
         "0007": "FC Dungeon",
@@ -29,7 +29,7 @@
         "0024": "Dark Forest",
         "0025": "Dark Forest",
         "0026": "don't go there",
-        "0027": "Rain world",
+        "0027": "Rain World",
         "0028": "Dark Tiles World",
         "0029": "Spikes Plaza",
         "0031": "Monochrome World",
@@ -47,11 +47,10 @@
         "0045": "Desert",
         "0046": "Desert",
         "0048": "Under Desert",
-        "0049": "Lava docks",
-        "0050": "Lava docks",
+        "0049": "Lava Docks",
+        "0050": "Lava Docks",
         "0051": "Hospital",
         "0052": "The Dragon",
-        "0053": "Intro",
         "0054": "Guys World",
         "0055": "The Stair",
         "0056": "Guys Room",
@@ -77,7 +76,7 @@
         "0084": "Desert Party",
         "0085": "Green Sea",
         "0087": "aaaaa",
-        "0088": "Terfin's room",
+        "0088": "Terfin's Room",
         "0090": "Dark Place",
         "0091": "Birthday World"
     }
