@@ -1631,6 +1631,10 @@
 			{ "title": "Snowdrop Garden", "coords": { "x1": 201, "y1": 109, "x2": 245, "y2": 162 } },
 			"Windy Factory"
 		],
+		"3506": [
+			{ "title": "Industrial Shoal", "coords": { "x1": 79, "y1": 0, "x2": 99, "y2": 179 } },
+			"Blossom Boardwalk"
+		],
 		"3531": [
 			{ "title": "Underneath", "coords": { "x1": 0, "y1": 25, "x2": 19, "y2": 25 } },
 			{ "title": "Tea Ruins", "coords": { "x1": 0, "y1": 29, "x2": 19, "y2": 29 } },
