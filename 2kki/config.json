@@ -69,7 +69,7 @@
 		"0084": { "title": "Garden World: Monster Party", "urlTitle": "Garden_World" },
 		"0086": "Blue Forest",
 		"0092": { "title": "Heart World: Panel Passage", "urlTitle": "Heart_World#Panel_Passage" },
-		"0095": { "title": "Deciding Street: Bazaar", "urlTitle": "Deciding_Street#Bazaar" },
+		"0095": "Deciding Street",
 		"0096": { "title": "Heart World: Panel Passage", "urlTitle": "Heart_World#Panel_Passage" },
 		"0102": { "title": "Red Blue Yellow (Minigame B)", "urlTitle": "Game_Console#Red_Blue_Yellow_(Minigame_B)", "explorer": false },
 		"0114": { "title": "Concrete World: Concrete World B", "urlTitle": "Concrete_World#Concrete_World_B" },
@@ -1447,6 +1447,10 @@
 			"Blood Chalice Desolation"
 		],
 		"2750": { "title": "Mutant Nexus", "urlTitle": "Nexus#Mutant_Nexus" },
+		"2762": [
+			{ "title": "Hazy Paint World", "coords": { "x1": 60, "y1": 0, "x2": 79, "y2": 14 } },
+			"Somber Establishment"
+		],
 		"2793": [
 			{ "title": "Vinegar Vicinity", "coords": { "x1": 300, "y1": 0, "x2": 474, "y2": 154 } },
 			"Cheesecake Mountain"
