@@ -967,7 +967,7 @@
 			{ "title": "Crystal Lake", "coords": { "x1": 0, "y1": 0, "x2": 85, "y2": 79 } },
 			{ "title": "Dream Easter Island", "coords": { "x1": 86, "y1": 0, "x2": 199, "y2": 79 } },
 			{ "title": "Lemon World", "coords": { "x1": 200, "y1": 0, "x2": 279, "y2": 79 } },
-			{ "title": "Chicken World", "x1": 0, "y1": 80, "x2": 85, "y2": 159 },
+			{ "title": "Chicken World", "coords": { "x1": 0, "y1": 80, "x2": 85, "y2": 159 } },
 			{ "title": "Floating Beer Isle", "coords": { "x1": 86, "y1": 80, "x2": 199, "y2": 159 } },
 			{ "title": "Nazca Valley", "coords": { "x1": 200, "y1": 80, "x2": 279, "y2": 159 } }
 		],
