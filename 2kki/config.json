@@ -1446,7 +1446,7 @@
 			{ "title": "Grease Desert", "coords": { "x1": 0, "y1": 21, "x2": 94, "y2": 37 } },
 			"Blood Chalice Desolation"
 		],
-		"2750": { "title": "Mutant Nexus", "urlTitle": "Nexus#Mutant_Nexus" },
+		"2750": "Mutant Nexus",
 		"2762": [
 			{ "title": "Hazy Paint World", "coords": { "x1": 60, "y1": 0, "x2": 79, "y2": 14 } },
 			"Somber Establishment"
@@ -1643,6 +1643,8 @@
 		"3612": "Water's Edge",
 		"3731": "Star Carpet World",
 		"3732": "Tele-pole Plains",
+		"3806": "Mutant Nexus",
+		"3809": "Mutant Nexus",
 		"4081": [
 			{ "title": "Orange Tile Path", "coords": { "x1": 198, "y1": 137, "x2": 299, "y2": 199 } },
 			"Edifices"
