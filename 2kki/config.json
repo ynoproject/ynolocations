@@ -1451,6 +1451,10 @@
 			{ "title": "Hazy Paint World", "coords": { "x1": 60, "y1": 0, "x2": 79, "y2": 14 } },
 			"Somber Establishment"
 		],
+		"2763": [
+			{ "title": "Lemonade Pool", "coords": { "x1": 7, "y1": 108, "x2": 35, "y2": 113 } },
+			"Lemonade Edifice"
+		],
 		"2793": [
 			{ "title": "Vinegar Vicinity", "coords": { "x1": 300, "y1": 0, "x2": 474, "y2": 154 } },
 			"Cheesecake Mountain"
